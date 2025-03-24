@@ -1,0 +1,101 @@
+ID_Usuario,Nombre_Completo,DNI,Direccion,Numero_Telefono,Correo_Electronico,Informacion_Bancaria,Historial_Medico,Fecha_Nacimiento,Preferencias_Compra,IP_Acceso,Contrasena_Hash
+1,Dr(a). Guadalupe Soria,85638795,"Av. 5 N° 6590 Dto. 3
+Paraná 3100, Entre Ríos",+54 9 3228 2837,valentincoronel@example.net,****-****-****-5712,Gripe,1969-11-04,Alimentos,55.82.251.154,4f893c0ed5b87148de41ecc39cb0b9da973f1c3b50cb3fe1a59e13653fcff22e
+2,Lautaro Ezequiel Lautaro Cruz Gonzalez,66061119,"Diag. Jujuy N° 1678 Oficina 84
+Posadas 3300, Misiones",+54 9 3573 6262,romeroaugusto@example.org,****-****-****-6430,Dolor de cabeza,1982-02-14,Electrónicos,31.10.92.159,b3f8a5c7f75a658c24f4cca2e24a3478c688b467a13bf81ff4c736d1fc88a348
+3,Sr(a). Lautaro Coronel,25740473,"Av. Rivadavia N° 883 Torre 6 Dto. 8
+San Juan 5400, San Juan",+54 9 3109 7996,maximorodriguez@example.com,****-****-****-4288,Ninguno,1986-04-01,Alimentos,7.42.150.230,a155c298299252ba7399edcece3924d44ad46059ddd18d4a0b5fd3b5a10c6682
+4,Sr(a). Bautista Martinez,84077670,"Calle Ushuaia N° 259
+San Juan 5400, San Juan",+54 9 3686 7008,juan-gabrielromero@example.org,****-****-****-4380,Ninguno,1997-08-23,Ropa,172.156.178.116,ead3c6851e221819e7eb7b5a6cf83a69dcd3de25296d432e1d6e20ae4c6b9ebd
+5,Juan Pablo Ruiz Acosta,45678358,"Blv. Alvear N° 124 Local 18
+Constitución 1004, Ciudad Autónoma de Buenos Aires",+54 9 3770 9128,kgodoy@example.com,****-****-****-5384,Dolor de cabeza,1994-01-05,Alimentos,223.229.20.181,77f8023cb3450ab1d980ee0ed684f1f75b1286037f3d80c0e4dbb3ce348e75b0
+6,Benjamin Joaquin Maldonado Cruz,83066834,"Calle Río Negro N° 7399 Oficina 34
+Comodoro Rivadavia 9000, Chubut",+54 15 2345 1695,maria-emilia87@example.org,****-****-****-7657,Gripe,1983-09-15,Alimentos,187.180.248.21,8e61b576b724deb92ee9e64a3ee2981de7069b3ea63be9e02e50229941fc6358
+7,Maximo Francisca Gonzalez,17557105,"Calle Bahía Blanca N° 311 Local 78
+Chilecito 5360, La Rioja",+54 9 3920 7303,dbenitez@example.com,****-****-****-1871,Gripe,1959-11-12,Alimentos,41.234.171.154,e12178c52ebd438dfa5b83347b73170be504a48d94566b6253a825f456358b48
+8,Dr(a). Bruno Acosta,27857430,"Av. Neuquén N° 36
+La Plata 1900, Buenos Aires",+54 15 2610 0007,brodriguez@example.net,****-****-****-7487,Dolor de cabeza,1984-03-22,Ropa,16.26.54.219,3d6f1f4bbd8c94a56c4df0eaf31a3d110cb0355070d702e12d51d402d7800265
+9,Valentina Jazmin Cardozo Vazquez,70730823,"Camino 189 B N° 8850 Local 9
+San Juan 5400, San Juan",+54 15 2522 9453,ambar77@example.com,****-****-****-7606,Dolor de cabeza,1979-09-14,Libros,204.198.118.110,3186fe30a801fc6e5126cddb3cd7fc663512b4108c598f631b43c33510faa799
+10,Mia Pereyra,88101821,"Av. J.B. Alberdi N° 45
+San Luis 5700, San Luis",+54 9 3937 9631,delfina96@example.org,****-****-****-5109,Gripe,1977-06-10,Alimentos,205.126.244.2,5fc92e1dc2f2578f3fc5ec70faff910ddee33e879c5665803b4f99abd6accff0
+11,Sr(a). Victoria Ruiz,31779067,"Av. Rivadavia N° 891
+Chilecito 5360, La Rioja",+54 15 2672 2805,aguirrelucia@example.net,****-****-****-5407,Alergia,2004-12-29,Electrónicos,107.119.3.27,73a6017ea8e6e78d355a1122e7977e511033f015c5b68bb13e248cf6b9f2db40
+12,Alma Jazmin Dominguez Rojas,73925008,"Diagonal 1 N° 732
+Santa Rosa 6300, La Pampa",+54 15 2450 8316,santinogomez@example.net,****-****-****-6307,Alergia,2000-10-08,Libros,114.201.43.10,8778c827f613cd687eec919f24e3966a56d88b7af87e7703912f4363b3da28af
+13,Dr(a). Mateo Benjamin Escobar,80056519,"Diagonal J.M. de Rosas N° 366
+Salta 4400, Salta",+54 9 3660 1192,lucia33@example.com,****-****-****-8343,Dolor de cabeza,1996-07-17,Alimentos,122.118.128.190,f8c9f55c5d4093f36855db64dddad460dbf0b1bc7f87b2f5b7925ec2f46947ae
+14,Maria Luz Valentino Navarro,65063392,"Diagonal 3 N° 5446
+Chilecito 5360, La Rioja",+54 9 3679 4709,medinafacundo@example.net,****-****-****-4624,Ninguno,1949-11-22,Libros,13.253.43.227,e0d22ac4d86ba7453822e1ee22b0b7beb06f15aa005521710d3ed42beaf96e8d
+15,Simon Santiago Perez Gomez,16008006,"Diagonal Mendoza N° 2676 Piso 9 Dto. 2
+Paraná 3100, Entre Ríos",+54 15 2373 7954,fernandezvioleta@example.com,****-****-****-6870,Dolor de cabeza,1985-11-30,Libros,76.217.113.62,7eed5d6e712b091e33cc49f7093089206761e2066d753c959a0c3532aac29555
+16,Dr(a). Emiliano Flores,87272197,"Diag. Saavedra N° 253 Dto. 9
+San Juan 5400, San Juan",+54 9 3895 4870,matildagonzalez@example.org,****-****-****-7800,Alergia,1996-01-03,Electrónicos,159.134.138.22,11f6bb92c757acc28450c6afd04af5be89eb550a292e67b27f172f59a2fc7d75
+17,Tomàs Santino Gabriel Franco,92554824,"Av. Mitre N° 558 Local 8
+Formosa 3600, Formosa",+54 15 2371 6868,rodriguezagostina@example.org,****-****-****-3127,Ninguno,1971-04-10,Ropa,106.120.18.255,5a4a940b0f27e7712c856af98ffd7222f604ba49633fd6e5ec03bdac39e7292a
+18,Sr(a). Lucio Peralta,55196420,"Diagonal 2 N° 7776
+Chilecito 5360, La Rioja",+54 15 2126 4248,troldan@example.com,****-****-****-2044,Dolor de cabeza,1976-10-05,Libros,14.249.107.218,e2765b675a1e659f353856dc47435f24c11e280df9c885cd651fb82bb0cb0d8c
+19,Dr(a). Benjamin Peralta,35891937,"Blv. Tierra del Fuego N° 7388
+Paraná 3100, Entre Ríos",+54 15 2687 7041,isabellacampos@example.org,****-****-****-4898,Dolor de cabeza,1998-02-27,Alimentos,136.162.95.70,93e3b0c5d442a4af5d2457d3e09cc2fd35a1f07fd818b490f3c6b89007e8c35e
+20,Genaro Martin Lopez,17793749,"Calle Buenos Aires N° 777 Piso 4 Dto. 4
+Viedma 8500, Río Negro",+54 15 2175 5992,luana85@example.net,****-****-****-8302,Gripe,1984-03-21,Libros,79.155.4.202,e947394344b1591984af280cb385945cc57758c9d3ea6e48d65216481eec33c4
+21,Thiago Sofia Martinez,31018567,"Diagonal 1 N° 3048
+Bahía Blanca 8000, Buenos Aires",+54 9 3578 2880,mateo-benjamin11@example.com,****-****-****-7976,Dolor de cabeza,1946-01-28,Alimentos,121.213.63.24,d4fbb4f048fee838846409cdd738440ab6ae79aff029165ce8ed5812a8238dc9
+22,Violeta Emma Diaz,23825819,"Boulevard 5 N° 8735 Local 19
+Bahía Blanca 8000, Buenos Aires",+54 9 3821 5676,peraltanina@example.com,****-****-****-4718,Alergia,1982-02-25,Alimentos,106.199.196.147,e6d9d54d6994ae90d61b8f16dac584465fe2486a7a968351a13fe6fc6f7302f9
+23,Mia Valentina Lautaro Nicolas Roldan,26926897,"Av. Misiones N° 61 Oficina 68
+Formosa 3600, Formosa",+54 9 3789 2819,fariassalvador@example.com,****-****-****-3420,Ninguno,1995-03-27,Alimentos,187.183.76.72,6c0cad0f4e035fb655350b079117dd6801980222151a9c27962411b221969779
+24,Nahuel Clara Coronel,78286878,"Camino Malvinas Argentinas N° 692
+Constitución 1004, Ciudad Autónoma de Buenos Aires",+54 9 3344 9536,pereyramateo-joaquin@example.org,****-****-****-6161,Ninguno,1984-07-12,Alimentos,207.193.70.18,fa123c371bf6d7c2cb4e2106b663bb7c6356fb2a3a503e08318df39fc5a752b1
+25,Josefina Mendoza Cabrera,38750214,"Avenida Buenos Aires N° 449 Torre 2 Dto. 2
+San Juan 5400, San Juan",+54 9 3886 3561,mmiranda@example.com,****-****-****-6813,Gripe,1989-10-01,Ropa,53.214.89.172,418859eb899853d0bc17f249ea28fbc0ec5d2aa2fca3a6ac7b5548210b88b12e
+26,Dr(a). Ema Gomez,55587923,"Calle Buenos Aires N° 330 Local 84
+Resistencia 3500, Chaco",+54 15 2383 7564,bautista64@example.org,****-****-****-8527,Dolor de cabeza,1961-04-07,Alimentos,169.179.137.48,cad4df4f462c7de24bf6bcc6ffa37778e41462abd559b26181f2e7ae9dbf35fd
+27,Luciana Lola Ramirez,46145379,"Calle Güemes N° 551 Oficina 4
+San Miguel de Tucumán 4000, Tucumán",+54 9 3875 5003,martinezlucas@example.net,****-****-****-6010,Alergia,1999-09-07,Electrónicos,157.96.117.11,35c072d9c299aa62222ad35096e6f94af0537536c4d2172d421a38e9244fd098
+28,Paula Guzman Acuña,97905243,"Calle 2 N° 434
+San Salvador de Jujuy 4600, Jujuy",+54 9 3619 4787,bmartinez@example.net,****-****-****-2513,Dolor de cabeza,1969-12-23,Libros,8.235.155.126,552e67721699669b19c1e37caadfc8cfe59a06484d5ca68c97264fda7a283143
+29,Justina Tiziano Fernandez Romero,61778123,"Diagonal J.M. de Rosas N° 368 Oficina 48
+Salta 4400, Salta",+54 9 3179 0323,juan-cruz22@example.org,****-****-****-7591,Gripe,1989-10-05,Electrónicos,123.26.145.159,838282125a99ba7422f85bea894e35be9a4cd1cd3a03f54745e0fc871bbedb91
+30,Santiago Ramirez Ayala,14310676,"Av. Santa Fe N° 671 Dto. 4
+Santiago del Estero 4200, Santiago del Estero",+54 15 2169 9574,ortizmartina@example.net,****-****-****-4804,Ninguno,1959-10-01,Alimentos,98.97.58.119,c218411fd40c40d6c8f7f60baeb7f6129db8ed11ae78195325cb1e0a21813508
+31,Lucas Muñoz,16353362,"Camino 9 N° 29
+Comodoro Rivadavia 9000, Chubut",+54 9 3181 9128,romerofelipe@example.net,****-****-****-8409,Dolor de cabeza,1954-02-13,Libros,63.132.37.65,0ba147e8f0c1d3104957bb1f00a3d5263d6e5674cc66ab2435cc46fe1b412acb
+32,Nicolas Martinez Aguero,82457320,"Avenida Chaco N° 3679 Torre 1 Dto. 6
+Salta 4400, Salta",+54 9 3721 8913,pmoyano@example.com,****-****-****-9384,Alergia,1951-02-08,Libros,166.34.123.35,53aea883f437d2b3f31debe165540621918d5acc34a621a5f7580f9ee09fa439
+33,Juan Cruz Josefina Medina Villalba,27924334,"Av. Corrientes N° 14
+Santa Fe 3000, Santa Fe",+54 15 2699 4536,julianabravo@example.org,****-****-****-1507,Gripe,1961-08-21,Electrónicos,83.80.23.197,f23464f829f2311156b8c7a018882d18d8226c77b9b6bb126330cdfb57170b83
+34,Lola Victoria Escobar Alvarez,65581844,"Av. Belgrano N° 3947 Piso 8 Dto. 9
+Chilecito 5360, La Rioja",+54 9 3640 1655,gacosta@example.net,****-****-****-5160,Ninguno,1976-10-24,Ropa,87.23.79.150,5de2d37039a7f14709af795791bccff96e1e8c6d6d2c73568bd12eb9f48b9625
+35,Dr(a). Joaquín Fernandez,85883851,"Avenida Santa Cruz N° 66
+San Juan 5400, San Juan",+54 9 3940 7292,hernandezjuana@example.org,****-****-****-7954,Alergia,1968-08-25,Libros,179.37.218.161,fc5bf2f7e831d35fdaf3591353275815e1c7a8f44f789591bb764d0d7516e0ac
+36,Sr(a). Luciano Ojeda,71544091,"Calle J.B. Alberdi N° 462
+La Plata 1900, Buenos Aires",+54 9 3290 5184,vazquezmartina@example.net,****-****-****-1136,Dolor de cabeza,1971-06-23,Ropa,187.141.93.213,60125d64b3924a47bc9dfb28b1cf0e3850512bde354e74767b2936738e2a00bd
+37,Julia Thiago Benjamin Aguirre,26418995,"Calle Río Gallegos N° 7116 Local 78
+Mar del Plata 7600, Buenos Aires",+54 15 2618 2091,cirogomez@example.com,****-****-****-3312,Alergia,2004-09-28,Electrónicos,69.176.143.28,b3e5076529d432d60a034376dfba227ff731942daa743616942f77b57a28e38a
+38,Valentina Castro,65165640,"Diag. 3 N° 239 Torre 6 Dto. 4
+Río Gallegos 9400, Santa Cruz",+54 9 3342 5991,hcastro@example.com,****-****-****-4889,Gripe,1962-10-13,Libros,82.188.194.121,1676c65d4d53e8de190adf37a073928694fa5db06454491ae18d70f2bd76e2f2
+39,Tomàs Gomez Gomez,26119434,"Calle Bahía Blanca N° 438
+La Rioja 5300, La Rioja",+54 15 2199 2589,ecastro@example.com,****-****-****-1580,Alergia,1981-01-13,Electrónicos,179.39.172.1,7455f973e47f42066ed6f3b62d54d090ea6dcfb64566a4828ff26a5cd5982fec
+40,Dr(a). Maria Paz Cruz,32947060,"Av. Córdoba N° 724 Piso 6 Dto. 9
+San Luis 5700, San Luis",+54 15 2235 0164,gonzalezbianca@example.com,****-****-****-6366,Dolor de cabeza,1945-11-18,Alimentos,40.113.6.231,0112e17152c9e4d3c0531df983a2026ae19fc9c13520461304ed778060766b5b
+41,Delfina Martina Moreno Bustos,40311936,"Calle Güemes N° 9088
+Rawson 9103, Chubut",+54 9 3449 9222,franciscodiaz@example.org,****-****-****-7734,Alergia,2005-06-06,Alimentos,42.201.159.135,d2427da194a0d5c55877cd367a6ae8119123f988c6c1ed2cb8410b756a4a5c58
+42,Catalina Gonzalez Lucero,53207722,"Diagonal Rivadavia N° 51 Torre 3 Dto. 2
+Córdoba 5000, Córdoba",+54 15 2785 2578,riverocamila@example.com,****-****-****-3581,Dolor de cabeza,1999-05-08,Libros,87.14.122.82,be402229a8c006a997ce7f0c812522efa5a433c56a7c851e60042c325ba4efcd
+43,Catalina Garcia Diaz,69088296,"Avenida Pte. Perón N° 8344
+San Miguel de Tucumán 4000, Tucumán",+54 9 3224 6921,bautista-benjamingutierrez@example.com,****-****-****-6373,Dolor de cabeza,1957-06-12,Alimentos,207.58.224.16,84d937c2f8e740519ad62f49e563a449d303e7d63daee59a9cd15828d7e0fb64
+44,Olivia Antonio Lopez Alvarez,24624769,"Diagonal Saavedra N° 4675
+Comodoro Rivadavia 9000, Chubut",+54 9 3614 8699,jazmin20@example.net,****-****-****-5597,Ninguno,2005-05-24,Ropa,11.28.124.199,0c4fa721adfa41731242eb3b01285445f8187ec90d531f284ff10b0dcef12303
+45,Mateo León Herrera,60259930,"Camino Saavedra N° 9827
+San Luis 5700, San Luis",+54 15 2457 7845,thiago-ezequielrodriguez@example.com,****-****-****-8212,Gripe,2007-02-10,Alimentos,76.65.201.192,a1993ff58290e35669d3349a6e5268b1c4493e697a25412b56fddf89ed40d016
+46,Valentino Francisco Dominguez,96583562,"Calle Salta N° 567
+Santa Rosa 6300, La Pampa",+54 15 2993 3726,munozalma-mia@example.com,****-****-****-8340,Alergia,2002-11-11,Ropa,159.82.121.175,7dbf9b927d3610f558c9c82afd97d52839c40ab9f118893d1ad18b644c487811
+47,Valentina Emma Fernandez Vazquez,60383562,"Av. 7 N° 790 Piso 5 Dto. 6
+San Luis 5700, San Luis",+54 15 2596 2291,lautaro-benjaminleiva@example.com,****-****-****-6404,Alergia,1962-03-21,Electrónicos,209.89.166.18,e2b59a4696974a5eb5a0e33bf2269ee209685dac01b65b497f90e72c358f5edd
+48,Juan Manuel Mateo Gomez,68477898,"Avenida San Miguel de Tucumán N° 88
+Ushuaia 9410, Tierra del Fuego",+54 9 3934 2460,aguerolautaro-gabriel@example.org,****-****-****-2065,Dolor de cabeza,1988-09-01,Alimentos,70.61.65.221,0597f86c94ae732b69ed2dcaca5063c39a3ba172bdc623a799abbd5ff3d22247
+49,Genaro Salvador Valdez Gomez,10997574,"Calle Santa Fe N° 5671 Torre 2 Dto. 7
+Santiago del Estero 4200, Santiago del Estero",+54 15 2757 9431,miguel-angel20@example.net,****-****-****-2973,Dolor de cabeza,1963-03-23,Ropa,149.38.245.205,3a7b740c797b737d7253753878efc29bd49712d73e14857dbeedb3d850d169cb
+50,Paulina Miranda Gonzalez,77737990,"Blv. Mitre N° 848
+Neuquén 8300, Neuquén",+54 9 3406 8927,gomezluciano@example.org,****-****-****-7593,Gripe,1947-10-27,Libros,77.245.70.67,7fea52edc4835a9d929613e9f7174308ba2f5655ec1ca2f239ca6cac745952de

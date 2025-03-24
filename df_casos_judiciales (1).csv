@@ -1,0 +1,101 @@
+ID_Caso,Fecha_Inicio,Tipo_Causa,Estado_Actual,Juzgado,Partes,Materia,Fecha_Ultima_Movimiento,Tiempo_Proceso_Dias,Fallo,Instancia,Tiene_Recurso,Documentos_Adjuntos
+1,2021-07-19,Laboral,Ejecución,Juzgado 8 de Córdoba,Valentino Martina Ferreyra Dominguez vs. Joaquin Dylan Castro Gutierrez,Daños y Perjuicios,2024-12-01,301,Conciliación,Cámara de Apelaciones,Sí,11
+2,2021-04-20,Civil,Apelación,Juzgado 5 de Posadas,Catalina Rodriguez Figueroa vs. Guadalupe Catalina Fernandez,Quiebra,2024-06-04,336,Conciliación,Primera Instancia,Sí,40
+3,2022-01-24,Comercial,Ejecución,Juzgado 13 de Posadas,Emilia Rodriguez vs. Malena Rios,Despido,2024-11-01,958,Conciliación,Primera Instancia,No,21
+4,2025-02-18,Civil,Ejecución,Juzgado 8 de La Rioja,Constantino Juarez Mansilla vs. Martina Aguirre,Daños y Perjuicios,2022-04-30,186,Favorable,Cámara de Apelaciones,No,8
+5,2020-09-06,Civil,Apelación,Juzgado 12 de Córdoba,Dr(a). Agustin Garcia vs. Josefina Lautaro Moreno Diaz,Robo,2022-11-02,333,Favorable,Cámara de Apelaciones,No,2
+6,2022-08-13,Laboral,En Curso,Juzgado 10 de Viedma,Juan Cruz Luna Dominguez vs. Felipe Avila Castro,Robo,2022-09-11,1163,Sin Definir,Corte Suprema,No,39
+7,2020-10-17,Penal,Apelación,Juzgado 9 de San Ferando del Valle de Catamarca,Pedro Angel Gabriel Sanchez Gonzalez vs. Benjamin Thiago Benjamin Diaz,Quiebra,2023-12-17,409,Sin Definir,Cámara de Apelaciones,No,43
+8,2025-01-19,Penal,En Curso,Juzgado 6 de Bahía Blanca,Alma Martinez vs. Camila Bravo,Daños y Perjuicios,2024-09-04,1711,Sin Definir,Corte Suprema,Sí,28
+9,2022-11-02,Civil,Pendiente de Juicio,Juzgado 8 de Chilecito,Dr(a). Luisana Gomez vs. Lisandro Juan Cruz Martinez,Quiebra,2023-05-24,968,Desfavorable,Primera Instancia,Sí,40
+10,2024-09-28,Civil,Pendiente de Juicio,Juzgado 11 de San Luis,Dr(a). Juan Bautista Medina vs. Francisco Ian Benjamin Ferreyra,Daños y Perjuicios,2023-11-07,672,Sin Definir,Primera Instancia,No,34
+11,2024-12-10,Laboral,Ejecución,Juzgado 5 de Santiago del Estero,Dr(a). Vicente Paz vs. Dr(a). Luca Fernandez,Robo,2024-11-03,536,Sin Definir,Primera Instancia,Sí,41
+12,2022-01-27,Comercial,Apelación,Juzgado 20 de Mendoza,Felipe Santino Romero vs. Thiago Nicolas Peralta Peralta,Despido,2023-11-18,856,Conciliación,Cámara de Apelaciones,Sí,32
+13,2021-09-06,Comercial,Pendiente de Juicio,Juzgado 17 de Mar del Plata,Thiago Daniel Villalba vs. Dr(a). Catalina Muñoz,Quiebra,2024-10-17,1666,Conciliación,Primera Instancia,Sí,27
+14,2025-03-19,Comercial,Pendiente de Juicio,Juzgado 14 de Rosario,Maximo Mateo Paz vs. Alfonsina Toledo,Quiebra,2023-05-17,1248,Desfavorable,Corte Suprema,No,44
+15,2020-09-14,Comercial,Apelación,Juzgado 3 de Paraná,Alma Ramos Mendez vs. Isabella Alexander Gimenez Godoy,Daños y Perjuicios,2022-01-05,639,Desfavorable,Cámara de Apelaciones,Sí,37
+16,2022-10-12,Laboral,Apelación,Juzgado 13 de Viedma,Dr(a). Isabella Lopez vs. Lorenzo Aguirre Herrera,Despido,2024-11-14,1374,Desfavorable,Corte Suprema,Sí,21
+17,2023-07-07,Comercial,Pendiente de Juicio,Juzgado 8 de Córdoba,Dr(a). Benjamin Romero vs. Dr(a). Franco Martinez,Robo,2023-02-19,310,Favorable,Primera Instancia,No,0
+18,2024-08-06,Penal,Apelación,Juzgado 14 de Resistencia,Emma Ignacio Pereyra vs. Angelina Thiago Nahuel Rojas Lopez,Quiebra,2024-09-14,1447,Sin Definir,Cámara de Apelaciones,Sí,3
+19,2020-07-09,Comercial,En Curso,Juzgado 5 de Chilecito,Valentina Juan Pablo Fernandez Ruiz vs. Sr(a). Martina Paez,Despido,2024-03-23,293,Conciliación,Corte Suprema,No,3
+20,2021-12-10,Laboral,Pendiente de Juicio,Juzgado 8 de Ushuaia,Facundo Bautista Castillo Herrera vs. Salvador Luna Ferreyra,Robo,2024-03-30,1205,Desfavorable,Primera Instancia,No,4
+21,2024-03-03,Penal,Pendiente de Juicio,Juzgado 16 de Neuquén,Bastian Julieta Bravo Rodriguez vs. Sr(a). Francesca Dominguez,Despido,2023-10-20,1757,Sin Definir,Corte Suprema,Sí,13
+22,2022-07-02,Penal,En Curso,Juzgado 9 de Viedma,Sr(a). Violeta Dominguez vs. Geronimo Correa Mendez,Robo,2024-10-25,1131,Conciliación,Primera Instancia,No,20
+23,2024-09-01,Penal,Pendiente de Juicio,Juzgado 6 de Salta,Dr(a). Maximo Perez vs. Sebastian Navarro Juarez,Quiebra,2024-06-23,1004,Desfavorable,Corte Suprema,Sí,29
+24,2024-06-19,Laboral,En Curso,Juzgado 17 de Ushuaia,Lucía Gonzalez vs. Malena Ciro Arias,Quiebra,2024-07-04,1288,Conciliación,Primera Instancia,No,32
+25,2020-11-16,Civil,Ejecución,Juzgado 9 de San Salvador de Jujuy,Lucía Lautaro Nicolas Lopez Ramos vs. Gabriel Miranda,Quiebra,2025-01-31,720,Favorable,Cámara de Apelaciones,Sí,33
+26,2023-10-24,Civil,Pendiente de Juicio,Juzgado 13 de Merlo,Isabella Acuña vs. Benicio Rodriguez Farias,Robo,2024-06-21,893,Desfavorable,Cámara de Apelaciones,No,46
+27,2022-02-19,Penal,Pendiente de Juicio,Juzgado 1 de Chilecito,Josefina Silva vs. Thiago Agustin Suarez Torres,Despido,2022-06-17,888,Favorable,Corte Suprema,Sí,9
+28,2020-11-22,Civil,Pendiente de Juicio,Juzgado 12 de Santiago del Estero,Ignacio Tiziano Ledesma vs. Ema Franco Gimenez,Daños y Perjuicios,2023-10-16,684,Desfavorable,Primera Instancia,Sí,47
+29,2021-05-17,Civil,Apelación,Juzgado 5 de Mendoza,Emilia Pereyra Gomez vs. Lola Olivia Muñoz,Despido,2024-12-24,1517,Sin Definir,Cámara de Apelaciones,No,29
+30,2024-06-05,Civil,Ejecución,Juzgado 3 de Paraná,Martín Morales vs. Dr(a). Uma  Rodriguez,Despido,2024-12-03,283,Conciliación,Cámara de Apelaciones,Sí,26
+31,2024-11-23,Civil,Apelación,Juzgado 5 de Posadas,Benjamin Thiago Benjamin Sanchez vs. Guillermina Valentino Fernandez Moreno,Despido,2025-02-26,167,Conciliación,Corte Suprema,Sí,43
+32,2021-02-23,Penal,Ejecución,Juzgado 11 de Río Gallegos,Sr(a). Constanza Alvarez vs. Dr(a). Martina Campos,Quiebra,2023-04-11,433,Favorable,Cámara de Apelaciones,No,34
+33,2023-12-12,Laboral,Pendiente de Juicio,Juzgado 19 de San Miguel de Tucumán,Carmela Olivia Castillo vs. Bianca Velazquez,Despido,2024-04-01,1042,Favorable,Cámara de Apelaciones,No,11
+34,2022-04-12,Comercial,Pendiente de Juicio,Juzgado 9 de Comodoro Rivadavia,Sr(a). Lautaro Benjamin Lopez vs. Dr(a). Pedro Aguirre,Despido,2024-05-19,915,Conciliación,Cámara de Apelaciones,No,5
+35,2021-03-31,Penal,Ejecución,Juzgado 10 de San Luis,Luciana Mateo Joaquin Mansilla Gomez vs. Valentino Rodriguez Garcia,Robo,2021-08-15,85,Desfavorable,Primera Instancia,No,15
+36,2020-07-06,Penal,Apelación,Juzgado 15 de Chilecito,Isabella Bianca Gonzalez vs. Guillermina Bautista Acuña,Robo,2025-03-18,1795,Sin Definir,Corte Suprema,No,8
+37,2022-06-23,Penal,Pendiente de Juicio,Juzgado 13 de Resistencia,Dr(a). Geronimo Torres vs. Martina Garcia Roldan,Daños y Perjuicios,2024-05-08,1086,Favorable,Corte Suprema,Sí,18
+38,2024-05-05,Laboral,Ejecución,Juzgado 4 de Mar del Plata,Malena Valentin Suarez Dominguez vs. Carmela Maidana,Daños y Perjuicios,2024-12-24,1678,Desfavorable,Corte Suprema,Sí,43
+39,2020-07-08,Penal,Apelación,Juzgado 20 de Santa Fe,Emilia Federico Cruz vs. Joaquin Gael Garcia Ruiz,Despido,2024-03-08,1269,Conciliación,Cámara de Apelaciones,Sí,45
+40,2024-02-16,Comercial,En Curso,Juzgado 10 de Neuquén,Sr(a). Delfina Rojas vs. Jazmin Thiago Benjamin Dominguez,Robo,2025-02-08,1417,Sin Definir,Primera Instancia,No,2
+41,2021-10-21,Civil,Ejecución,Juzgado 2 de Mar del Plata,Facundo Pedro Torres vs. Lara Gonzalez Rodriguez,Daños y Perjuicios,2024-03-12,1636,Desfavorable,Cámara de Apelaciones,Sí,33
+42,2022-05-29,Penal,En Curso,Juzgado 2 de Santa Rosa,Sr(a). Tomas Benjamin Lopez vs. Mia Moreno,Robo,2024-08-26,509,Favorable,Primera Instancia,No,13
+43,2024-07-15,Penal,Pendiente de Juicio,Juzgado 12 de Río Gallegos,Francesco Gonzalez Dominguez vs. Elena Herrera,Daños y Perjuicios,2025-02-21,1468,Favorable,Corte Suprema,Sí,19
+44,2023-08-27,Penal,Ejecución,Juzgado 6 de Chilecito,Tiziano Manuel Rodriguez vs. Dr(a). Joaquina Soria,Quiebra,2024-12-31,876,Conciliación,Corte Suprema,Sí,23
+45,2023-07-13,Comercial,Pendiente de Juicio,Juzgado 9 de Corrientes,Catalina Ruiz vs. Juan Gonzalez,Robo,2022-05-06,955,Conciliación,Corte Suprema,No,10
+46,2022-07-04,Civil,Ejecución,Juzgado 11 de Constitución,Emilia Maldonado vs. Agustina Maldonado Morales,Daños y Perjuicios,2023-09-08,1326,Conciliación,Corte Suprema,Sí,37
+47,2023-01-02,Civil,Ejecución,Juzgado 13 de San Ferando del Valle de Catamarca,Delfina Alvarez vs. Gabriel Tiziano Caceres Ortiz,Despido,2024-09-20,1756,Sin Definir,Cámara de Apelaciones,No,39
+48,2024-08-16,Penal,Pendiente de Juicio,Juzgado 15 de Posadas,Victoria Ramos Diaz vs. Sr(a). Alma Martin,Quiebra,2021-12-08,1750,Desfavorable,Cámara de Apelaciones,Sí,45
+49,2020-08-20,Penal,Apelación,Juzgado 3 de Merlo,Benjamin Herrera Pereyra vs. Olivia Diaz,Despido,2024-10-19,405,Favorable,Primera Instancia,Sí,8
+50,2020-06-29,Civil,En Curso,Juzgado 8 de La Rioja,Francisco Peralta Cabrera vs. Maria Victoria Santiago Benjamin Velazquez,Quiebra,2025-03-05,1748,Desfavorable,Cámara de Apelaciones,Sí,35
+51,2025-03-05,Comercial,Apelación,Juzgado 1 de La Rioja,Lautaro Sofia Cruz vs. Lisandro Joaquin Castro,Daños y Perjuicios,2024-06-27,121,Conciliación,Cámara de Apelaciones,No,25
+52,2024-11-24,Penal,Apelación,Juzgado 14 de San Miguel de Tucumán,Malena Joaquin Guzman Sanchez vs. Lorenzo Ignacio Martinez Luna,Daños y Perjuicios,2024-06-18,1433,Conciliación,Corte Suprema,No,46
+53,2023-07-03,Laboral,En Curso,Juzgado 8 de Río Gallegos,Victoria Perez Ruiz vs. Joaquin Gutierrez,Despido,2024-06-07,1693,Desfavorable,Corte Suprema,Sí,5
+54,2020-05-14,Laboral,Apelación,Juzgado 17 de Bahía Blanca,Victoria Catalina Cordoba vs. Felipe Ramos Ramos,Quiebra,2023-05-03,1005,Favorable,Corte Suprema,Sí,41
+55,2024-10-21,Comercial,Ejecución,Juzgado 12 de Paraná,Gael Juan Ignacio Cabrera Rodriguez vs. Guadalupe Valentina Romero Ramirez,Quiebra,2025-02-10,1484,Conciliación,Corte Suprema,Sí,17
+56,2022-06-29,Laboral,Pendiente de Juicio,Juzgado 7 de Rawson,Dr(a). Helena Navarro vs. Rafael Jeronimo Aguirre,Quiebra,2023-07-12,1039,Favorable,Primera Instancia,No,31
+57,2020-04-21,Penal,Pendiente de Juicio,Juzgado 5 de La Rioja,Bautista Gutierrez Diaz vs. Lautaro Gonzalez,Robo,2022-03-23,500,Desfavorable,Corte Suprema,Sí,24
+58,2020-08-23,Penal,Ejecución,Juzgado 16 de San Salvador de Jujuy,Lucia Mia Valentina Acosta vs. Malena Vazquez,Robo,2022-12-23,1338,Favorable,Primera Instancia,No,7
+59,2024-11-14,Civil,En Curso,Juzgado 4 de Paraná,Alvaro Cabrera Perez vs. Josefina Medina Acosta,Despido,2024-11-15,825,Conciliación,Corte Suprema,Sí,4
+60,2023-01-23,Laboral,Pendiente de Juicio,Juzgado 7 de San Luis,Abigail Martinez Ponce vs. Julieta Sosa Ledesma,Despido,2022-01-05,935,Conciliación,Primera Instancia,No,21
+61,2022-11-24,Laboral,Apelación,Juzgado 18 de Mar del Plata,Malena Lopez vs. Benjamin Oriana Sanchez Quiroga,Quiebra,2024-02-18,1084,Sin Definir,Corte Suprema,Sí,17
+62,2022-09-11,Comercial,En Curso,Juzgado 14 de Chilecito,Maria Paz Torres Ramos vs. Santino Tomàs Alvarez Sanchez,Daños y Perjuicios,2022-11-16,367,Favorable,Cámara de Apelaciones,No,40
+63,2025-01-07,Penal,En Curso,Juzgado 19 de Ushuaia,Benicio Martinez vs. Catalina Acosta,Daños y Perjuicios,2025-02-01,1025,Sin Definir,Cámara de Apelaciones,Sí,8
+64,2023-07-17,Comercial,En Curso,Juzgado 15 de Rosario,Pilar Cardozo Vazquez vs. Facundo Isabella Garcia Alvarez,Robo,2023-03-25,1424,Sin Definir,Primera Instancia,Sí,43
+65,2023-03-09,Civil,En Curso,Juzgado 19 de Rawson,Julieta Thiago Ezequiel Silva Dominguez vs. Ian Olivia Flores Fernandez,Daños y Perjuicios,2025-01-24,690,Desfavorable,Cámara de Apelaciones,Sí,28
+66,2024-02-07,Comercial,Apelación,Juzgado 17 de Salta,Maia Guzman Hernandez vs. Lautaro Nuñez,Despido,2024-03-06,1779,Desfavorable,Primera Instancia,Sí,4
+67,2021-07-20,Penal,Ejecución,Juzgado 19 de Constitución,Sr(a). Julieta Diaz vs. Santino Pereyra,Robo,2021-11-08,1723,Sin Definir,Primera Instancia,Sí,16
+68,2022-11-06,Civil,Ejecución,Juzgado 11 de Viedma,Dr(a). Maria Guadalupe Acosta vs. Manuel Juan Cruz Godoy,Daños y Perjuicios,2022-11-06,267,Desfavorable,Corte Suprema,No,11
+69,2023-01-26,Laboral,Ejecución,Juzgado 11 de La Rioja,Maximo Pedro Gomez vs. Santino Benjamin Guzman,Robo,2022-01-06,1510,Conciliación,Corte Suprema,Sí,19
+70,2020-05-12,Laboral,Ejecución,Juzgado 20 de Río Gallegos,Dr(a). Nicolas Sosa vs. Milo Francisco Aguirre,Despido,2024-09-02,1717,Desfavorable,Corte Suprema,Sí,19
+71,2024-11-01,Laboral,Ejecución,Juzgado 9 de Formosa,Juan Bautista Diaz vs. Kiara Avila,Daños y Perjuicios,2025-02-27,1341,Sin Definir,Cámara de Apelaciones,No,13
+72,2023-12-21,Comercial,Apelación,Juzgado 2 de Rawson,Emma Vazquez vs. Bianca Juana Ayala,Quiebra,2023-03-30,890,Conciliación,Primera Instancia,No,17
+73,2024-06-25,Laboral,Apelación,Juzgado 20 de San Juan,Mateo Valentino Diaz vs. Manuel Rodriguez Ramos,Quiebra,2024-09-03,1087,Favorable,Corte Suprema,No,48
+74,2022-04-01,Laboral,Pendiente de Juicio,Juzgado 14 de Ushuaia,Milena Flores vs. Thiago Camilo Ruiz Lucero,Daños y Perjuicios,2024-10-19,784,Favorable,Primera Instancia,No,44
+75,2023-10-05,Laboral,Pendiente de Juicio,Juzgado 15 de Río Gallegos,Francisco Milagros Dominguez vs. Morena Valentina Pereyra,Quiebra,2023-09-24,981,Conciliación,Primera Instancia,No,12
+76,2023-09-22,Comercial,En Curso,Juzgado 16 de Salta,Sofía Luciano Fernandez vs. Mia Valentina Josefina Garcia,Robo,2024-12-16,866,Conciliación,Corte Suprema,No,27
+77,2020-04-11,Comercial,Apelación,Juzgado 18 de Rosario,Milagros Gonzalez Navarro vs. Jazmin Francesco Guzman Ramirez,Robo,2023-06-04,1691,Desfavorable,Cámara de Apelaciones,Sí,10
+78,2023-04-28,Laboral,Ejecución,Juzgado 15 de Rosario,Jazmín Gomez Gonzalez vs. Santiago Cabrera,Quiebra,2024-02-15,766,Sin Definir,Corte Suprema,Sí,2
+79,2023-07-20,Penal,Ejecución,Juzgado 16 de Bahía Blanca,Sr(a). Santiago Arias vs. Sr(a). Luciano Soto,Daños y Perjuicios,2025-01-27,1638,Favorable,Primera Instancia,Sí,3
+80,2023-08-01,Comercial,Pendiente de Juicio,Juzgado 8 de Santa Fe,Catalina Lopez Vega vs. Bruno Lautaro Gonzalez Velazquez,Daños y Perjuicios,2025-02-12,1612,Conciliación,Corte Suprema,Sí,14
+81,2025-02-08,Civil,Pendiente de Juicio,Juzgado 2 de Salta,Simon Emma Gonzalez vs. Dr(a). Emilia Bustos,Quiebra,2021-09-17,773,Sin Definir,Primera Instancia,No,23
+82,2021-04-16,Comercial,Apelación,Juzgado 19 de Ushuaia,Abril Octavio Escobar vs. Dr(a). Salvador Rodriguez,Despido,2024-12-05,1582,Desfavorable,Corte Suprema,Sí,37
+83,2024-01-01,Penal,Ejecución,Juzgado 6 de Viedma,Alma Coronel Gimenez vs. Sr(a). Santino Ruiz,Quiebra,2023-08-01,1547,Conciliación,Primera Instancia,Sí,22
+84,2020-03-29,Laboral,Ejecución,Juzgado 15 de Merlo,Sr(a). Juan Cruz Vera vs. Josefina Delfina Gonzalez Figueroa,Daños y Perjuicios,2024-01-13,1055,Desfavorable,Corte Suprema,No,20
+85,2022-06-07,Laboral,Ejecución,Juzgado 1 de Chilecito,Sr(a). Mateo Agustin Ojeda vs. Lucas Martinez Sanchez,Despido,2024-04-26,937,Desfavorable,Cámara de Apelaciones,Sí,1
+86,2023-04-21,Civil,Pendiente de Juicio,Juzgado 2 de La Rioja,Bianca Romero Gonzalez vs. Agustin Benitez,Daños y Perjuicios,2023-03-10,1770,Sin Definir,Corte Suprema,No,10
+87,2022-07-26,Civil,Apelación,Juzgado 6 de San Ferando del Valle de Catamarca,Dr(a). Juan Ignacio Perez vs. Juan Cruz Lorenzo Martinez Garcia,Robo,2022-09-15,566,Favorable,Primera Instancia,No,10
+88,2022-07-02,Laboral,Apelación,Juzgado 3 de San Miguel de Tucumán,Tiziano Benjamin Delfina Ramirez Romero vs. Ambar Agostina Perez Martinez,Quiebra,2024-11-13,1343,Sin Definir,Corte Suprema,Sí,47
+89,2023-11-06,Civil,Apelación,Juzgado 7 de Salta,Agustina Gutierrez Ledesma vs. Sr(a). Elena Gimenez,Robo,2024-07-21,1269,Favorable,Primera Instancia,No,46
+90,2022-07-02,Penal,En Curso,Juzgado 6 de La Plata,Lourdes Sanchez Ruiz vs. Catalina Torres,Quiebra,2024-07-05,452,Sin Definir,Cámara de Apelaciones,No,34
+91,2024-02-14,Penal,Pendiente de Juicio,Juzgado 10 de Neuquén,Julieta Morales vs. Dr(a). Agustin Quiroga,Quiebra,2023-04-13,61,Favorable,Cámara de Apelaciones,No,30
+92,2023-07-08,Penal,Apelación,Juzgado 9 de Rawson,Francesca Nuñez Ledesma vs. Fausto Delfina Fernandez,Despido,2023-03-22,1783,Desfavorable,Corte Suprema,No,27
+93,2022-01-27,Comercial,Ejecución,Juzgado 20 de Santa Rosa,Pilar Rodriguez vs. Benjamin Rios Gutierrez,Despido,2023-03-17,1511,Conciliación,Cámara de Apelaciones,No,1
+94,2024-07-03,Laboral,Ejecución,Juzgado 1 de Formosa,Juana Salvador Quiroga Martinez vs. Juan Pablo Benjamin Aguirre Gonzalez,Despido,2025-01-14,1110,Sin Definir,Cámara de Apelaciones,Sí,8
+95,2023-01-22,Comercial,Ejecución,Juzgado 3 de Chilecito,Dr(a). Facundo Romero vs. Sofía Ledesma Rodriguez,Quiebra,2021-01-09,829,Sin Definir,Corte Suprema,No,27
+96,2023-03-19,Penal,Ejecución,Juzgado 5 de San Luis,Mia Jazmin Juarez vs. Juan Pablo Juarez,Daños y Perjuicios,2024-09-16,1494,Sin Definir,Primera Instancia,No,24
+97,2024-10-06,Comercial,Ejecución,Juzgado 4 de Córdoba,Dr(a). Thiago Benjamin Peralta vs. Sr(a). Felipe Juarez,Despido,2025-02-17,1699,Conciliación,Corte Suprema,Sí,49
+98,2021-12-06,Comercial,En Curso,Juzgado 15 de Constitución,Dante Maldonado vs. Sr(a). Antonella Suarez,Daños y Perjuicios,2024-09-14,359,Desfavorable,Corte Suprema,No,34
+99,2023-09-24,Civil,En Curso,Juzgado 8 de Paraná,Sr(a). Maria Belen Gonzalez vs. Renata Renata Gimenez,Quiebra,2024-02-19,1421,Sin Definir,Primera Instancia,Sí,21
+100,2023-09-29,Penal,Ejecución,Juzgado 18 de Ushuaia,Sr(a). Thiago Benjamin Nuñez vs. Santino Miranda,Robo,2024-12-03,691,Conciliación,Primera Instancia,Sí,1

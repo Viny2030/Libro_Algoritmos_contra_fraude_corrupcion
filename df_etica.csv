@@ -1,0 +1,11 @@
+ID_Caso,Grupo_Protegido,Variable_Clave,Resultado_Prediccion,Confianza_Prediccion,Informacion_Sensible,Accion_Tomada,Justificacion_Automatica,Impacto_Individual,Impacto_Social,Tiene_Explicacion_Humana
+1,Minoría Étnica,13.980224431124789,Positivo,0.7263990439028596,,Ninguna,Quibusdam velit nemo voluptate perspiciatis eaque architecto.,0,3,Sí
+2,Género Femenino,70.3741901869164,Negativo,0.9034508300957196,Animi animi aperiam.,Ninguna,Nulla odio beatae fugiat cum assumenda harum quo aperiam sunt fuga totam.,0,4,No
+3,Bajo Ingreso,94.70338376936,Negativo,0.8477374226302377,,Ninguna,,0,1,Sí
+4,Bajo Ingreso,31.61093689198409,Positivo,0.8909976965376056,,Investigacion,Incidunt nihil voluptate aliquid perferendis veritatis amet nesciunt ea veritatis.,0,2,Sí
+5,Ninguno,11.219636600816052,Negativo,0.7825226590201109,,Investigacion,Enim harum optio asperiores neque officia accusamus excepturi.,0,4,Sí
+6,Minoría Étnica,50.6093598407325,Negativo,0.8376248771559783,,Ninguna,,3,2,Sí
+7,Bajo Ingreso,84.08622361927922,Negativo,0.6494482767554225,,Denegacion,Nobis molestias nostrum pariatur deleniti maiores iste accusamus doloribus cumque autem velit.,0,0,Sí
+8,Bajo Ingreso,40.139955915348004,Positivo,0.7931672424460563,,Ninguna,Itaque eveniet quas quidem sequi eum sed in tempore illum.,2,2,No
+9,Género Femenino,47.04461179205089,Positivo,0.6969462465119407,,Investigacion,,2,2,No
+10,Bajo Ingreso,18.082270951617485,Positivo,0.7099062403431323,,Denegacion,,3,2,Sí

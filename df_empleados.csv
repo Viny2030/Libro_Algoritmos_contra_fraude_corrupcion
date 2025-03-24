@@ -1,0 +1,101 @@
+ID_Empleado,Nombre,Departamento,Fecha_Ingreso,Cargo,Salario,Antiguedad_Meses
+1,Clara Bautista Arias,Ventas,2024-05-22,Analista,88333.28240953872,74
+2,Sr(a). Bruno Ruiz,Ventas,2025-02-22,Gerente,96673.27579473547,4
+3,Felipe Jazmin Lucero,RRHH,2018-01-15,Asistente,44094.13528692577,12
+4,Morena Jazmin Moyano Campos,RRHH,2021-04-29,Asistente,119896.12086621678,6
+5,Sr(a). Benjamin Cruz,Contabilidad,2021-12-05,Asistente,112725.640080675,21
+6,Dr(a). Alma Martinez,RRHH,2015-10-25,Gerente,22421.747929552577,118
+7,Dante Simon Gonzalez Torres,IT,2022-09-28,Gerente,139528.38555580197,64
+8,Dr(a). Pedro Flores,Ventas,2024-12-19,Gerente,133694.33298807358,7
+9,Constanza Lopez Diaz,IT,2017-12-21,Asistente,86843.81899801611,18
+10,Thiago Benitez,Contabilidad,2016-05-23,Gerente,26099.457089304633,45
+11,Juan Manuel Garcia,Ventas,2015-04-13,Analista,129006.4963441673,20
+12,Mia Jazmin Fernandez Acuña,IT,2024-05-22,Supervisor,148041.02179113374,36
+13,Thiago Benjamin Fausto Cordoba,Contabilidad,2015-06-30,Asistente,106613.54757187003,110
+14,Sr(a). Micaela Diaz,IT,2017-04-09,Gerente,131013.27122990263,105
+15,Simon Sosa,RRHH,2017-05-07,Gerente,146476.70760289277,97
+16,Candelaria Gomez,RRHH,2025-01-16,Supervisor,22851.40236006353,96
+17,Simon Ortiz,Logística,2020-03-21,Analista,140953.48974714242,10
+18,Santino Gabriel Valentina Perez,RRHH,2025-02-26,Asistente,120304.66433551448,88
+19,Lucia Santino Moreno,RRHH,2023-04-13,Analista,60149.60211011952,118
+20,Sr(a). Santiago Gutierrez,Ventas,2024-03-13,Asistente,99967.92155207387,45
+21,Dr(a). Lautaro Gonzalez,RRHH,2023-02-12,Supervisor,60237.225246729584,104
+22,Catalina Gutierrez,Contabilidad,2022-04-22,Gerente,71428.71142970707,13
+23,Lautaro Nicolas Amparo Perez,Ventas,2022-07-25,Asistente,47489.967662572795,8
+24,Felipe Ciro Benjamin Ramirez,IT,2017-02-07,Gerente,129682.15514084537,19
+25,Dr(a). Geronimo Gomez,Logística,2021-07-04,Asistente,60329.84825540613,80
+26,Victoria Gonzalez,IT,2024-05-28,Analista,126352.5782209942,79
+27,Sr(a). Santino Nicolas Perez,Logística,2017-01-11,Asistente,36465.77612229086,68
+28,Luz Milagros Luciana Quiroga Martin,Logística,2017-04-08,Supervisor,80251.14754198221,36
+29,Felipe Sosa Gimenez,RRHH,2023-09-06,Gerente,118384.98292982849,3
+30,Sr(a). Santino Martinez,RRHH,2024-05-01,Gerente,123100.4159809995,27
+31,Alejo Alma Gutierrez,Ventas,2020-01-13,Analista,138065.83917939913,28
+32,Sr(a). Benjamin Ezequiel Carrizo,Ventas,2019-01-16,Gerente,107916.35699331226,46
+33,Josefina Sol Vera,Contabilidad,2017-01-26,Asistente,99635.45788495867,11
+34,Dr(a). Mia Morena Acosta,Contabilidad,2020-10-24,Gerente,78283.95091156161,22
+35,Guillermina Francesco Gomez,Contabilidad,2023-12-19,Asistente,25740.57961589804,52
+36,Benjamin Morales Medina,Logística,2017-12-15,Gerente,52284.05898852204,50
+37,Thiago Nicolas Paulina Maidana,Ventas,2018-10-03,Asistente,119864.41538374961,38
+38,Carmela Sofia Gutierrez Sanchez,IT,2021-09-30,Asistente,122967.3530448925,57
+39,Lola Benicio Acosta Lopez,Ventas,2022-04-17,Analista,63755.85757250809,66
+40,Gonzalo Gomez,RRHH,2017-12-06,Asistente,142973.0725835379,50
+41,Santino Isabella Martinez Martinez,Contabilidad,2018-09-25,Supervisor,47110.87207307192,10
+42,Fausto Thiago Benjamin Diaz,IT,2022-03-15,Gerente,115688.80298954416,23
+43,Ludmila Paez,RRHH,2025-02-22,Asistente,82060.70224262764,110
+44,Lautaro Ezequiel Paz,Logística,2024-04-14,Analista,123357.80147552758,51
+45,Thiago Valentin Ramos Lopez,Logística,2020-09-25,Gerente,57403.144482098534,47
+46,Victoria Florencia Suarez Mendoza,IT,2015-11-24,Asistente,66295.52247419511,73
+47,Facundo Mateo Agustin Benitez,IT,2020-01-11,Analista,28630.146831015853,29
+48,Santiago Cardozo,Ventas,2024-12-17,Analista,70525.73403532659,100
+49,Constantino Diaz Suarez,IT,2024-06-25,Analista,85786.51253257494,0
+50,Bruno Martin Ruiz,Logística,2018-04-08,Analista,124962.51466898291,111
+51,Tomàs Acosta,IT,2015-06-08,Analista,55398.63676439405,78
+52,Francisca Ledesma,Logística,2024-07-09,Analista,32510.0391126487,61
+53,Ciro Benjamin Joaquin Godoy Ortiz,Contabilidad,2022-08-14,Asistente,132634.30272794334,95
+54,Sara Cruz Rodriguez,Ventas,2020-04-10,Analista,22959.82674545864,13
+55,Juan Pablo Cabrera,Ventas,2019-09-03,Analista,67961.03224511718,8
+56,Alma Bustos Vera,RRHH,2021-03-15,Analista,148224.26167549263,84
+57,Bautista Ponce Lopez,IT,2015-06-05,Supervisor,28233.352630429486,51
+58,Thiago Joaquin Medina Cabrera,Logística,2016-12-03,Gerente,91505.59162158055,65
+59,Morena Martina Morales Ortiz,Contabilidad,2017-04-17,Analista,44036.31815849237,16
+60,Delfina Ortiz,Logística,2019-05-01,Supervisor,91295.87969544462,57
+61,Emiliano Diaz Diaz,IT,2020-08-13,Asistente,135607.34859126055,7
+62,Milo Barrios Rojas,Contabilidad,2015-12-27,Analista,95928.77718439767,5
+63,Tomas Avila,Logística,2022-01-04,Asistente,27598.965485723587,25
+64,Priscila Lorenzo Diaz,Logística,2020-06-12,Analista,70214.49724991334,0
+65,Antonio Lopez,Ventas,2024-04-28,Asistente,32329.437125736495,75
+66,Antonio Emma Ruiz Figueroa,RRHH,2018-06-18,Asistente,99852.12162735967,15
+67,Mateo Benjamin Thiago Nahuel Garcia,Contabilidad,2020-03-20,Analista,50109.97590982974,39
+68,Genaro Tomàs Herrera,Contabilidad,2015-08-22,Gerente,28107.113552919094,52
+69,Dr(a). Santiago Benjamin Romero,RRHH,2024-07-08,Gerente,67781.23129702106,59
+70,Santiago Matias Rodriguez Rios,Contabilidad,2022-01-27,Gerente,89099.1253536026,46
+71,Lorenzo Gimenez Avila,IT,2019-09-03,Gerente,48733.08997046313,10
+72,Salvador Gomez Paz,IT,2021-02-12,Gerente,49531.9507795303,1
+73,Juana Ruiz,RRHH,2020-09-07,Gerente,129668.14393799333,84
+74,Juan Ignacio Juan Molina Villalba,Contabilidad,2015-09-24,Asistente,147133.08778197272,8
+75,Lautaro Godoy,Contabilidad,2016-05-30,Analista,115224.38943590183,111
+76,Felipe Rojas,Ventas,2020-07-11,Asistente,62227.99818396109,33
+77,Sr(a). Bruno Gomez,Logística,2019-05-16,Asistente,116930.22951400279,82
+78,Dr(a). Joaquín Morales,Ventas,2017-09-12,Analista,39997.06476413495,74
+79,Santino Isabella Fernandez,Contabilidad,2020-11-09,Supervisor,48650.32309696863,84
+80,Kiara Caceres Gonzalez,Ventas,2017-08-26,Asistente,68362.38608392497,89
+81,Isabella Sosa,Contabilidad,2022-11-07,Gerente,138632.98246301856,70
+82,Paula Pedro Sosa,Contabilidad,2019-12-31,Asistente,31929.827341131866,24
+83,Benjamin Moreno Gutierrez,RRHH,2015-11-19,Analista,39590.88271546617,4
+84,Benjamin Benitez Valdez,Logística,2016-11-23,Asistente,130290.04334807159,33
+85,Simon Franco Luna Escobar,Logística,2017-07-16,Asistente,79792.9241733867,48
+86,Sr(a). Violeta Rodriguez,RRHH,2021-01-11,Gerente,58438.397402349125,117
+87,Josefina Rodriguez Ortiz,RRHH,2018-11-20,Supervisor,45623.46417034621,20
+88,Sr(a). Isabella Peralta,IT,2020-06-08,Asistente,70529.42335318126,31
+89,Juan Manuel Elena Fernandez,Ventas,2018-12-06,Gerente,21446.93199534747,13
+90,Simon Acuña Lopez,RRHH,2025-02-16,Gerente,129595.77564177575,111
+91,Francisca Lopez Ramirez,Ventas,2021-10-05,Gerente,97787.14236046231,15
+92,Isabella Lola Rodriguez Peralta,Ventas,2020-04-06,Analista,71565.13497721983,117
+93,Thiago Lucía Aguero,RRHH,2019-06-19,Gerente,22808.815356504394,65
+94,Bautista Gonzalez Perez,IT,2019-07-17,Supervisor,128975.46145249646,8
+95,Olivia Rodriguez Dominguez,Logística,2016-06-12,Asistente,39800.2161066537,26
+96,Gael Vazquez,Ventas,2019-06-22,Analista,99631.4391919419,24
+97,Santino Benjamin Torres,Ventas,2021-08-30,Analista,133692.9061361286,59
+98,Sr(a). Emma Gonzalez,Contabilidad,2018-07-06,Gerente,124177.18364519152,16
+99,Federico Rosario Ledesma,RRHH,2016-11-24,Asistente,79283.17455076208,97
+100,Dr(a). Dante Gomez,RRHH,2018-12-02,Asistente,31991.51138817148,37

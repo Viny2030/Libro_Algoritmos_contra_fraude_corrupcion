@@ -1,0 +1,501 @@
+ID_Transaccion,Fecha_Hora,ID_Tarjeta,Monto,Comercio,Ubicacion_Comercio,Tipo_Transaccion,Pais_IP,Es_Fraudulenta
+1,2025-01-24 16:39:26.316643,CC-8740079630,756.8003424487092,Farias-Gonzalez,"Santa Fe, Indonesia",Compra,Côte d'Ivoire,0
+2,2025-02-28 07:54:53.800075,CC-5821702691,617.4539581172049,Toledo LLC,"Córdoba, Kenya",Pago,Mozambique,0
+3,2025-03-03 13:31:22.369916,CC-1568543344,986.9044224184315,Miranda-Ruiz,"Chilecito, Kuwait",Pago,Colombia,0
+4,2025-03-01 16:57:00.833171,CC-9551461243,237.01055264172444,Morales-Paz,"Santiago del Estero, Eritrea",Compra,Bangladesh,0
+5,2025-01-16 21:23:05.257390,CC-8609223566,881.4983695178995,Martinez-Mendez,"Salta, Portugal",Compra,Portugal,0
+6,2025-03-08 13:56:50.014224,CC-4586596951,295.38980906012205,"Vera, Vega and Diaz","Mar del Plata, República Democrática Popular Lao",Retiro,Andorra,0
+7,2025-03-09 17:02:44.696813,CC-8244313923,794.4682474160553,Cordoba-Rojas,"Rawson, Serbia",Compra,Burkina Faso,0
+8,2025-01-29 19:31:39.574451,CC-6037762369,211.73795413603008,"Chavez, Lopez and Juarez","Constitución, Belice",Pago,República Federal Democrática de Nepal,0
+9,2025-02-04 18:33:59.224597,CC-4909185538,886.9436024257935,"Rodriguez, Sanchez and Olivera","San Miguel de Tucumán, Noruega",Compra,Micronesia,0
+10,2025-01-28 09:17:26.958218,CC-8805168964,687.1598302224106,Leiva Ltd,"Formosa, Malta",Retiro,Islandia,0
+11,2025-03-06 05:48:02.760857,CC-5475148287,130.52210362283108,"Diaz, Garcia and Valdez","Formosa, Marruecos",Compra,Malasia,0
+12,2025-02-23 03:40:23.043869,CC-8397765348,636.2749779172415,"Diaz, Lucero and Hernandez","Chilecito, España",Pago,Arabia Saudita,0
+13,2025-02-22 05:02:34.410171,CC-5506729090,222.21553722026144,Ortiz Inc,"Santiago del Estero, Argelia",Pago,Chile,0
+14,2025-03-12 05:32:13.916611,CC-7134030347,102.94512611102955,Luna-Farias,"Santiago del Estero, Panamá",Retiro,Filipinas,0
+15,2025-02-24 07:08:05.576796,CC-8569431787,467.13614739910486,"Acuña, Duarte and Ferreyra","Santa Fe, Letonia",Retiro,El Salvador,0
+16,2025-03-19 05:49:26.623669,CC-1408744035,69.47184595794204,"Gomez, Sosa and Garcia","La Rioja, Bahamas",Retiro,Nueva Zelandia,0
+17,2025-01-19 09:19:58.029964,CC-8917872447,508.40023739746005,"Molina, Gonzalez and Rodriguez","Santa Rosa, Reino Unido de Gran Bretaña e Irlanda del Norte",Compra,Eslovenia,0
+18,2025-03-19 14:06:57.312348,CC-5321571444,776.9800945774159,Coronel-Vazquez,"Río Gallegos, Sierra Leona",Compra,Zambia,0
+19,2025-02-05 08:46:57.777661,CC-1093734188,41.797617733307646,Sanchez-Ortiz,"Constitución, Pakistán",Pago,Swazilandia,0
+20,2025-01-24 14:41:40.996057,CC-2397647366,949.9146892051087,Benitez-Martin,"Rawson, Madagascar",Compra,Finlandia,0
+21,2025-01-27 05:15:06.220419,CC-5620265302,407.6009803325983,Ramirez and Sons,"Neuquén, Tonga",Compra,Angola,0
+22,2025-01-01 06:01:41.200764,CC-8985428694,693.7546013299261,"Sosa, Sosa and Ferreyra","Santa Fe, Colombia",Pago,Guinea Bissau,0
+23,2025-01-09 12:06:38.874897,CC-7596797185,896.5221315770208,Mendez LLC,"Santiago del Estero, Croacia",Compra,Malasia,0
+24,2025-01-15 19:01:31.813077,CC-5539672566,248.7000179919802,Cabrera-Luna,"San Luis, Bahrein",Compra,Ecuador,0
+25,2025-02-24 00:31:02.878042,CC-8640848971,311.5210223904828,Gomez-Diaz,"Bahía Blanca, Belice",Compra,Nigeria,0
+26,2025-01-05 23:22:05.501335,CC-7507710835,880.9337493890118,Rojas-Rojas,"Córdoba, Mongolia",Pago,Santa Lucía,0
+27,2025-02-14 02:33:18.551600,CC-7629650354,412.6059465448062,Carrizo Group,"Santa Fe, Kirguistán",Pago,China,0
+28,2025-02-05 08:28:25.300508,CC-1479361964,143.65511479708763,Rodriguez-Sosa,"Comodoro Rivadavia, Nicaragua",Compra,Grecia,0
+29,2025-01-22 02:25:11.042419,CC-5119997661,215.97511813563847,Garcia-Cardozo,"La Plata, Iraq",Compra,Dinamarca,0
+30,2025-02-04 01:08:13.664618,CC-4361144408,251.95061090770903,"Rodriguez, Gutierrez and Ojeda","Comodoro Rivadavia, Sudán",Compra,Bolivia,0
+31,2025-03-17 15:19:15.697418,CC-1030010942,612.5632847513268,Moyano Ltd,"San Luis, Japón",Retiro,Nauru,0
+32,2025-02-04 09:21:33.146733,CC-7980671153,684.0019554720736,Arias-Rivero,"Mar del Plata, Ucrania",Pago,Egipto,0
+33,2025-01-16 23:03:31.376820,CC-8702639138,909.285821534862,Fernandez and Sons,"La Plata, India",Pago,República Centroafricana,0
+34,2025-03-15 15:52:21.092041,CC-9700002803,249.20488435078096,Ledesma-Martinez,"Resistencia, Micronesia",Retiro,Omán,0
+35,2025-03-03 04:18:59.365959,CC-7978847431,623.1287025271353,Martinez PLC,"Ushuaia, Dominicana",Retiro,Samoa,0
+36,2025-03-03 04:57:35.811059,CC-5128746047,518.5036821721395,Diaz and Sons,"Santa Fe, Bosnia y Herzegovina",Pago,Guatemala,0
+37,2025-01-08 06:31:45.052208,CC-5683690225,414.8418804789385,Moyano-Gonzalez,"Córdoba, Trinidad y Tabago",Retiro,Tuvalu,0
+38,2025-03-05 11:05:54.283848,CC-7644572867,654.1541960788993,"Muñoz, Guzman and Acosta","Viedma, Panamá",Retiro,Sudán,0
+39,2025-01-13 15:44:29.090356,CC-9130082423,241.38854869774457,"Guzman, Paz and Ferreyra","La Plata, China",Compra,Túnez,0
+40,2025-01-28 17:43:18.203336,CC-5616099657,754.9423887381708,Velazquez-Chavez,"Salta, Malawi",Pago,Burkina Faso,0
+41,2025-02-03 15:17:18.918972,CC-2745865361,668.8858609251599,"Pereyra, Alvarez and Martinez","Rosario, Gambia",Pago,Jamaica,0
+42,2025-01-07 07:19:44.011725,CC-1917039993,582.5532910358812,Gomez-Castro,"Formosa, Mozambique",Retiro,Bulgaria,0
+43,2025-01-04 14:53:56.727256,CC-5343437577,69.2603548667465,Gomez Group,"Comodoro Rivadavia, India",Retiro,Bahamas,0
+44,2025-03-19 15:35:12.013438,CC-5985955611,140.40839268978291,Gomez-Ayala,"Río Gallegos, Letonia",Pago,Liechtenstein,0
+45,2025-02-09 06:13:00.452515,CC-7794272322,316.96879183735416,Godoy-Peralta,"Formosa, Eslovaquia",Retiro,Uganda,0
+46,2025-01-31 02:30:55.649793,CC-4010628473,453.02259230618995,Gimenez-Villalba,"La Rioja, Singapur",Compra,Benin,0
+47,2025-01-01 15:40:28.853032,CC-8608247196,667.5643234684921,"Navarro, Fernandez and Diaz","Rawson, Vanuatu",Pago,Lesotho,0
+48,2025-03-06 12:55:53.589290,CC-2108663090,26.818022229171678,"Quiroga, Sosa and Ruiz","Ushuaia, Santa Lucía",Retiro,Luxemburgo,0
+49,2025-03-23 14:14:06.610678,CC-3168958516,853.0406763017215,Herrera Group,"Mendoza, Islas Marshall",Retiro,Togo,0
+50,2025-03-19 22:34:23.602223,CC-3854465098,773.7725923934822,Fernandez-Navarro,"Bahía Blanca, San Marino",Compra,Tuvalu,0
+51,2025-03-10 22:11:52.537637,CC-3761208629,146.04499311679538,"Carrizo, Gimenez and Maldonado","La Plata, Chile",Retiro,Liberia,0
+52,2025-03-15 23:21:42.727711,CC-6079148537,139.395090382544,Farias-Lopez,"Merlo, Antigua y Barbuda",Retiro,Sudán,0
+53,2025-02-13 20:29:32.024469,CC-7154039101,374.44035617400505,Romero-Ramos,"San Luis, Nueva Zelandia",Pago,Nigeria,0
+54,2025-01-08 08:30:13.773720,CC-7234690364,559.331261412693,Cabrera and Sons,"Santa Fe, Países Bajos",Pago,Costa Rica,0
+55,2025-01-16 21:02:46.943937,CC-8914972445,482.30090716707065,"Gomez, Avila and Gonzalez","Formosa, Emiratos Árabes Unidos",Retiro,Côte d'Ivoire,0
+56,2025-03-08 16:45:05.423294,CC-8154644068,432.44234290988294,Gutierrez-Gonzalez,"San Salvador de Jujuy, Japón",Pago,Belarús,0
+57,2025-01-04 16:10:26.585675,CC-8053573091,232.67588059964842,Acosta and Sons,"Bahía Blanca, Bhután",Pago,Andorra,0
+58,2025-02-01 09:25:05.137812,CC-9554537737,457.88410430531536,"Duarte, Cabrera and Gomez","Río Gallegos, Burundi",Pago,Suriname,0
+59,2025-02-06 15:55:29.796248,CC-2145001210,675.449157109922,"Romero, Ledesma and Cabrera","San Miguel de Tucumán, Vanuatu",Pago,Uruguay,0
+60,2025-03-04 17:35:16.928729,CC-6042026436,266.72058590309825,Medina Inc,"Río Gallegos, Polonia",Pago,Guatemala,0
+61,2025-01-21 01:16:44.005707,CC-1852562739,303.5067375053632,"Benitez, Gonzalez and Ruiz","Santiago del Estero, Lesotho",Compra,Japón,0
+62,2025-02-27 15:37:11.652869,CC-7534856576,754.3978936936546,Lopez and Sons,"Santiago del Estero, Gambia",Pago,San Vicente y las Granadinas,0
+63,2025-02-12 01:01:30.757560,CC-5477576248,746.3637167714255,"Carrizo, Rodriguez and Soto","La Rioja, Somalia",Pago,Perú,0
+64,2025-02-10 19:42:39.900507,CC-9445090115,290.4478933235167,Alvarez-Bravo,"San Miguel de Tucumán, Alemania",Retiro,Bélgica,0
+65,2025-03-23 05:00:38.862818,CC-2044071767,896.2045259809523,Ledesma-Rivero,"San Juan, Tuvalu",Compra,Estados Unidos de América,0
+66,2025-01-20 17:12:23.230808,CC-4682712987,904.1661278271816,"Pereyra, Gonzalez and Muñoz","Corrientes, Bélgica",Compra,Eritrea,0
+67,2025-02-23 13:33:27.196073,CC-8780282325,488.6286788084487,Garcia LLC,"San Juan, Bolivia",Retiro,Antigua y Barbuda,0
+68,2025-01-29 00:01:59.125072,CC-6588057959,488.5417777494848,Gonzalez and Sons,"Santa Fe, Gabón",Retiro,Belarús,0
+69,2025-01-22 01:17:41.900220,CC-7487136154,40.3218218124488,"Figueroa, Gonzalez and Vera","Santa Fe, Países Bajos",Pago,Swazilandia,0
+70,2025-01-03 11:08:45.150843,CC-9920355640,358.7422806539805,Suarez-Navarro,"Mar del Plata, Tailandia",Retiro,Sierra Leona,0
+71,2025-03-16 03:54:31.052130,CC-1029061987,969.4577654417243,Roldan-Torres,"Santiago del Estero, República de Moldova",Pago,Iraq,0
+72,2025-01-29 08:56:10.770839,CC-5859481596,282.6783799280609,"Martin, Escobar and Maidana","Santiago del Estero, Islas Salomón",Retiro,Gabón,0
+73,2025-01-29 02:59:04.144626,CC-4153164362,450.7320874061782,Aguirre-Herrera,"San Juan, Emiratos Árabes Unidos",Compra,Maldivas,0
+74,2025-01-09 20:22:54.370236,CC-3408556742,328.493686722012,Moyano-Gonzalez,"Santa Rosa, Georgia",Retiro,Botswana,0
+75,2025-01-06 10:37:31.823261,CC-1627923874,908.7029121786088,Rojas Ltd,"Salta, Bélgica",Compra,Burkina Faso,0
+76,2025-02-12 22:45:10.320167,CC-9353013476,352.75515818308685,"Aguero, Godoy and Garcia","Merlo, Malasia",Retiro,Burkina Faso,0
+77,2025-02-16 19:25:42.764269,CC-1420562348,603.5468470708714,"Suarez, Alvarez and Romero","Merlo, Qatar",Compra,Gabón,0
+78,2025-01-26 11:33:30.531350,CC-3383986789,240.52016471017407,"Gimenez, Figueroa and Gonzalez","Santa Rosa, Lituania",Retiro,Bulgaria,0
+79,2025-02-11 23:53:46.027055,CC-5735596496,193.949753573887,"Morales, Fernandez and Blanco","Córdoba, Zambia",Compra,Belice,0
+80,2025-03-10 14:24:14.420706,CC-8911096109,963.5892321199422,Vargas-Martin,"La Rioja, Sudáfrica",Compra,Zambia,0
+81,2025-03-20 11:05:15.488674,CC-4803078334,872.9521019450289,Peralta Ltd,"Corrientes, Croacia",Compra,Estados Unidos de América,0
+82,2025-01-08 23:35:34.547627,CC-7220040288,332.4922956248877,Cabrera Ltd,"Constitución, República Árabe Siria",Compra,Uganda,0
+83,2025-01-11 15:08:31.039264,CC-5212558374,673.7281998321935,Ayala and Sons,"Rawson, Bosnia y Herzegovina",Pago,Bahrein,0
+84,2025-02-16 01:10:59.177536,CC-5016880192,442.93461371190915,Duarte-Diaz,"Resistencia, Reino Unido de Gran Bretaña e Irlanda del Norte",Compra,Mauricio,0
+85,2025-02-13 23:41:42.045774,CC-2639605214,993.1025182729991,Sosa and Sons,"Rosario, Bahamas",Pago,Chile,0
+86,2025-03-18 15:03:43.926456,CC-5058279189,373.85009039460743,"Medina, Gonzalez and Vera","Salta, Libia",Pago,Cabo Verde,0
+87,2025-02-01 11:15:07.918948,CC-2171509368,179.77186515735562,"Torres, Hernandez and Benitez","Merlo, Irán",Pago,Namibia,0
+88,2025-02-23 20:42:08.178098,CC-8606507972,725.2845247934239,Alvarez Inc,"Ushuaia, India",Compra,Ghana,0
+89,2025-03-24 08:30:16.620574,CC-4392900540,263.8960203649558,Gonzalez LLC,"La Plata, Serbia",Retiro,Yemen,0
+90,2025-02-02 14:24:17.148345,CC-5890380143,37.84115430562124,Lopez Ltd,"Río Gallegos, Kuwait",Compra,Reino Unido de Gran Bretaña e Irlanda del Norte,0
+91,2025-01-21 22:27:05.037739,CC-9628246066,48.2338135147485,Garcia Group,"Merlo, Guyana",Pago,Grecia,0
+92,2025-03-13 10:27:15.219023,CC-7759144341,410.6552401646983,Ojeda Group,"San Luis, Argelia",Pago,Seychelles,0
+93,2025-02-18 01:43:16.614155,CC-4256264110,667.5440591910733,Rios-Maldonado,"Córdoba, Togo",Compra,Costa Rica,0
+94,2025-02-14 07:47:59.393621,CC-9705433344,121.95657832810856,Gonzalez Group,"Neuquén, República de Moldova",Compra,Reino Unido de Gran Bretaña e Irlanda del Norte,0
+95,2025-02-14 23:23:10.919894,CC-1182182161,395.16523684065703,Mansilla LLC,"Corrientes, Kuwait",Pago,Ucrania,0
+96,2025-02-21 21:28:42.621514,CC-7442478778,821.2745587088601,"Romero, Leiva and Muñoz","Neuquén, Bulgaria",Pago,Kirguistán,0
+97,2025-01-14 09:55:50.209883,CC-7586025681,981.3222070747627,"Peralta, Ruiz and Rodriguez","Rawson, India",Retiro,Italia,0
+98,2025-01-04 01:55:56.196792,CC-2050364278,861.5929478369738,Rodriguez and Sons,"Río Gallegos, República Checa",Pago,República de Corea,0
+99,2025-01-24 00:41:35.300200,CC-5345479624,878.1604051259649,Herrera-Ferreyra,"San Salvador de Jujuy, Albania",Compra,República Árabe Siria,0
+100,2025-02-11 03:07:00.657751,CC-9901126810,905.2839965451815,Avila-Soto,"Santiago del Estero, San Vicente y las Granadinas",Retiro,India,0
+101,2025-03-08 06:49:49.882743,CC-2596914147,667.9702229672504,"Garcia, Diaz and Vega","San Salvador de Jujuy, Benin",Pago,Ucrania,0
+102,2025-03-04 13:38:52.291325,CC-8563069854,305.4547618923376,Pereyra PLC,"Posadas, Jordania",Retiro,Islas Marshall,0
+103,2025-02-23 20:29:19.828320,CC-8109942784,715.9885974885487,"Garcia, Gonzalez and Vargas","Posadas, Hungría",Compra,Iraq,0
+104,2025-02-14 13:05:04.950796,CC-5836809935,354.96674542107644,Peralta LLC,"Posadas, Palau",Pago,Islas Marshall,0
+105,2025-02-11 01:07:08.187166,CC-7852944759,712.2471762559494,Lucero-Flores,"Viedma, Timor-Leste",Pago,Burundi,0
+106,2025-02-01 13:59:42.227806,CC-4437893985,962.6099182956093,"Maidana, Gimenez and Ponce","Bahía Blanca, Federación de Rusia",Retiro,Bhután,0
+107,2025-01-30 15:23:40.024497,CC-1635039892,430.61256074366804,Lopez PLC,"Posadas, Mongolia",Retiro,Malawi,0
+108,2025-01-11 23:00:16.971388,CC-3909916025,797.4270191578811,Gonzalez LLC,"San Juan, Côte d'Ivoire",Compra,Mongolia,0
+109,2025-02-02 21:56:36.119761,CC-6919084258,488.4593570596379,"Correa, Mansilla and Gonzalez","Santa Rosa, Malawi",Pago,Botswana,0
+110,2025-03-05 03:11:11.131337,CC-2355106946,769.8249531221959,"Ojeda, Rios and Rodriguez","Santa Fe, Azerbaiyán",Retiro,Alemania,0
+111,2025-02-23 07:33:29.809952,CC-2324692026,47.41990725411402,Rodriguez-Garcia,"Santiago del Estero, República Checa",Retiro,Ghana,0
+112,2025-02-04 14:58:44.263657,CC-7603669275,765.8198334306709,Gomez Group,"Paraná, Hungría",Pago,República Árabe Siria,0
+113,2025-03-14 22:44:19.240280,CC-7598580424,306.1625884705217,Godoy-Diaz,"Posadas, Georgia",Retiro,Kazajstán,0
+114,2025-01-12 07:55:29.366685,CC-2879481448,528.9217672791489,Martinez-Pereyra,"Santa Rosa, Antigua y Barbuda",Compra,Haití,0
+115,2025-01-17 06:36:43.431714,CC-5632237298,272.05378072224727,Castillo Ltd,"San Juan, Belice",Retiro,Barbados,0
+116,2025-02-25 00:00:54.649716,CC-4953859692,288.20558771739644,Herrera Ltd,"San Juan, Tuvalu",Pago,Perú,0
+117,2025-03-18 14:49:56.741012,CC-7637679456,798.046337066337,"Lopez, Ramirez and Velazquez","Formosa, Sudáfrica",Retiro,Suecia,0
+118,2025-01-08 06:26:04.338664,CC-6719599903,685.9074939159581,"Fernandez, Flores and Gimenez","Río Gallegos, Barbados",Pago,Cabo Verde,0
+119,2025-01-28 10:28:54.616701,CC-9302570206,777.1085658158681,Cabrera Group,"Constitución, Ghana",Compra,Myanmar,0
+120,2025-03-19 17:07:21.607286,CC-8653392472,323.1851149464917,Ramirez Ltd,"Posadas, Brunei Darussalam",Compra,Arabia Saudita,0
+121,2025-01-26 16:48:06.095939,CC-9681544344,596.3975436520764,"Fernandez, Carrizo and Olivera","Comodoro Rivadavia, Iraq",Compra,Niger,0
+122,2025-03-01 00:26:57.418153,CC-2042055731,722.460359468675,"Fernandez, Navarro and Gonzalez","Córdoba, Mozambique",Compra,Nueva Zelandia,0
+123,2025-01-31 22:22:06.160359,CC-7420934752,417.2510075785237,Godoy Inc,"Salta, Samoa",Compra,Nauru,0
+124,2025-01-30 22:47:32.540079,CC-9086407971,627.8402360581731,Peralta-Suarez,"Formosa, Chile",Retiro,Jordania,0
+125,2025-02-27 12:59:17.339019,CC-3589315743,19.496627527962413,Juarez Group,"La Rioja, Georgia",Retiro,Suecia,0
+126,2025-01-16 08:18:02.736750,CC-4497029927,951.0783090687029,"Escobar, Quiroga and Gutierrez","San Salvador de Jujuy, Guatemala",Retiro,San Vicente y las Granadinas,0
+127,2025-01-13 17:19:12.577092,CC-6438177154,97.1642911716838,Acuña-Pereyra,"Resistencia, Egipto",Compra,República Dominicana,0
+128,2025-01-29 20:25:03.441771,CC-6531968437,57.425058374962106,"Gonzalez, Rodriguez and Silva","Posadas, Kiribati",Compra,Finlandia,0
+129,2025-02-05 14:30:51.492880,CC-4986532387,94.18444146039768,Muñoz-Medina,"Ushuaia, Islandia",Compra,Pakistán,0
+130,2025-01-11 01:18:09.620149,CC-9070572635,455.59001630612977,Avila Ltd,"Resistencia, Congo",Retiro,Afganistán,0
+131,2025-01-16 15:15:42.478234,CC-6901646173,460.089868004087,Molina-Maidana,"Paraná, Liberia",Retiro,Islas Marshall,0
+132,2025-03-20 09:20:21.134655,CC-4339296890,227.55187178438044,Sosa and Sons,"Corrientes, Alemania",Compra,Omán,0
+133,2025-02-01 03:56:44.272322,CC-7294011059,895.9983725051541,Miranda-Molina,"San Miguel de Tucumán, Marruecos",Retiro,Burundi,0
+134,2025-02-22 01:08:02.667761,CC-9540007872,263.4490713659872,"Franco, Martinez and Ojeda","Corrientes, Pakistán",Compra,Bélgica,0
+135,2025-03-05 04:38:49.031183,CC-1566559914,720.0182942091923,Figueroa PLC,"Neuquén, Somalia",Compra,Botswana,0
+136,2025-02-01 11:13:34.540975,CC-9689413687,748.7449278258766,Martinez Inc,"San Juan, Irán",Compra,Chile,0
+137,2025-01-21 13:19:12.890245,CC-4975432499,326.04042871077183,Vargas Ltd,"Resistencia, Uzbekistán",Retiro,Letonia,0
+138,2025-01-15 00:14:53.294352,CC-6916647327,855.904203253648,Rodriguez-Muñoz,"Santiago del Estero, Etiopía",Retiro,Suriname,0
+139,2025-01-17 21:21:37.034591,CC-4495453536,53.54126524674234,"Fernandez, Martinez and Medina","Formosa, Colombia",Compra,Vietman,0
+140,2025-01-25 21:55:43.622041,CC-9841221085,412.3142963043842,"Caceres, Rojas and Gonzalez","Córdoba, Guyana",Retiro,Sudán del Sur,0
+141,2025-03-21 13:32:24.368608,CC-1615273847,131.30357285570412,Castro-Romero,"Formosa, Francia",Pago,Islas Salomón,0
+142,2025-02-08 22:46:25.677068,CC-6862084773,14.783361837632636,"Muñoz, Carrizo and Castro","Bahía Blanca, Timor-Leste",Compra,Estonia,0
+143,2025-03-03 20:11:21.326513,CC-4642405638,758.7322233545818,Rodriguez-Martinez,"La Rioja, República de Corea",Retiro,Reino Unido de Gran Bretaña e Irlanda del Norte,0
+144,2025-03-15 18:24:54.562929,CC-2749117756,95.51338138179372,Quiroga Ltd,"Santa Fe, Sri Lanka",Compra,Brunei Darussalam,0
+145,2025-01-25 23:45:21.345111,CC-4936441811,974.4684668785603,Garcia and Sons,"Ushuaia, Mongolia",Retiro,Portugal,0
+146,2025-02-12 13:02:42.503736,CC-6088026565,615.135479436936,"Vera, Herrera and Rodriguez","Rawson, Chipre",Compra,República Democrática del Congo,0
+147,2025-03-01 16:10:01.778336,CC-7152805472,464.17176905677076,"Suarez, Torres and Herrera","Corrientes, Gabón",Compra,Dominicana,0
+148,2025-02-13 03:14:44.994081,CC-6505908529,864.4244816763296,"Navarro, Aguero and Carrizo","Neuquén, Eslovaquia",Compra,Liechtenstein,0
+149,2025-02-01 03:09:19.415605,CC-4384757968,491.0300876934278,"Fernandez, Lopez and Gomez","Constitución, Saint Kitts y Nevis",Pago,Turquía,0
+150,2025-03-12 22:13:12.234033,CC-9065085531,962.6527039319121,"Cabrera, Martinez and Guzman","San Juan, República Checa",Retiro,Camerún,0
+151,2025-03-21 02:50:39.466998,CC-3488518281,321.76611824232396,Vargas-Muñoz,"Paraná, Omán",Compra,Palau,0
+152,2025-03-20 15:07:35.429490,CC-1653149069,618.0142996297253,Benitez-Rodriguez,"La Rioja, Suriname",Compra,Turkmenistán,0
+153,2025-03-22 13:38:53.881464,CC-7683839571,814.7350879952041,Cardozo-Ferreyra,"Santa Fe, Brasil",Retiro,República Centroafricana,0
+154,2025-02-14 13:59:48.356650,CC-8856727888,828.0209511206263,Gonzalez Group,"San Juan, Suriname",Retiro,Belarús,0
+155,2025-03-13 15:21:39.550823,CC-9477635047,237.07247078380712,Nuñez-Romero,"San Ferando del Valle de Catamarca, Libia",Compra,Guyana,0
+156,2025-03-23 20:11:10.920641,CC-4665885598,444.2820836468611,Leiva LLC,"Santiago del Estero, Paraguay",Compra,Guinea Ecuatorial,0
+157,2025-01-03 23:00:54.052823,CC-6685939109,675.9235975459125,"Escobar, Rivero and Ponce","Resistencia, Chad",Compra,Burundi,0
+158,2025-02-15 08:32:24.076567,CC-9386259611,996.2153632235794,Gutierrez LLC,"Posadas, Egipto",Pago,San Vicente y las Granadinas,0
+159,2025-02-13 10:56:46.699228,CC-6828040381,509.1455463315529,"Ortiz, Rodriguez and Ortiz","Constitución, Andorra",Pago,Santa Lucía,0
+160,2025-02-08 19:22:17.727896,CC-7114834515,439.5994577004108,"Moyano, Quiroga and Gonzalez","Formosa, Chile",Retiro,Noruega,0
+161,2025-03-05 10:47:23.308776,CC-2365947374,191.0545008490345,"Sanchez, Sosa and Herrera","Córdoba, Sri Lanka",Compra,Antigua y Barbuda,0
+162,2025-02-25 09:19:10.189556,CC-5909245053,546.8051708516888,Castillo LLC,"San Miguel de Tucumán, Barbados",Compra,Dominicana,0
+163,2025-02-25 22:18:21.352016,CC-6507062392,355.5056503599245,Ledesma and Sons,"Mar del Plata, Azerbaiyán",Compra,Nicaragua,0
+164,2025-01-10 18:22:40.697945,CC-6845034985,950.1451616494151,Castro LLC,"San Salvador de Jujuy, Costa Rica",Retiro,Mali,0
+165,2025-03-08 07:14:54.315612,CC-7497563012,768.4141910075584,"Ruiz, Aguero and Ruiz","Viedma, República Federal Democrática de Nepal",Pago,Bangladesh,0
+166,2025-01-07 16:08:53.756294,CC-2413299886,892.6224573557977,Mendoza-Gonzalez,"Salta, Tailandia",Compra,Guyana,0
+167,2025-01-24 02:04:50.871238,CC-9202222354,937.9512381246786,"Gonzalez, Sanchez and Rodriguez","San Juan, España",Compra,Nicaragua,0
+168,2025-02-27 20:10:23.104535,CC-1602525634,767.9771476513199,"Velazquez, Chavez and Gomez","Constitución, Polonia",Pago,Reino Unido de Gran Bretaña e Irlanda del Norte,0
+169,2025-03-11 05:57:41.290694,CC-6835949161,736.981834236225,"Cardozo, Olivera and Caceres","Córdoba, Mónaco",Compra,Perú,0
+170,2025-02-13 14:26:32.201022,CC-5034130789,697.4260482132752,Castillo-Morales,"Santa Fe, Malta",Compra,Tonga,0
+171,2025-03-12 15:41:08.102500,CC-7227675178,630.6896812756727,"Garcia, Martinez and Vargas","Salta, Maldivas",Pago,Colombia,0
+172,2025-01-04 00:33:37.452756,CC-2485321084,276.86224485854956,Maidana-Cruz,"Santiago del Estero, Bulgaria",Compra,México,0
+173,2025-03-04 07:49:20.766685,CC-4333644457,147.8732634751486,Lopez and Sons,"Constitución, Dominicana",Pago,República Popular Democrática de Corea,0
+174,2025-01-29 05:44:54.720315,CC-3533813637,187.14414906125475,"Rodriguez, Rodriguez and Farias","San Salvador de Jujuy, Malasia",Compra,Suriname,0
+175,2025-01-20 06:00:14.320774,CC-3397872576,665.7756298860226,"Gimenez, Castro and Gomez","San Salvador de Jujuy, India",Retiro,Alemania,0
+176,2025-02-15 19:13:37.488190,CC-7902288242,373.9021881580307,"Vazquez, Barrios and Gonzalez","Mar del Plata, Guinea Bissau",Retiro,República Checa,0
+177,2025-03-19 08:41:51.860463,CC-2876020990,198.72510561981684,"Blanco, Ramos and Sosa","San Salvador de Jujuy, Filipinas",Compra,Namibia,0
+178,2025-02-06 04:16:22.570159,CC-4331585951,746.3850398233662,Escobar-Castillo,"Paraná, El Salvador",Pago,República de Macedonia del Norte,0
+179,2025-01-23 03:45:20.711140,CC-9550883166,382.3489283642054,"Fernandez, Silva and Avila","San Ferando del Valle de Catamarca, Belarús",Retiro,Indonesia,0
+180,2025-03-20 20:01:13.618550,CC-6997810596,818.5937817862674,Sosa-Paez,"Neuquén, Brunei Darussalam",Compra,Eritrea,0
+181,2025-03-13 02:57:47.417352,CC-8777385105,958.8589118172825,"Mansilla, Pereyra and Medina","Formosa, Dinamarca",Compra,Sri Lanka,0
+182,2025-02-10 21:06:08.121067,CC-5518001002,867.3647426108521,Sanchez LLC,"San Miguel de Tucumán, Grecia",Retiro,Bolivia,0
+183,2025-02-23 02:47:28.508451,CC-8783052410,319.5161796310394,Gomez PLC,"Santiago del Estero, Kazajstán",Pago,República Centroafricana,0
+184,2025-02-18 22:48:14.587340,CC-5904292907,582.8848036640537,Aguirre-Garcia,"Viedma, Países Bajos",Pago,Santo Tomé y Príncipe,0
+185,2025-01-27 23:04:15.124737,CC-4382157735,263.9395946607866,"Alvarez, Rojas and Gonzalez","Constitución, República de Corea",Pago,Chipre,0
+186,2025-02-26 01:01:45.569180,CC-2195288072,155.89858406645072,"Ponce, Gonzalez and Gomez","Santa Rosa, Trinidad y Tabago",Pago,Filipinas,0
+187,2025-03-01 01:44:46.727147,CC-1375419662,94.81607123087088,Cruz-Diaz,"Constitución, Suecia",Pago,Brasil,0
+188,2025-01-17 15:14:28.880788,CC-5138103434,337.44950827248795,Gonzalez Inc,"Resistencia, Bosnia y Herzegovina",Pago,Sierra Leona,0
+189,2025-01-25 22:26:16.184366,CC-3367377641,369.7940405073788,Hernandez LLC,"San Ferando del Valle de Catamarca, Ghana",Compra,Haití,0
+190,2025-01-23 05:20:56.997979,CC-4183874777,87.90252821259016,Leiva Ltd,"Ushuaia, Bhután",Retiro,Cuba,0
+191,2025-02-02 10:52:25.706574,CC-7767905490,536.0542206556007,Gomez-Gomez,"La Rioja, Australia",Retiro,República Federal Democrática de Nepal,0
+192,2025-03-21 13:36:50.586608,CC-5119490298,673.1805512192801,Suarez LLC,"Merlo, Irlanda",Retiro,Jordania,0
+193,2025-01-15 09:31:51.617580,CC-1425537335,223.8442604586872,Sanchez LLC,"Rosario, Panamá",Compra,Mozambique,0
+194,2025-02-01 01:29:05.738543,CC-7296070761,426.6554701692444,"Molina, Cardozo and Cardozo","Salta, Egipto",Pago,Indonesia,0
+195,2025-03-24 14:43:17.043914,CC-2975605226,809.7524496318638,Rios Inc,"Mendoza, Bahamas",Compra,Brunei Darussalam,0
+196,2025-03-01 16:24:56.913189,CC-6443719035,996.6363171839928,Gonzalez Group,"Ushuaia, Georgia",Compra,Bangladesh,0
+197,2025-01-13 15:06:04.764033,CC-5942005561,486.4437691919509,"Gimenez, Lucero and Ramirez","Corrientes, Venezuela",Compra,República Centroafricana,0
+198,2025-02-11 22:05:27.162345,CC-6941942839,253.27085375706483,Rios-Paez,"Bahía Blanca, Mozambique",Pago,Suecia,0
+199,2025-02-27 17:45:07.196738,CC-3493646100,602.017816246354,"Molina, Figueroa and Rivero","Merlo, Bahamas",Retiro,Eslovaquia,0
+200,2025-01-13 02:55:39.643284,CC-2815133492,224.92374675010885,Aguirre-Cordoba,"La Rioja, Djibouti",Compra,Ucrania,0
+201,2025-01-01 17:48:28.169117,CC-6520321687,325.11404070916217,Pereyra-Medina,"Rosario, Nigeria",Retiro,Pakistán,0
+202,2025-03-19 04:32:49.852227,CC-8680003797,69.90761702878838,Martinez-Gutierrez,"San Juan, Myanmar",Pago,Guinea Bissau,0
+203,2025-02-08 09:14:39.017496,CC-6559571501,555.0061931683119,Franco Group,"Resistencia, Sudáfrica",Retiro,Lituania,0
+204,2025-03-21 17:16:25.195359,CC-3483191234,27.30492374938205,Gomez and Sons,"Ushuaia, Barbados",Compra,Vanuatu,0
+205,2025-02-14 21:04:22.470554,CC-3839688351,443.8792033477679,"Mendez, Ponce and Guzman","Formosa, China",Retiro,Túnez,0
+206,2025-02-09 08:22:21.004425,CC-5747586649,294.03243298690427,"Aguirre, Fernandez and Romero","Merlo, Tuvalu",Compra,Haití,0
+207,2025-03-19 14:52:54.975227,CC-8734973123,571.6562487435098,Romero-Sosa,"Santa Rosa, China",Retiro,Japón,0
+208,2025-01-01 11:30:57.702948,CC-2967475379,313.530474408014,Diaz LLC,"San Salvador de Jujuy, Dinamarca",Retiro,Marruecos,0
+209,2025-02-02 17:31:31.590939,CC-5572285359,937.4162703436638,"Soria, Acuña and Perez","Merlo, Australia",Compra,Namibia,0
+210,2025-03-15 12:40:38.007009,CC-8213291037,197.21155790791468,Bravo-Luna,"Posadas, Djibouti",Pago,Guinea,0
+211,2025-01-09 01:29:55.005911,CC-3330873696,28.418854072828857,"Caceres, Avila and Garcia","San Juan, Chipre",Pago,Nauru,0
+212,2025-01-16 18:45:37.414705,CC-2529043564,301.11332702861296,Duarte-Martinez,"Viedma, Egipto",Retiro,Mozambique,0
+213,2025-02-07 02:50:38.108802,CC-8514184868,39.617076547325226,Peralta LLC,"San Luis, Gabón",Compra,México,0
+214,2025-02-12 21:49:07.716563,CC-4276508267,32.24323639103408,Rivero PLC,"Posadas, Ecuador",Compra,Guyana,0
+215,2025-01-04 11:55:05.693958,CC-3960015345,738.7293431694708,Gonzalez-Sanchez,"Resistencia, Senegal",Retiro,Portugal,0
+216,2025-03-01 04:59:05.988264,CC-8922738253,956.8213146460762,Rojas-Campos,"Viedma, Ucrania",Compra,Letonia,0
+217,2025-03-12 12:09:54.500068,CC-2082949500,404.7944138652991,Lucero Ltd,"La Rioja, Santo Tomé y Príncipe",Compra,Túnez,0
+218,2025-03-24 15:28:21.242940,CC-1541627715,374.406647024035,Bravo-Aguirre,"Mar del Plata, Australia",Compra,Guatemala,0
+219,2025-02-11 01:12:18.975137,CC-9937220399,541.971068893209,Gonzalez-Herrera,"La Rioja, Israel",Compra,Myanmar,0
+220,2025-02-10 05:57:31.448807,CC-1741697933,752.3744192307892,Gomez PLC,"Resistencia, Libia",Pago,Guatemala,0
+221,2025-01-04 13:21:00.627262,CC-8371777600,731.7826717082132,Navarro LLC,"San Luis, Benin",Compra,Tayikistán,0
+222,2025-01-28 09:17:03.682310,CC-6390503308,911.3456004726308,"Fernandez, Carrizo and Rios","Neuquén, Granada",Pago,Nigeria,0
+223,2025-02-15 14:44:47.273964,CC-9793748192,441.14748913307136,"Vera, Vera and Sosa","Viedma, Saint Kitts y Nevis",Pago,Zimbabwe,0
+224,2025-02-21 13:26:59.393199,CC-9070305033,917.4477092786109,Barrios-Franco,"Rawson, Ucrania",Compra,Arabia Saudita,0
+225,2025-01-14 19:22:06.038512,CC-3905829589,542.1517072284907,Gutierrez LLC,"Río Gallegos, Antigua y Barbuda",Pago,Kiribati,0
+226,2025-03-02 16:06:58.843571,CC-5085492149,836.3582008605696,Sanchez LLC,"Mendoza, Namibia",Compra,Camboya,0
+227,2025-03-13 07:15:44.092852,CC-4251733898,100.5633312978378,"Luna, Mendoza and Franco","Santa Rosa, Bhután",Compra,Sudán del Sur,0
+228,2025-03-18 02:03:14.181545,CC-1702622347,706.2789836101268,Fernandez-Alvarez,"Mendoza, República Popular Democrática de Corea",Pago,Palau,0
+229,2025-03-22 17:33:07.458327,CC-5795553725,294.3015817446475,Dominguez Inc,"San Salvador de Jujuy, Qatar",Retiro,Argelia,0
+230,2025-01-17 20:32:21.088641,CC-8447431953,813.0982002418565,Juarez and Sons,"Santa Rosa, Bhután",Compra,Mozambique,0
+231,2025-02-03 11:40:22.950090,CC-3587884317,992.6464739715124,"Martin, Diaz and Suarez","Corrientes, Bolivia",Retiro,Montenegro,0
+232,2025-01-06 08:04:27.042049,CC-6362677029,832.4219837498084,"Gonzalez, Figueroa and Miranda","Bahía Blanca, Malta",Retiro,Samoa,0
+233,2025-02-12 04:40:18.567590,CC-5990814525,725.7712244648767,"Sanchez, Fernandez and Gomez","La Rioja, Pakistán",Pago,Mauritania,0
+234,2025-02-17 06:19:44.032253,CC-9918338677,573.4620666575053,Barrios-Toledo,"Constitución, Líbano",Compra,Singapur,0
+235,2025-01-20 21:09:09.553663,CC-9498095359,697.0091454213081,Ojeda-Ruiz,"Chilecito, Reino Unido de Gran Bretaña e Irlanda del Norte",Retiro,Nueva Zelandia,0
+236,2025-01-30 00:56:05.514363,CC-1338230493,832.254181142594,Lucero-Gonzalez,"Santa Rosa, Guinea",Pago,Italia,0
+237,2025-02-16 19:10:03.167967,CC-4085360579,68.49951870220315,Bravo Inc,"Rosario, Swazilandia",Retiro,Jamaica,0
+238,2025-01-06 08:51:28.921418,CC-3743088689,795.6061054367804,Garcia-Ayala,"Santa Fe, Egipto",Compra,Angola,0
+239,2025-02-13 08:57:13.885001,CC-7523886918,893.2619668578069,Molina Ltd,"Córdoba, Jamaica",Compra,Mauricio,0
+240,2025-01-31 03:10:34.395561,CC-8518988700,57.39137621759808,Rivero-Sanchez,"Comodoro Rivadavia, Kazajstán",Pago,Uruguay,0
+241,2025-03-04 20:13:19.646560,CC-7337780913,127.80203317609046,Suarez-Mendoza,"Posadas, Comoras",Compra,Rumania,0
+242,2025-01-16 16:56:34.412315,CC-8502206572,159.478127996105,Godoy Inc,"Neuquén, Tailandia",Retiro,Camerún,0
+243,2025-03-13 15:26:15.950697,CC-9557366591,308.684202070209,Gonzalez-Quiroga,"Formosa, República Federal Democrática de Nepal",Retiro,Hungría,0
+244,2025-03-01 19:36:48.400958,CC-9128025840,316.2081662586204,Bustos PLC,"Constitución, Honduras",Retiro,República Checa,0
+245,2025-01-30 03:08:31.366508,CC-9804520127,352.64947236901025,Carrizo and Sons,"La Rioja, Bangladesh",Pago,Burkina Faso,0
+246,2025-01-01 12:43:03.866530,CC-4061962484,179.89725172787882,"Gomez, Gomez and Lopez","San Miguel de Tucumán, El Salvador",Retiro,Grecia,0
+247,2025-02-08 10:51:21.597749,CC-1212284012,924.227356696229,Diaz PLC,"Chilecito, Polonia",Pago,Sierra Leona,0
+248,2025-03-23 15:51:55.080571,CC-4663661760,436.33536498201255,Gonzalez and Sons,"Ushuaia, Suriname",Pago,Italia,0
+249,2025-01-06 21:08:52.435548,CC-6536581007,214.59949266276337,"Torres, Ponce and Sanchez","San Salvador de Jujuy, Bahamas",Pago,Mauritania,0
+250,2025-02-14 17:24:54.514291,CC-5106980869,883.0772856888029,Rojas-Hernandez,"La Rioja, Paraguay",Compra,Túnez,0
+251,2025-02-09 04:21:31.700030,CC-8440557477,509.61825410871,Acosta Ltd,"Rosario, Camerún",Compra,Guyana,0
+252,2025-03-09 13:43:11.774342,CC-6124626955,109.94105173109227,Sanchez Group,"Santa Fe, Nauru",Pago,Eslovenia,0
+253,2025-03-08 02:30:22.057674,CC-1520994615,54.40664286804727,Gomez Ltd,"San Luis, Azerbaiyán",Retiro,China,0
+254,2025-02-17 05:03:01.570361,CC-3948314469,519.3124024768707,Rodriguez and Sons,"Formosa, Suiza",Compra,Antigua y Barbuda,0
+255,2025-03-19 06:29:00.537246,CC-2977464272,394.84092395763554,Gomez-Garcia,"Resistencia, Emiratos Árabes Unidos",Compra,Nueva Zelandia,0
+256,2025-02-24 16:17:28.704256,CC-3347030392,978.7926048989198,Torres-Aguero,"La Plata, Niger",Retiro,Sri Lanka,0
+257,2025-02-11 00:22:14.033371,CC-2946694040,622.5967353057486,Ledesma and Sons,"Comodoro Rivadavia, Bahrein",Retiro,Fiji,0
+258,2025-03-06 23:03:59.069037,CC-2469513896,722.139623077345,Pereyra-Guzman,"Paraná, Tayikistán",Retiro,Kuwait,0
+259,2025-02-14 12:33:31.207182,CC-7549341461,609.4252268090617,Torres and Sons,"Rawson, Sudáfrica",Retiro,Venezuela,0
+260,2025-02-08 03:33:55.339701,CC-2203785001,302.9636916127179,Cruz Inc,"San Ferando del Valle de Catamarca, República Checa",Pago,Vanuatu,0
+261,2025-03-17 21:02:25.228127,CC-3967888264,941.3292651651986,"Ojeda, Peralta and Sanchez","La Rioja, Tayikistán",Retiro,Luxemburgo,0
+262,2025-03-14 05:58:47.545137,CC-4162814427,480.35012283761887,"Duarte, Vera and Paz","San Luis, Azerbaiyán",Pago,Côte d'Ivoire,0
+263,2025-01-01 14:52:23.556581,CC-4857736061,724.5865009896349,"Ponce, Diaz and Benitez","La Plata, San Vicente y las Granadinas",Compra,Bangladesh,0
+264,2025-01-02 19:59:48.872535,CC-2961969079,536.4240487863192,"Fernandez, Sosa and Ojeda","Río Gallegos, Líbano",Retiro,Lesotho,0
+265,2025-03-20 17:00:19.103840,CC-2705076790,966.1082944216299,"Ruiz, Rodriguez and Alvarez","Mar del Plata, Kuwait",Retiro,Argelia,0
+266,2025-01-02 17:57:45.324190,CC-2565919716,54.715941507958085,Ayala-Benitez,"Rawson, Guyana",Retiro,Qatar,0
+267,2025-02-12 14:17:17.105255,CC-1584592125,186.27685570696332,Gomez LLC,"Santa Rosa, Pakistán",Pago,Federación de Rusia,0
+268,2025-01-12 21:59:49.606746,CC-3139664672,561.5584826165739,Gonzalez PLC,"San Juan, San Marino",Retiro,Irlanda,0
+269,2025-03-11 14:36:50.838992,CC-1907518665,602.1283768518147,Rodriguez-Gonzalez,"Mendoza, Burundi",Pago,España,0
+270,2025-01-15 20:42:34.503222,CC-3493756571,946.5559794601629,"Molina, Lopez and Perez","La Rioja, Guatemala",Retiro,Nueva Zelandia,0
+271,2025-01-21 19:53:44.365599,CC-6923508449,965.9602030769316,Alvarez Group,"Rosario, Marruecos",Retiro,Maldivas,0
+272,2025-03-21 02:28:13.407093,CC-7954704229,567.2342069383923,Rivero-Acosta,"Paraná, Gambia",Retiro,Austria,0
+273,2025-03-19 06:21:16.649891,CC-1984314666,820.8176733728554,Martin PLC,"Merlo, Antigua y Barbuda",Pago,Bhután,0
+274,2025-03-23 14:23:50.007269,CC-8947225100,941.2926911638384,Gonzalez Group,"Santa Rosa, Dominicana",Pago,Angola,0
+275,2025-02-21 11:37:12.475855,CC-9817877716,81.99151826608548,Medina Inc,"Chilecito, Antigua y Barbuda",Retiro,Honduras,0
+276,2025-01-09 00:34:46.972016,CC-5899192177,960.16156692251,Gonzalez LLC,"Ushuaia, Afganistán",Pago,Mauritania,0
+277,2025-01-29 23:06:17.381282,CC-6343312223,267.9708271074121,Medina-Rios,"Santiago del Estero, Túnez",Compra,Gambia,0
+278,2025-02-09 06:35:42.480571,CC-9256058901,276.39944222568084,Escobar-Moreno,"Comodoro Rivadavia, Montenegro",Retiro,Finlandia,0
+279,2025-02-12 02:24:38.329169,CC-8847105927,221.27623270144133,Coronel Group,"San Miguel de Tucumán, Singapur",Retiro,Japón,0
+280,2025-02-06 00:53:38.402018,CC-7361358064,102.70274384791075,"Herrera, Cruz and Lopez","San Miguel de Tucumán, Turquía",Retiro,Seychelles,0
+281,2025-02-28 05:44:19.814070,CC-1400533708,682.3271906683103,"Moreno, Diaz and Gonzalez","San Ferando del Valle de Catamarca, República Democrática Popular Lao",Compra,Hungría,0
+282,2025-01-27 17:35:20.455003,CC-1656911539,323.51185671355563,Martinez LLC,"Santa Rosa, Nueva Zelandia",Compra,Países Bajos,0
+283,2025-02-11 20:21:19.825845,CC-1949795995,462.46411982166063,"Castro, Suarez and Ramirez","San Salvador de Jujuy, Liechtenstein",Pago,Bulgaria,0
+284,2025-03-23 01:09:16.180236,CC-6596936462,799.7246046066693,Acosta-Quiroga,"Formosa, Noruega",Retiro,Mauritania,0
+285,2025-01-06 10:37:04.548362,CC-8994106240,34.16118493273279,Roldan-Gonzalez,"San Luis, Bulgaria",Compra,Lituania,0
+286,2025-02-19 20:35:12.186098,CC-8861753394,454.69882658333194,"Rodriguez, Vazquez and Martinez","Merlo, Azerbaiyán",Compra,Libia,0
+287,2025-03-21 14:50:11.264802,CC-6948647667,280.79853748558395,Nuñez-Fernandez,"Viedma, Estonia",Retiro,Sri Lanka,0
+288,2025-02-26 21:12:23.054979,CC-1586607330,538.5718089494477,Martinez-Sosa,"La Rioja, Comoras",Pago,Niger,0
+289,2025-03-03 01:37:16.424283,CC-2825217195,251.82738093865913,Diaz Group,"Santa Fe, Eslovaquia",Compra,Belarús,0
+290,2025-03-19 13:03:39.258784,CC-1480699147,121.91892746496968,Gomez PLC,"Santiago del Estero, Estonia",Compra,Cabo Verde,0
+291,2025-02-07 04:02:45.356985,CC-1147448448,468.087284317576,"Alvarez, Nuñez and Roldan","San Miguel de Tucumán, Qatar",Retiro,Venezuela,0
+292,2025-03-01 11:55:39.993846,CC-6827182844,750.4620130654756,Diaz-Molina,"Merlo, Indonesia",Pago,Micronesia,0
+293,2025-01-07 19:06:35.098573,CC-8138369366,681.842070563486,Rodriguez LLC,"Córdoba, Libia",Pago,Bahamas,0
+294,2025-01-18 19:42:22.446667,CC-9541571918,315.91355834124425,Medina Group,"Posadas, Turquía",Retiro,Honduras,0
+295,2025-01-17 23:30:28.204238,CC-3330453895,180.7559787313287,Leiva and Sons,"Resistencia, Finlandia",Compra,Timor-Leste,0
+296,2025-03-08 12:52:10.329623,CC-4013276726,259.596305573114,"Soria, Navarro and Sosa","Neuquén, Guatemala",Retiro,Suecia,0
+297,2025-01-06 10:34:00.526365,CC-2784717893,242.93910207178766,Barrios-Cordoba,"Santa Rosa, Tayikistán",Compra,Afganistán,0
+298,2025-02-03 04:34:24.439949,CC-5868391699,161.2602790187556,Gimenez PLC,"San Salvador de Jujuy, República Árabe Siria",Pago,Albania,0
+299,2025-03-15 07:37:09.271953,CC-6993099565,63.98821844082621,Rodriguez-Navarro,"Bahía Blanca, Bangladesh",Retiro,República de Macedonia del Norte,0
+300,2025-01-05 02:20:20.946934,CC-6744934620,888.1958770286697,"Bravo, Fernandez and Gomez","San Ferando del Valle de Catamarca, Tailandia",Compra,Senegal,0
+301,2025-03-18 02:29:40.953306,CC-3622297919,209.5038043495087,Alvarez Ltd,"La Plata, Etiopía",Compra,Belarús,0
+302,2025-03-22 19:59:17.000521,CC-1249031927,92.65319000288272,"Silva, Fernandez and Rios","San Luis, Irán",Compra,Mauricio,0
+303,2025-01-12 22:06:33.946122,CC-4648314443,458.29493624556807,"Moreno, Alvarez and Garcia","Comodoro Rivadavia, Ghana",Compra,Comoras,0
+304,2025-02-19 20:07:09.885058,CC-3303251097,769.5329298592609,Lopez PLC,"Corrientes, Suriname",Pago,San Vicente y las Granadinas,0
+305,2025-03-17 20:09:15.890202,CC-7360424457,260.4025341192687,Fernandez PLC,"Rosario, Emiratos Árabes Unidos",Pago,Túnez,0
+306,2025-01-15 15:40:56.646947,CC-4199759038,105.83376779730908,Nuñez-Muñoz,"Bahía Blanca, Mónaco",Pago,Bolivia,0
+307,2025-01-15 23:45:48.118363,CC-2421374935,721.50110595426,Martinez-Guzman,"Rawson, Nigeria",Compra,Tonga,0
+308,2025-03-05 07:05:39.995796,CC-2276595432,472.2711794365738,Navarro LLC,"San Miguel de Tucumán, Líbano",Retiro,Antigua y Barbuda,0
+309,2025-03-20 22:12:26.140863,CC-2888937161,707.4218798181071,Alvarez-Castillo,"San Juan, Mali",Pago,Suiza,0
+310,2025-03-10 13:15:10.999751,CC-5951549741,183.54460089817084,Paz LLC,"Mendoza, Santa Lucía",Retiro,Lituania,0
+311,2025-01-01 08:35:49.437961,CC-7830796973,613.1162669961045,Gomez-Diaz,"San Juan, República Federal Democrática de Nepal",Retiro,Kirguistán,0
+312,2025-01-27 03:37:17.606372,CC-3456991822,494.00635061496325,Valdez-Guzman,"Constitución, Saint Kitts y Nevis",Retiro,Nauru,0
+313,2025-01-06 04:22:46.606756,CC-9987028633,410.7397414033761,Gutierrez-Fernandez,"San Miguel de Tucumán, Marruecos",Compra,Mauricio,0
+314,2025-02-05 04:50:55.374379,CC-9520068866,523.3322700679466,Moreno Group,"Salta, Israel",Retiro,Georgia,0
+315,2025-02-18 03:14:14.082222,CC-5839104021,531.1299867831516,Benitez Inc,"Formosa, Madagascar",Pago,Uruguay,0
+316,2025-03-05 06:56:05.685564,CC-6102994565,711.2083993664435,Fernandez-Fernandez,"Santa Rosa, Chipre",Pago,República Checa,0
+317,2025-01-16 19:20:39.579224,CC-5826546230,480.89373108438224,Pereyra-Martinez,"Rawson, Haití",Pago,Tayikistán,0
+318,2025-03-22 15:26:04.275390,CC-5877650678,175.92196442137475,Molina and Sons,"Chilecito, Islandia",Pago,Timor-Leste,0
+319,2025-02-02 13:58:28.269592,CC-1802678880,834.9715982124347,"Martinez, Ruiz and Sosa","Córdoba, República Dominicana",Retiro,Rumania,0
+320,2025-03-09 08:51:17.645767,CC-5141293927,976.1782320535709,Martinez-Diaz,"San Luis, Bahamas",Retiro,Hungría,0
+321,2025-03-17 01:56:37.234622,CC-9642636257,312.4765404037003,Gonzalez PLC,"Córdoba, Etiopía",Retiro,Ghana,0
+322,2025-02-04 05:23:04.541636,CC-4814574109,759.8875024947916,Luna Ltd,"Chilecito, China",Compra,Libia,0
+323,2025-02-10 07:38:57.639000,CC-4008470622,972.5607350322514,Maldonado-Herrera,"Merlo, República Democrática del Congo",Compra,Madagascar,0
+324,2025-01-26 03:03:41.401948,CC-1268398825,413.9666084690237,"Sanchez, Cabrera and Ortiz","San Miguel de Tucumán, Côte d'Ivoire",Pago,Rumania,0
+325,2025-01-13 23:32:05.070684,CC-4506127186,568.578949683486,Suarez-Gomez,"Ushuaia, Sri Lanka",Pago,Gabón,0
+326,2025-03-17 12:46:01.784134,CC-4513372965,520.9106045346441,"Aguero, Diaz and Coronel","San Ferando del Valle de Catamarca, Albania",Retiro,República Unida de Tanzanía,0
+327,2025-03-05 10:11:20.320964,CC-8735999122,660.644563064027,Diaz and Sons,"Neuquén, Reino Unido de Gran Bretaña e Irlanda del Norte",Pago,Marruecos,0
+328,2025-03-20 23:39:18.348172,CC-6736771831,742.3124867815335,Perez LLC,"Santiago del Estero, Timor-Leste",Compra,República Centroafricana,0
+329,2025-01-17 21:37:30.422878,CC-9719760000,723.750240339224,Gimenez-Diaz,"Santa Fe, Portugal",Retiro,Sierra Leona,0
+330,2025-03-01 04:25:02.898917,CC-4842671767,373.96037456890883,Luna LLC,"Chilecito, Armenia",Pago,Irán,0
+331,2025-03-05 21:35:57.759439,CC-1903151876,112.27364496300667,Campos Group,"San Miguel de Tucumán, Emiratos Árabes Unidos",Pago,Eslovenia,0
+332,2025-02-15 11:29:26.733921,CC-7328173196,457.21712407474445,Romero LLC,"San Salvador de Jujuy, Eritrea",Retiro,Irán,0
+333,2025-02-18 17:23:17.356642,CC-2520890727,847.6808303502954,Lopez Inc,"Chilecito, Guatemala",Compra,Federación de Rusia,0
+334,2025-01-15 18:25:16.933845,CC-9129171237,889.5678818957522,Castillo-Vega,"Rawson, Gabón",Retiro,Bahamas,0
+335,2025-01-18 09:04:21.214795,CC-5081684183,420.21463576089405,Gomez-Gomez,"San Salvador de Jujuy, Kirguistán",Pago,Filipinas,0
+336,2025-01-16 12:24:46.512513,CC-6587758061,34.90672663947058,"Navarro, Vazquez and Rios","Corrientes, Países Bajos",Retiro,Tayikistán,0
+337,2025-01-10 15:48:03.083746,CC-2048218257,195.76852652969458,Perez-Flores,"La Rioja, Cabo Verde",Pago,Guinea,0
+338,2025-02-28 19:14:48.222278,CC-5962634653,351.3819360693,Acosta Ltd,"La Rioja, Jamaica",Pago,Eslovaquia,0
+339,2025-01-12 06:42:33.839477,CC-9492798212,590.9394253596759,Fernandez-Quiroga,"Comodoro Rivadavia, Samoa",Compra,México,0
+340,2025-01-04 11:49:13.572340,CC-7723294689,10.608988000491337,Gonzalez-Sosa,"Constitución, Croacia",Retiro,España,0
+341,2025-02-28 10:14:35.430716,CC-2169192483,716.0442345043433,Gonzalez-Acosta,"Resistencia, Chipre",Compra,Serbia,0
+342,2025-01-24 05:38:24.719163,CC-3029132458,427.3321691519468,"Molina, Lopez and Martinez","Córdoba, Chipre",Compra,Marruecos,0
+343,2025-02-24 02:19:54.251246,CC-7895765931,455.2504491207029,Campos-Lopez,"Formosa, Uzbekistán",Pago,Países Bajos,0
+344,2025-02-25 18:22:33.705259,CC-2738901121,526.0694379577221,"Chavez, Mendez and Benitez","San Salvador de Jujuy, Qatar",Retiro,Samoa,0
+345,2025-01-25 05:54:29.681084,CC-3607815107,344.7384499320321,Suarez-Alvarez,"Mendoza, Portugal",Compra,Cuba,0
+346,2025-01-04 23:33:18.298455,CC-8265661536,419.9294493912605,"Nuñez, Duarte and Rojas","La Plata, Egipto",Retiro,El Salvador,0
+347,2025-01-12 00:41:42.969198,CC-6249924816,795.1244766018507,Vera-Lopez,"Salta, Liberia",Compra,Zambia,0
+348,2025-01-04 18:10:26.934479,CC-2401811146,631.5432021447815,"Lopez, Gutierrez and Rodriguez","San Salvador de Jujuy, Bangladesh",Compra,Liberia,0
+349,2025-02-18 15:24:06.431665,CC-3187838724,362.9212650423762,"Medina, Gonzalez and Fernandez","La Plata, Malta",Pago,Lituania,0
+350,2025-03-09 22:36:05.817913,CC-6737103779,646.8683040194057,Vazquez-Benitez,"Resistencia, Uruguay",Retiro,Mónaco,0
+351,2025-03-20 23:34:15.697216,CC-2341002695,27.78518308755827,"Alvarez, Gomez and Gutierrez","Neuquén, República Dominicana",Pago,Sudán,0
+352,2025-03-04 22:41:39.618189,CC-5557467412,490.2794759567939,"Fernandez, Juarez and Sanchez","San Ferando del Valle de Catamarca, Bahrein",Retiro,Mauricio,0
+353,2025-03-04 15:12:33.650689,CC-4740292020,323.7059776981848,Lopez Ltd,"San Ferando del Valle de Catamarca, República Checa",Retiro,Reino Unido de Gran Bretaña e Irlanda del Norte,0
+354,2025-03-21 08:03:50.911908,CC-7098667756,309.1314602729263,"Acosta, Gonzalez and Guzman","Posadas, Sudáfrica",Retiro,Eslovenia,0
+355,2025-03-15 23:50:58.121987,CC-2994149069,957.1037315850623,"Garcia, Valdez and Rivero","Ushuaia, Trinidad y Tabago",Compra,Haití,0
+356,2025-02-03 17:29:41.172552,CC-7227885711,241.72728882877385,Garcia-Molina,"San Miguel de Tucumán, Portugal",Retiro,Nauru,0
+357,2025-03-02 05:08:52.312747,CC-2534833389,518.9619875940866,Luna Ltd,"San Miguel de Tucumán, Austria",Retiro,Uruguay,0
+358,2025-03-03 03:34:35.939550,CC-1964433027,778.2803841130714,"Aguero, Rivero and Gomez","Rosario, Armenia",Pago,Jordania,0
+359,2025-01-30 15:35:20.085714,CC-7610169291,270.07221170751626,"Soto, Ojeda and Sanchez","San Luis, Suriname",Compra,Yemen,0
+360,2025-01-19 19:50:24.672804,CC-2406462786,406.2934958763773,Benitez-Mendez,"Río Gallegos, Turquía",Pago,Sudán del Sur,0
+361,2025-02-11 01:59:37.898132,CC-2163333674,591.1036033636454,Molina Group,"Merlo, Marruecos",Pago,Guinea Bissau,0
+362,2025-03-12 20:01:52.928239,CC-4449644592,925.3461382258178,Ojeda-Ruiz,"Ushuaia, Chipre",Pago,Argentina,0
+363,2025-03-04 15:27:05.491831,CC-8713125219,148.92734215981662,Rodriguez PLC,"Viedma, Sierra Leona",Retiro,Luxemburgo,0
+364,2025-01-19 13:44:24.583439,CC-3384923873,632.338017447448,"Gonzalez, Mendoza and Fernandez","San Miguel de Tucumán, Trinidad y Tabago",Compra,San Marino,0
+365,2025-01-13 20:49:23.725400,CC-9644295601,90.90960051767485,Fernandez Inc,"Santiago del Estero, Namibia",Retiro,Maldivas,0
+366,2025-01-05 13:09:01.116293,CC-3987498797,905.7952732946561,"Gomez, Diaz and Cabrera","Comodoro Rivadavia, Santa Lucía",Pago,Bhután,0
+367,2025-01-12 01:36:08.840233,CC-4115223589,422.632606444599,Herrera Group,"Resistencia, Nigeria",Pago,Sierra Leona,0
+368,2025-01-08 13:06:37.694425,CC-5337523030,574.7403929138073,Garcia-Franco,"Mar del Plata, Niger",Pago,Reino Unido de Gran Bretaña e Irlanda del Norte,0
+369,2025-03-07 00:44:24.398105,CC-2203510954,821.9460498649495,Sosa Ltd,"Comodoro Rivadavia, Italia",Compra,Suiza,0
+370,2025-02-27 18:52:22.177230,CC-6815470485,976.8353613135387,Juarez Group,"Paraná, Perú",Compra,Camerún,0
+371,2025-03-02 06:28:00.387956,CC-6655364639,302.49113674580286,Morales-Romero,"Viedma, Qatar",Retiro,Ghana,0
+372,2025-01-23 10:05:38.749604,CC-6049252935,392.7785041035129,"Farias, Gutierrez and Diaz","Paraná, Venezuela",Pago,Benin,0
+373,2025-01-10 07:07:52.143687,CC-4471740262,91.91766963842825,"Gonzalez, Garcia and Soto","Bahía Blanca, Lituania",Retiro,Kuwait,0
+374,2025-02-23 02:46:31.955136,CC-5143671166,375.55903267512366,Hernandez-Ramirez,"Constitución, Alemania",Pago,Suiza,0
+375,2025-02-25 18:34:14.071783,CC-2029728799,926.3407047373892,"Franco, Rojas and Bustos","Corrientes, Venezuela",Pago,Camboya,0
+376,2025-02-20 13:40:00.651734,CC-1652648328,492.6711791291702,Ledesma Ltd,"Santa Fe, Mauricio",Compra,Irán,0
+377,2025-02-08 03:08:00.500079,CC-8722943643,805.9089896076312,Cardozo-Suarez,"Río Gallegos, Croacia",Pago,Emiratos Árabes Unidos,0
+378,2025-03-24 01:15:14.531208,CC-3321365064,593.4329936090559,"Gonzalez, Gonzalez and Caceres","Formosa, Turquía",Pago,India,0
+379,2025-01-02 13:23:06.841057,CC-6563312647,247.75161003885364,Franco PLC,"Constitución, Islandia",Retiro,Azerbaiyán,0
+380,2025-03-23 10:11:43.458122,CC-2245049938,635.5974368439998,Garcia Inc,"La Rioja, Polonia",Retiro,Bangladesh,0
+381,2025-03-16 03:10:49.470350,CC-4826760097,351.331022086899,Suarez-Gomez,"Mendoza, Uganda",Retiro,Ucrania,0
+382,2025-02-20 04:12:36.476246,CC-7960904615,158.6163187300018,Romero-Molina,"Santa Rosa, Estonia",Compra,Japón,0
+383,2025-02-09 11:38:38.818614,CC-8584731322,925.8029440984516,"Hernandez, Olivera and Silva","Ushuaia, Malta",Compra,Irlanda,0
+384,2025-01-03 20:41:52.145834,CC-7442928449,434.0748177301772,"Pereyra, Lopez and Olivera","Merlo, Timor-Leste",Compra,Seychelles,0
+385,2025-01-28 13:40:44.167857,CC-9696785727,208.21812916029205,"Flores, Soria and Martinez","Resistencia, Congo",Compra,Belarús,0
+386,2025-01-31 08:49:05.773214,CC-2824570010,665.5312613858046,Medina-Villalba,"Merlo, Emiratos Árabes Unidos",Compra,Irlanda,0
+387,2025-03-20 01:16:48.415994,CC-4256944587,858.9966249839722,Martinez Inc,"Rawson, Grecia",Retiro,Belice,0
+388,2025-02-03 11:30:13.943782,CC-8772440877,509.40162312509017,Ponce-Coronel,"Santa Rosa, Estonia",Pago,Venezuela,0
+389,2025-03-18 07:52:05.640101,CC-5435725434,861.6217364899279,Fernandez-Moyano,"La Rioja, Vietman",Compra,Israel,0
+390,2025-01-19 03:53:27.643720,CC-6376834188,451.38686826337556,"Arias, Pereyra and Acosta","San Ferando del Valle de Catamarca, Benin",Pago,Marruecos,0
+391,2025-02-15 06:34:59.029527,CC-7902462720,630.1977039620205,Garcia-Nuñez,"La Rioja, Polonia",Pago,Honduras,0
+392,2025-01-08 08:41:54.982988,CC-8316050490,17.740254993183527,Rodriguez Ltd,"San Salvador de Jujuy, Somalia",Retiro,Guinea,0
+393,2025-02-06 03:44:15.627833,CC-3128111761,222.49556325982402,"Suarez, Diaz and Juarez","Santa Rosa, Federación de Rusia",Compra,China,0
+394,2025-01-27 09:54:32.464788,CC-6610421269,519.49392339372,Paz LLC,"Santa Rosa, Tayikistán",Retiro,Ucrania,0
+395,2025-01-05 14:36:18.574130,CC-9171871746,481.40283311199164,Gomez-Villalba,"Neuquén, Pakistán",Retiro,Malta,0
+396,2025-01-22 20:53:11.156359,CC-6416135675,713.2289443116518,Diaz and Sons,"Rosario, Palau",Pago,Túnez,0
+397,2025-01-28 20:54:51.840342,CC-5610551335,897.3026222433288,"Sanchez, Fernandez and Ramirez","Comodoro Rivadavia, República Unida de Tanzanía",Retiro,Arabia Saudita,0
+398,2025-03-21 07:32:23.507966,CC-4399133667,901.5846935911211,Vargas Inc,"Córdoba, Malawi",Pago,Bangladesh,0
+399,2025-02-12 23:40:15.614729,CC-5921561956,742.043610553438,Miranda and Sons,"Santa Fe, Belarús",Pago,Tailandia,0
+400,2025-03-09 10:29:28.132937,CC-7522425068,337.6280735581803,"Lopez, Gomez and Vega","Resistencia, Nauru",Pago,Islas Marshall,0
+401,2025-03-17 01:16:30.434278,CC-1048879104,170.45985254980292,Maldonado-Guzman,"Santa Fe, Bosnia y Herzegovina",Pago,Serbia,0
+402,2025-02-01 07:50:26.854522,CC-2072194760,996.17982271405,"Gomez, Martinez and Ortiz","La Rioja, Serbia",Compra,Argentina,0
+403,2025-02-18 03:52:40.025218,CC-3450727623,522.4589865120971,Vega-Lopez,"Rawson, Noruega",Retiro,Antigua y Barbuda,0
+404,2025-02-21 16:40:32.035772,CC-6872037272,947.1128849267466,"Romero, Romero and Romero","Viedma, Panamá",Compra,Burundi,0
+405,2025-01-11 13:29:05.741836,CC-1490304154,25.91484196378648,Lopez-Hernandez,"Santiago del Estero, Somalia",Compra,Bahamas,0
+406,2025-01-05 14:12:06.933444,CC-3795404793,712.0725965627213,Martinez LLC,"San Ferando del Valle de Catamarca, Afganistán",Compra,Polonia,0
+407,2025-02-23 04:16:50.852358,CC-6855227005,816.8635684489302,"Torres, Molina and Nuñez","Posadas, Uganda",Pago,Lituania,0
+408,2025-01-26 14:03:11.191578,CC-3039113789,752.2112640965973,Cabrera Group,"Rosario, Belice",Pago,Costa Rica,0
+409,2025-03-20 05:20:18.226648,CC-9970917909,456.4916295738681,Ponce-Miranda,"Santiago del Estero, Guatemala",Compra,Guatemala,0
+410,2025-02-11 17:43:42.751601,CC-6505625939,587.199629779566,Rodriguez-Perez,"Santa Fe, Bhután",Retiro,Emiratos Árabes Unidos,0
+411,2025-03-13 21:42:59.371533,CC-8320210465,68.10125069649341,Franco-Farias,"Comodoro Rivadavia, Dinamarca",Compra,Afganistán,0
+412,2025-01-14 13:09:02.677169,CC-8853073475,736.1379797896548,Medina-Rodriguez,"Santiago del Estero, Turkmenistán",Pago,Croacia,0
+413,2025-01-07 04:39:43.892541,CC-7866507679,874.2536140736617,Moreno-Paez,"Viedma, Burkina Faso",Pago,Noruega,0
+414,2025-02-09 04:53:51.810619,CC-1508962700,163.0778417317006,Aguirre-Gomez,"Córdoba, Afganistán",Retiro,Albania,0
+415,2025-01-11 00:00:43.720054,CC-3881239320,267.92385934667107,Fernandez Inc,"Córdoba, Albania",Pago,Hungría,0
+416,2025-02-03 23:16:51.917385,CC-7537479474,987.3551775599902,"Farias, Morales and Vazquez","Rosario, Islas Salomón",Compra,Saint Kitts y Nevis,0
+417,2025-01-03 22:42:49.276718,CC-9077621887,196.34239143079745,Figueroa Ltd,"Chilecito, Alemania",Compra,Suiza,0
+418,2025-02-19 01:40:28.255988,CC-1492206644,230.35639714671277,"Soria, Gonzalez and Luna","San Ferando del Valle de Catamarca, Luxemburgo",Pago,México,0
+419,2025-02-10 12:51:36.197577,CC-4646545558,847.8963321349992,"Soria, Moyano and Hernandez","Salta, Congo",Pago,Swazilandia,0
+420,2025-02-22 01:56:56.926469,CC-3382606196,396.10034756524226,Rodriguez PLC,"Corrientes, Dinamarca",Compra,Chipre,0
+421,2025-02-05 18:22:46.502822,CC-3269191038,666.7105796892516,Rodriguez-Ledesma,"Río Gallegos, Burkina Faso",Retiro,República Popular Democrática de Corea,0
+422,2025-01-11 20:33:59.748443,CC-7878320403,906.5161917733001,"Pereyra, Fernandez and Sanchez","Salta, Lesotho",Compra,Mongolia,0
+423,2025-02-25 22:04:01.231233,CC-7278699167,839.2394318191657,"Perez, Acuña and Duarte","Salta, Bhután",Retiro,Gabón,0
+424,2025-02-05 09:21:28.126615,CC-4629652108,179.3096177378925,"Ruiz, Godoy and Garcia","San Ferando del Valle de Catamarca, Gambia",Pago,República Democrática Popular Lao,0
+425,2025-02-24 20:31:04.375186,CC-5157827530,201.36267581462437,Nuñez Group,"Rosario, Colombia",Pago,Granada,0
+426,2025-02-16 13:19:37.537058,CC-5920212423,177.78796847982147,Gonzalez-Muñoz,"Comodoro Rivadavia, Qatar",Compra,Suiza,0
+427,2025-02-01 01:43:13.588555,CC-7918820525,292.762054090666,Silva Group,"Córdoba, Gabón",Retiro,República Unida de Tanzanía,0
+428,2025-01-01 21:33:57.710711,CC-9597980487,55.71778338236744,"Gomez, Olivera and Lopez","La Plata, Hungría",Compra,Argelia,0
+429,2025-02-21 15:21:12.694329,CC-1412238065,62.436989569222476,Diaz-Rodriguez,"Chilecito, Kenya",Pago,Madagascar,0
+430,2025-01-17 23:08:26.661855,CC-9643547771,338.49173159649126,Cardozo-Ramirez,"Ushuaia, Haití",Pago,Bolivia,0
+431,2025-01-01 14:54:30.389063,CC-3082865986,376.2818114647811,Torres and Sons,"Merlo, Portugal",Retiro,Saint Kitts y Nevis,0
+432,2025-02-26 12:37:14.546760,CC-5683522997,633.901538425302,Gonzalez Group,"Neuquén, Guyana",Pago,Irlanda,0
+433,2025-01-27 18:05:49.884255,CC-9768505747,711.9963448796967,Herrera-Villalba,"Salta, Francia",Retiro,Sudáfrica,0
+434,2025-01-27 08:22:06.748251,CC-6619778925,612.7581582452059,Bustos Ltd,"San Juan, Botswana",Retiro,Islandia,0
+435,2025-01-04 13:02:58.209416,CC-3466356517,333.7660734512928,Suarez and Sons,"Viedma, Micronesia",Compra,Etiopía,0
+436,2025-01-21 16:35:03.868175,CC-9879590388,562.1805323032019,"Flores, Roldan and Garcia","Constitución, Venezuela",Compra,Guinea Bissau,0
+437,2025-01-05 05:25:02.277417,CC-1410504178,193.248991166764,Castillo-Flores,"Santa Fe, Vietman",Retiro,Marruecos,0
+438,2025-01-15 02:32:40.937711,CC-8227745747,939.8976488404109,Olivera LLC,"La Plata, Haití",Retiro,Venezuela,0
+439,2025-01-10 18:12:56.274450,CC-6281895756,99.64594560977054,Olivera and Sons,"Resistencia, Congo",Retiro,Malawi,0
+440,2025-02-11 10:28:15.251177,CC-4739695865,112.69109496418217,Peralta LLC,"Formosa, Seychelles",Pago,Zimbabwe,0
+441,2025-03-11 23:59:18.060482,CC-3803952592,237.95982102035703,Diaz-Lopez,"Río Gallegos, Mozambique",Pago,República Checa,0
+442,2025-03-13 08:05:38.022219,CC-1022422707,886.211389379628,"Ojeda, Maidana and Flores","Viedma, Tuvalu",Compra,Tonga,0
+443,2025-03-11 17:41:30.182837,CC-2691634631,669.1391016032668,"Gonzalez, Gimenez and Rios","Bahía Blanca, República de Moldova",Retiro,Iraq,0
+444,2025-02-15 04:10:50.513505,CC-7813022802,20.940739510489514,"Acosta, Lopez and Gutierrez","La Plata, Cabo Verde",Retiro,Costa Rica,0
+445,2025-03-16 02:44:13.388221,CC-4855275172,846.7925228573982,Martinez-Gonzalez,"Bahía Blanca, Chipre",Compra,Antigua y Barbuda,0
+446,2025-03-16 10:37:07.390972,CC-4550681212,374.0803116626147,Garcia-Villalba,"Santa Fe, Bangladesh",Pago,Burkina Faso,0
+447,2025-01-17 21:36:06.170378,CC-6217919296,97.82797855737047,Diaz and Sons,"Corrientes, Lesotho",Pago,Malawi,0
+448,2025-02-08 20:53:29.211240,CC-5917801973,135.4062838928372,"Gomez, Vera and Rodriguez","Resistencia, Islas Marshall",Compra,Benin,0
+449,2025-02-20 09:01:36.839617,CC-9526943145,95.85986336331848,Lopez-Diaz,"San Miguel de Tucumán, Azerbaiyán",Retiro,República de Macedonia del Norte,0
+450,2025-03-12 19:09:31.838455,CC-7962851988,832.2932147911679,"Nuñez, Alvarez and Olivera","San Luis, Santa Lucía",Compra,Argentina,0
+451,2025-01-14 04:06:48.393641,CC-1069688886,310.2404068492738,Luna-Torres,"Chilecito, Panamá",Retiro,Sudán,0
+452,2025-01-08 09:56:58.159803,CC-1053360835,307.648488059427,Castro-Fernandez,"Comodoro Rivadavia, Botswana",Compra,Jordania,0
+453,2025-02-08 21:38:21.884201,CC-9771252377,745.2676830443339,Perez-Maldonado,"Bahía Blanca, Guatemala",Pago,Túnez,0
+454,2025-03-14 03:14:50.409988,CC-4362580713,831.1740794727336,Diaz-Fernandez,"Río Gallegos, Azerbaiyán",Retiro,Iraq,0
+455,2025-03-10 07:22:30.279737,CC-7394012402,763.413553483126,Dominguez-Vargas,"Neuquén, Cabo Verde",Pago,Georgia,0
+456,2025-01-25 15:33:04.187676,CC-3015959520,787.3342402465156,"Vega, Sanchez and Miranda","Rosario, Madagascar",Compra,Polonia,0
+457,2025-02-22 01:55:17.150448,CC-1062672233,63.036899714716824,Moreno-Garcia,"Posadas, República Federal Democrática de Nepal",Compra,Tailandia,0
+458,2025-02-06 06:56:35.114182,CC-4372672217,819.0734906504127,Ruiz PLC,"Viedma, Yemen",Compra,Singapur,0
+459,2025-03-05 19:59:59.863222,CC-4213082153,724.0198771786831,Cabrera-Rodriguez,"Constitución, Chipre",Compra,Zimbabwe,0
+460,2025-03-04 13:56:44.819405,CC-8999191331,507.49583527170137,Ortiz LLC,"San Miguel de Tucumán, Gabón",Pago,Estonia,0
+461,2025-01-11 17:15:36.023399,CC-9806470484,350.81626857844935,Pereyra PLC,"Córdoba, Noruega",Retiro,Kuwait,0
+462,2025-03-15 19:34:55.269050,CC-1155858192,534.9515629001725,Vera Inc,"Corrientes, Emiratos Árabes Unidos",Compra,Malta,0
+463,2025-01-02 11:34:39.432785,CC-8000353939,962.4866349160454,Nuñez Ltd,"La Plata, Sierra Leona",Retiro,Nueva Zelandia,0
+464,2025-01-31 23:54:32.850482,CC-8407380951,199.95537896132427,"Mendez, Rivero and Dominguez","Salta, Jamaica",Pago,Santo Tomé y Príncipe,0
+465,2025-02-03 04:05:11.403404,CC-2480357395,391.93341342110745,Garcia PLC,"Rosario, Guyana",Pago,Nicaragua,0
+466,2025-03-01 10:35:54.376497,CC-8139820595,539.7699735828556,Bustos PLC,"Chilecito, Guinea Ecuatorial",Retiro,Malta,0
+467,2025-02-26 05:08:03.315525,CC-4695585932,827.7578940383289,Soto-Castillo,"Córdoba, Malasia",Retiro,Qatar,0
+468,2025-03-17 02:09:46.634883,CC-4541264607,414.5668659696816,"Luna, Ayala and Quiroga","Posadas, Côte d'Ivoire",Compra,Maldivas,0
+469,2025-01-12 01:34:06.098224,CC-1198849513,663.4965563703978,Garcia PLC,"San Ferando del Valle de Catamarca, Mauricio",Pago,Belarús,0
+470,2025-02-18 08:28:18.690487,CC-8081282555,589.1342698237193,Romero-Moreno,"Ushuaia, Letonia",Retiro,Eslovaquia,0
+471,2025-02-27 04:08:59.178720,CC-7768604748,818.6786466804978,Gutierrez Ltd,"Bahía Blanca, Kuwait",Pago,Israel,0
+472,2025-03-18 20:58:06.722474,CC-7383305645,451.5191854654084,Gimenez Group,"La Plata, Sudán del Sur",Retiro,Chipre,0
+473,2025-01-16 04:04:03.702997,CC-5514405628,511.33299697238556,Rodriguez-Ferreyra,"Santiago del Estero, Sudán",Pago,Mozambique,0
+474,2025-02-09 09:17:15.185815,CC-2441662373,428.8815425514664,Fernandez-Mendoza,"San Luis, Myanmar",Retiro,Afganistán,0
+475,2025-02-07 04:15:25.384618,CC-8255924044,897.4794721698584,"Miranda, Alvarez and Martinez","Santa Rosa, Chile",Pago,República de Macedonia del Norte,0
+476,2025-03-21 05:13:53.201138,CC-2139527386,863.8490859866794,"Carrizo, Sosa and Maldonado","San Salvador de Jujuy, Maldivas",Compra,Guatemala,0
+477,2025-01-15 01:24:10.188726,CC-1364870003,380.93197900717684,"Martinez, Campos and Ramirez","San Ferando del Valle de Catamarca, República de Moldova",Pago,República Árabe Siria,0
+478,2025-01-28 15:39:35.767554,CC-8537007179,249.2488899672818,Rodriguez Group,"San Salvador de Jujuy, Bulgaria",Pago,Bosnia y Herzegovina,0
+479,2025-02-07 08:36:29.486806,CC-3622995951,841.3551503539917,Pereyra and Sons,"Viedma, Santa Lucía",Compra,Nicaragua,0
+480,2025-02-21 04:33:22.959169,CC-2763236595,527.7719781703119,Bravo-Lopez,"Formosa, Georgia",Pago,Islas Salomón,0
+481,2025-02-03 05:58:30.663962,CC-8339825316,938.3650023306536,"Vargas, Lopez and Perez","Mar del Plata, Croacia",Retiro,Francia,0
+482,2025-01-27 11:54:52.903487,CC-7211077035,595.4271342010898,Gomez LLC,"Viedma, Armenia",Compra,Bhután,0
+483,2025-03-08 09:09:26.560893,CC-9994398708,496.11847007598794,Fernandez and Sons,"San Juan, Israel",Pago,Tailandia,0
+484,2025-02-11 20:19:29.664378,CC-6776405126,107.77420779907416,"Diaz, Lopez and Torres","Córdoba, Suiza",Retiro,Myanmar,0
+485,2025-01-04 00:20:03.745880,CC-5339768381,792.7954487561972,Aguirre-Sosa,"San Juan, Croacia",Pago,Papua Nueva Guinea,0
+486,2025-02-21 09:48:10.438946,CC-3662091817,112.16624387487977,Martinez PLC,"Paraná, República Centroafricana",Pago,Etiopía,0
+487,2025-02-07 13:11:03.302381,CC-5231157446,42.52088411311257,Bustos Ltd,"Posadas, Malasia",Compra,Timor-Leste,0
+488,2025-03-19 17:21:08.241787,CC-9197823111,164.12526785087965,"Godoy, Vazquez and Mendoza","Neuquén, Argelia",Compra,Uzbekistán,0
+489,2025-02-24 15:14:36.950295,CC-7453593336,391.5304968138823,"Diaz, Benitez and Lucero","Río Gallegos, Sudán",Retiro,Argentina,0
+490,2025-01-22 14:12:35.293380,CC-1865080304,736.1745223806352,Romero and Sons,"Rawson, Kuwait",Compra,San Vicente y las Granadinas,0
+491,2025-01-12 19:31:02.477904,CC-1500295289,790.8302734977386,Fernandez Inc,"Paraná, Uganda",Retiro,Chipre,0
+492,2025-02-14 01:39:41.995540,CC-6357654245,124.47071288960996,"Molina, Caceres and Gomez","Constitución, Armenia",Compra,Rumania,0
+493,2025-01-28 00:15:59.805811,CC-8979128376,468.9866803277138,"Juarez, Ayala and Godoy","San Miguel de Tucumán, Australia",Compra,Burkina Faso,0
+494,2025-01-26 20:56:15.342155,CC-4486183500,426.5343199708782,"Gonzalez, Gonzalez and Sosa","Santa Rosa, Bolivia",Pago,Timor-Leste,0
+495,2025-02-07 03:53:33.064303,CC-5390225109,177.80164310486276,"Martinez, Torres and Medina","Posadas, Líbano",Retiro,Hungría,0
+496,2025-01-01 04:03:40.382566,CC-2883899584,162.103978644852,"Leiva, Hernandez and Gimenez","Posadas, Mónaco",Pago,Haití,0
+497,2025-02-02 21:49:38.886800,CC-8123400601,505.7239305699194,Gomez-Garcia,"San Miguel de Tucumán, Suriname",Pago,Camerún,0
+498,2025-02-11 20:57:48.637446,CC-2715205624,404.48753490181264,"Dominguez, Franco and Navarro","San Juan, Cabo Verde",Retiro,Rumania,0
+499,2025-01-10 00:56:17.076331,CC-6146875579,348.20848289162353,Gonzalez-Diaz,"Posadas, Montenegro",Retiro,Federación de Rusia,0
+500,2025-02-25 12:49:22.345840,CC-7142084909,473.0102750800399,Correa Ltd,"Rawson, San Marino",Retiro,Gambia,0
