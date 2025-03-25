@@ -1,0 +1,76 @@
+ID_Proyecto,Organismo_Contratante,Empresa_Constructora,Tipo_Obra,Fecha_Inicio,Fecha_Fin_Estimada,Monto_Contrato,Estado_Obra,Plazo_Ejecucion_Dias,Adjudicacion_Unica,Modificaciones_Contrato,Avance_Obra_Porcentaje,Es_Sospechoso
+1,Garcia-Garcia,Morales-Diaz,Infraestructura,2025-01-05,2026-12-18,9139110.522209574,Demorada,245,1,3,0.16437571124496841,0
+2,Garcia-Rodriguez,Gonzalez Inc,Vial,2025-01-07,2025-06-28,5764017.340849842,Finalizada,390,1,0,37.641496252069395,0
+3,Mendez Ltd,Muñoz-Castillo,Hidráulica,2025-03-16,2026-05-26,1889772.9905675575,Finalizada,353,1,2,57.07614809590734,0
+4,"Lopez, Ponce and Pereyra",Cardozo LLC,Edificación,2025-01-20,2025-08-01,2761096.388798962,Demorada,44,0,2,47.87048579655225,0
+5,"Guzman, Toledo and Bravo",Romero-Ferreyra,Vial,2025-01-30,2025-12-08,2066581.3112843172,Finalizada,246,1,1,86.2076142576597,0
+6,Gimenez-Toledo,Avila-Suarez,Hidráulica,2025-02-26,2025-12-14,2543884.573197756,Demorada,521,0,4,10.540528595616694,0
+7,Garcia PLC,Juarez-Pereyra,Hidráulica,2025-03-14,2025-11-09,3133512.94857526,Finalizada,576,0,0,55.38234406337256,0
+8,"Diaz, Roldan and Pereyra","Ferreyra, Soto and Diaz",Vial,2025-02-03,2025-05-07,5595824.488856566,Finalizada,212,0,1,51.297934982090744,0
+9,Diaz-Gomez,Paez PLC,Edificación,2025-01-29,2025-08-14,5921117.131691945,En Curso,299,0,3,28.1392982172163,0
+10,Torres and Sons,"Ayala, Gonzalez and Gonzalez",Vial,2025-03-07,2025-02-16,4322347.497694425,En Curso,496,0,4,82.22281125770105,0
+11,"Barrios, Juarez and Ponce",Martinez-Dominguez,Hidráulica,2025-03-06,2025-10-17,6192665.720226271,Demorada,641,1,0,75.28486558822063,0
+12,Torres Group,"Lopez, Lopez and Diaz",Edificación,2025-02-05,2027-01-27,907591.7635525226,Suspendida,548,0,2,73.2859187331831,0
+13,Coronel Group,"Godoy, Ramirez and Romero",Vial,2025-02-28,2027-01-01,969103.5468757837,En Curso,571,1,0,87.6192478269556,0
+14,"Benitez, Maidana and Correa","Garcia, Diaz and Rojas",Edificación,2025-01-17,2026-09-10,1801111.6575408187,Demorada,496,0,2,72.27846006215212,0
+15,Leiva and Sons,Mendez Group,Edificación,2025-02-15,2027-01-24,5228967.230599413,Finalizada,334,1,4,23.184129171472645,0
+16,Aguirre-Fernandez,"Benitez, Fernandez and Pereyra",Hidráulica,2025-01-24,2025-07-04,2218547.3191133044,Suspendida,173,0,2,70.5562711649691,0
+17,"Romero, Sosa and Perez",Garcia-Gomez,Infraestructura,2025-02-09,2026-05-15,2904515.5945765157,Suspendida,140,0,3,30.770281338984383,0
+18,Paz-Gomez,Sanchez-Medina,Vial,2025-02-20,2025-12-19,4063097.0781126413,Suspendida,261,1,2,24.217465034747054,0
+19,Benitez-Gutierrez,Sanchez Group,Vial,2025-03-16,2025-10-30,8137474.6277027605,Demorada,720,1,3,7.300359289962732,0
+20,Carrizo Inc,"Aguirre, Gomez and Sosa",Hidráulica,2025-03-19,2026-08-06,237235.14553731517,Finalizada,613,0,4,74.40285803476768,0
+21,"Lopez, Acosta and Correa","Diaz, Lopez and Herrera",Vial,2025-01-14,2025-12-18,6528850.320342562,Suspendida,621,1,4,71.10009619498112,0
+22,Avila Inc,"Medina, Gomez and Alvarez",Edificación,2025-01-09,2025-11-15,6721877.657302785,En Curso,529,0,0,23.449947767409373,0
+23,"Ruiz, Olivera and Farias",Martinez-Caceres,Hidráulica,2025-02-10,2025-08-22,8006692.225530702,En Curso,624,0,3,74.93790167241559,0
+24,"Morales, Castro and Escobar",Gomez-Ayala,Vial,2025-02-09,2026-04-26,9334254.096697101,En Curso,583,0,3,91.78408830935531,0
+25,"Castillo, Ramirez and Gonzalez","Villalba, Gomez and Martinez",Vial,2025-01-23,2025-12-27,299364.7045979693,Finalizada,302,0,1,10.802895749157926,0
+26,"Gutierrez, Sanchez and Cabrera",Gutierrez Inc,Edificación,2025-01-15,2026-10-16,1622458.6845808402,Demorada,202,1,1,23.263663838677495,0
+27,"Rojas, Arias and Ruiz",Godoy-Sanchez,Vial,2025-01-23,2027-01-24,8873095.811154332,Suspendida,36,1,1,75.02607940873155,0
+28,Castillo Ltd,Caceres-Gutierrez,Infraestructura,2025-03-12,2027-01-16,4639333.765651452,En Curso,184,1,2,27.450667350707825,0
+29,"Molina, Ruiz and Perez",Diaz Inc,Infraestructura,2025-02-06,2025-11-03,5689447.325441289,Finalizada,551,0,1,62.46639742837168,0
+30,Gonzalez-Soria,Perez Group,Vial,2025-02-03,2026-08-20,6663969.316859159,Suspendida,575,1,3,8.116422446371452,0
+31,"Fernandez, Silva and Diaz",Rios-Garcia,Hidráulica,2025-02-04,2025-09-18,6822759.38450681,Finalizada,577,1,2,45.22024791035387,0
+32,Romero Ltd,"Lopez, Vera and Pereyra",Infraestructura,2025-01-28,2026-11-16,9324229.992833432,Finalizada,547,1,4,73.9091421992953,0
+33,Hernandez Inc,Sosa Group,Hidráulica,2025-03-01,2025-09-04,9969799.232375529,Demorada,244,1,0,68.65139430432525,0
+34,Guzman-Paez,Rodriguez LLC,Edificación,2025-01-20,2026-09-04,7229558.863216308,Demorada,163,0,1,81.50721006758069,0
+35,"Romero, Sosa and Ramirez","Carrizo, Gimenez and Garcia",Hidráulica,2025-01-20,2026-07-23,2943489.971130993,Suspendida,314,1,4,87.74521266031688,0
+36,"Garcia, Garcia and Juarez",Barrios-Martin,Edificación,2025-01-01,2027-01-12,8809548.782714002,En Curso,155,0,3,77.31835012587582,0
+37,Navarro Group,Aguero PLC,Vial,2025-02-19,2025-05-14,587287.0539535399,Suspendida,468,0,0,67.15877429389259,0
+38,Lopez-Quiroga,"Aguirre, Miranda and Sosa",Vial,2025-01-06,2025-12-22,2387700.443457512,Demorada,715,1,4,3.172249181603115,0
+39,Acosta-Ramirez,Diaz PLC,Hidráulica,2025-02-12,2026-10-30,8984118.602890776,En Curso,181,0,0,53.496667340944406,0
+40,Perez PLC,"Lopez, Moreno and Cardozo",Infraestructura,2025-03-06,2026-04-26,2636295.992949614,Suspendida,360,1,1,3.7697724914852793,0
+41,"Nuñez, Cruz and Nuñez","Lopez, Villalba and Gomez",Infraestructura,2025-02-03,2025-10-13,2284445.4902553097,Suspendida,567,1,3,80.80678171160226,0
+42,"Miranda, Suarez and Fernandez",Ramirez PLC,Edificación,2025-01-28,2027-01-05,1467440.4020884477,En Curso,412,1,0,32.07245244599576,0
+43,Toledo-Paez,Alvarez-Garcia,Vial,2025-01-24,2025-12-10,8605206.400704473,En Curso,144,0,4,56.24293741179209,0
+44,"Bustos, Quiroga and Barrios",Valdez-Ayala,Hidráulica,2025-02-14,2026-11-01,5050576.765991759,Finalizada,511,1,1,27.94453073189026,0
+45,Medina-Suarez,Gomez and Sons,Infraestructura,2025-03-10,2026-03-15,6781442.710236132,Suspendida,313,1,1,78.25001443802935,0
+46,Bustos-Medina,"Herrera, Garcia and Valdez",Infraestructura,2025-02-22,2026-07-14,2466757.202342794,En Curso,104,1,4,88.65025266419025,0
+47,Gonzalez-Sosa,Arias Inc,Edificación,2025-03-23,2025-05-02,7604600.168011043,Suspendida,195,1,4,39.8642494213064,0
+48,Rios-Aguero,"Paz, Ramirez and Romero",Edificación,2025-03-21,2025-06-15,7624054.895124775,En Curso,218,0,0,86.2922393510989,0
+49,"Morales, Gonzalez and Martinez","Rodriguez, Rojas and Lopez",Hidráulica,2025-01-04,2026-08-18,3194720.446592171,En Curso,107,1,2,26.70750074563324,0
+50,"Perez, Gonzalez and Lopez",Aguirre Ltd,Infraestructura,2025-01-04,2026-11-18,4165758.0668018004,Demorada,631,1,1,53.46609230755238,0
+51,"Luna, Muñoz and Martinez",Ramos-Nuñez,Vial,2025-02-03,2026-04-26,2175933.7465589885,Finalizada,717,1,0,85.8761429838704,0
+52,"Perez, Mansilla and Torres",Gonzalez-Perez,Vial,2025-02-08,2026-12-03,9767954.130896753,Finalizada,50,1,4,32.588134261579036,0
+53,Acosta-Rojas,"Lopez, Toledo and Ramos",Hidráulica,2025-02-01,2025-07-20,6491465.5128782755,Suspendida,595,0,0,95.40422650780857,0
+54,Garcia-Lopez,"Molina, Barrios and Pereyra",Hidráulica,2025-02-01,2026-10-18,9351984.419083605,Suspendida,213,1,4,12.187950178138362,0
+55,Rodriguez Inc,Sosa-Fernandez,Edificación,2025-01-04,2026-05-05,3103516.8819284183,Finalizada,251,1,3,1.8275069723506232,0
+56,Martinez LLC,"Rodriguez, Fernandez and Mendoza",Vial,2025-01-23,2025-10-04,7840720.038669208,Finalizada,357,0,4,90.41353525781906,0
+57,Medina-Gonzalez,Ayala and Sons,Hidráulica,2025-03-01,2026-02-12,7682000.574458946,Suspendida,208,0,4,6.864866614787224,0
+58,Fernandez Ltd,Diaz-Maldonado,Infraestructura,2025-01-26,2026-06-18,6947390.953478761,Suspendida,141,0,4,99.18891959474917,0
+59,Romero LLC,"Flores, Muñoz and Martinez",Edificación,2025-02-17,2027-02-05,9659825.855141325,Demorada,88,0,2,95.1396861979106,0
+60,Rodriguez and Sons,"Moreno, Quiroga and Fernandez",Infraestructura,2025-02-11,2025-10-11,3996197.827452524,Finalizada,356,0,4,13.702091003632066,0
+61,Fernandez-Mansilla,"Perez, Fernandez and Ramos",Infraestructura,2025-01-18,2026-08-13,1394101.5035385971,Demorada,650,0,1,53.75846256925658,0
+62,Carrizo Group,"Campos, Gomez and Maidana",Vial,2025-02-19,2026-09-28,6749917.706516202,Finalizada,698,1,1,18.492029746714433,0
+63,Gonzalez-Aguirre,Vargas Group,Vial,2025-01-05,2026-05-13,7320167.024724341,En Curso,220,1,0,42.81551730301199,0
+64,Flores-Bravo,Silva-Martinez,Edificación,2025-01-31,2026-05-22,5793099.677242265,Finalizada,229,1,2,6.142512925983268,0
+65,Carrizo LLC,Juarez Ltd,Hidráulica,2025-03-10,2026-01-24,2147497.142020623,En Curso,341,1,0,22.392458779658952,0
+66,Farias and Sons,"Juarez, Cruz and Peralta",Edificación,2025-02-24,2025-08-24,5094113.822526618,Demorada,64,1,1,36.32727963988995,0
+67,"Quiroga, Castro and Lopez",Nuñez Inc,Vial,2025-02-14,2025-04-27,3190678.392034381,Finalizada,408,0,1,43.864750024605485,0
+68,Flores-Juarez,Olivera-Herrera,Hidráulica,2025-01-22,2026-10-01,4331918.628850222,En Curso,416,1,3,97.74962582088932,0
+69,Gonzalez-Cruz,Cordoba Group,Edificación,2025-02-08,2025-06-26,6487663.900862173,En Curso,266,1,4,80.78656456839812,0
+70,Sosa Ltd,Diaz LLC,Hidráulica,2025-03-22,2025-06-18,7477625.952639262,Demorada,645,1,1,73.74099443119462,0
+71,Soria LLC,Ledesma Group,Vial,2025-01-18,2025-08-27,2399024.4399232967,Suspendida,548,1,0,53.704131474197425,0
+72,Caceres Inc,"Ramirez, Aguirre and Martinez",Edificación,2025-01-18,2025-07-03,4112721.0704048383,En Curso,312,1,0,83.99977606043434,0
+73,"Bustos, Ponce and Romero","Ruiz, Diaz and Garcia",Infraestructura,2025-03-16,2026-03-12,2764699.552817129,En Curso,30,1,4,33.93228356557111,0
+74,Morales-Ruiz,Lopez and Sons,Edificación,2025-01-18,2025-07-02,2066452.9772325042,Demorada,493,1,4,70.8899112773316,0
+75,"Villalba, Vega and Garcia",Dominguez-Molina,Edificación,2025-02-13,2025-08-05,7855533.4779588,Suspendida,259,1,3,99.37839753781721,0
