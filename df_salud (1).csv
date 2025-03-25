@@ -1,0 +1,101 @@
+ID_Registro,Entidad_Prestadora,Tipo_Servicio,Fecha_Servicio,Medico_Tratante,Paciente,Costo_Declarado,Cobertura_ObraSocial,Diagnostico,Es_Sospechoso
+1,Martinez Ltd,Tratamiento,2025-03-10,Bautista Diaz,Valentin Luz Milagros Rodriguez Flores,2166.0579477468264,Parcial,Quidem blanditiis non.,0
+2,Rodriguez-Campos,Estudios Diagnósticos,2025-01-21,Nahiara Jazmin Suarez,Sofía Mia Valentina Aguirre,1684.9091041353179,Parcial,Ipsum debitis quam ex iusto.,0
+3,Blanco-Luna,Tratamiento,2025-02-15,Sr(a). Juan Martin Sanchez,Zoe Sanchez Ferreyra,2842.9474925884533,Parcial,Aperiam qui vel.,0
+4,Chavez Inc,Estudios Diagnósticos,2025-01-28,Samuel Gimenez,Catalina Cabrera Acosta,4260.343913674824,No,Debitis quod minus numquam.,0
+5,Torres Inc,Tratamiento,2025-03-22,Florencia León Morales,Julian Benitez Sanchez,1047.5654711312486,No,Fugit beatae unde rem.,0
+6,Mendez Inc,Cirugía,2025-01-31,Felicitas Avila Gomez,Mia Mateo Benitez,4675.443541829535,Parcial,Incidunt fugit enim.,0
+7,Juarez and Sons,Estudios Diagnósticos,2025-01-30,Lourdes Joaquin Juarez,Agustin Ayala Gutierrez,3460.983886053737,No,Ipsum harum et modi.,0
+8,Morales-Torres,Cirugía,2025-03-19,Sr(a). Jazmin Ruiz,Juan Cruz Ramos Herrera,4125.20240276615,Parcial,Commodi numquam harum minima.,0
+9,Figueroa-Carrizo,Estudios Diagnósticos,2025-01-21,Julia Sanchez Fernandez,Luciana Martina Valdez Blanco,2803.1439285185575,Sí,Ducimus atque facere ex.,0
+10,Acuña-Fernandez,Estudios Diagnósticos,2025-02-13,Guadalupe Gino Campos Gonzalez,Camila Rodriguez Romero,3908.607672049114,Parcial,Minima vero nobis cum.,0
+11,"Cabrera, Vera and Pereyra",Cirugía,2025-03-08,Joaquin Peralta,Maria Emilia Martinez,130.19196683036267,Parcial,Tenetur a veritatis sint.,0
+12,Rios Group,Consulta Médica,2025-03-09,Ana Paula Campos,Dr(a). Martina Rodriguez,4100.9831026587,Sí,Accusamus eos officiis a.,0
+13,"Fernandez, Gomez and Lopez",Consulta Médica,2025-03-16,Dr(a). Tiziano Suarez,Paloma Juan Bautista Pereyra,248.68735247256427,No,Sit dolor inventore est vero.,0
+14,Mendoza-Gutierrez,Estudios Diagnósticos,2025-02-17,Juliana Perez Rodriguez,Tomàs Lorenzo Franco Torres,4455.071212996169,No,Sunt vel tempore maxime.,0
+15,Gonzalez Group,Estudios Diagnósticos,2025-01-25,Elena Muñoz Moyano,Emiliano Mendoza Sanchez,4960.215598831284,No,Atque iusto asperiores.,0
+16,"Medina, Castro and Rodriguez",Tratamiento,2025-01-29,Mia Fernandez,Sr(a). Benjamin Alejandro Ruiz,1505.6339377750503,Sí,Molestias inventore eius.,0
+17,Cruz and Sons,Consulta Médica,2025-01-12,Benjamin Alejandro Ignacio Ruiz Silva,Valentina Martinez,1091.0768536146786,No,Amet vero neque repudiandae.,0
+18,Mendoza-Caceres,Estudios Diagnósticos,2025-01-10,Thiago Nahuel Ignacio Lopez Valdez,Zoe Valentina Suarez,3838.5486510973014,Sí,Tenetur eius occaecati eos.,0
+19,Molina-Garcia,Tratamiento,2025-01-16,Sr(a). Octavio Lopez,Angel Gabriel Gonzalez Martin,1302.4803875552534,Sí,Illum ab voluptate.,0
+20,Torres Group,Cirugía,2025-03-02,Dr(a). Juan Ignacio Perez,Dr(a). Candela Godoy,4334.533796702407,Parcial,Magnam mollitia rem natus.,0
+21,Paez LLC,Tratamiento,2025-01-21,Facundo Benjamin Perez,Mateo Valentin Gonzalez Herrera,559.0708311795097,No,Quibusdam error ab soluta.,0
+22,Guzman-Gonzalez,Tratamiento,2025-01-15,Emma Bianca Martinez Romero,Dr(a). Lorenzo Castro,673.4782220778234,Parcial,At iure excepturi eius.,0
+23,"Ledesma, Godoy and Castillo",Estudios Diagnósticos,2025-02-23,Alfonsina Alma Navarro Alvarez,Delfina Medina,4896.800197748047,Parcial,Atque quo quos in.,0
+24,Avila-Aguirre,Consulta Médica,2025-03-14,Benjamin Genaro Fernandez,Dr(a). Tomas Fernandez,3385.502546436523,No,Dolorem quo iure possimus.,0
+25,"Campos, Alvarez and Acosta",Estudios Diagnósticos,2025-03-04,Santino Augusto Farias,Dr(a). Julieta Garcia,4242.0917609233165,Sí,Culpa amet fuga voluptates.,0
+26,"Acosta, Perez and Benitez",Consulta Médica,2025-02-05,Valentino Santino Benjamin Martinez Lopez,Milagros Rios Ortiz,1655.4304178900143,Parcial,Aliquid quam sed ipsum.,0
+27,"Navarro, Ortiz and Diaz",Cirugía,2025-01-28,Nina Renata Gomez,Ignacio Rodriguez,3398.594560126992,No,Non eaque qui saepe vel.,0
+28,Castro PLC,Estudios Diagnósticos,2025-03-06,Ian Benjamin Silva,Martina Gomez Barrios,2991.497045177556,No,Consequuntur veniam iste hic.,0
+29,Flores LLC,Cirugía,2025-01-30,Nahuel Ramiro Silva,Camila Fernandez,3035.5930946085878,Parcial,Qui vitae velit quo nisi.,0
+30,"Rojas, Rodriguez and Martinez",Cirugía,2025-03-13,Thiago Nahuel Joaquin Rodriguez Peralta,Santino Juan Cruz Ferreyra Diaz,3428.5356747117216,Sí,Fugiat animi culpa minus.,0
+31,Ledesma Inc,Tratamiento,2025-03-16,Luca Juliana Romero Nuñez,Maximo Lopez Garcia,2898.027906989038,Sí,Quos minima ullam.,0
+32,Gomez LLC,Tratamiento,2025-03-21,Sr(a). Pedro Escobar,Maria Belen Moreno Acuña,2173.8587280481966,Sí,Ab est quibusdam quam.,0
+33,"Farias, Cardozo and Aguero",Estudios Diagnósticos,2025-03-17,Lola Ignacio Aguirre,Bianca Diaz Cordoba,1415.817337183707,Sí,Natus earum quo quis dolorum.,0
+34,"Perez, Fernandez and Diaz",Estudios Diagnósticos,2025-01-06,Benjamin Molina Navarro,Thiago Daniel Moreno Martinez,3854.47758802035,No,Labore minus culpa illo.,0
+35,Morales and Sons,Tratamiento,2025-01-18,Samuel Aguero Paz,Juan Cruz Thiago Ezequiel Duarte Rios,1170.0485285157717,Parcial,Sed qui maiores officiis.,0
+36,Godoy-Godoy,Estudios Diagnósticos,2025-01-14,Francisco Benjamin Moyano,Francesca Perez Pereyra,3477.1538154643504,Sí,Asperiores facere magnam.,0
+37,"Suarez, Fernandez and Nuñez",Consulta Médica,2025-01-05,Sr(a). Felipe Leiva,Santino Miranda,1204.9974721141668,Parcial,Quibusdam incidunt facere.,0
+38,Gonzalez-Toledo,Cirugía,2025-03-07,Sr(a). Catalina Fernandez,Angelina Fernandez,3145.384341274547,No,Modi cum vitae autem.,0
+39,Soria-Perez,Consulta Médica,2025-01-09,Mateo Juan Pablo Suarez,Martina Francesca Romero Romero,3748.037422288693,Parcial,Quos aliquid pariatur nobis.,0
+40,Gomez-Gomez,Tratamiento,2025-03-22,Maria Victoria Bustos,Lisandro Farias,1132.633750087369,Parcial,Qui consequatur cum.,0
+41,Vargas Inc,Cirugía,2025-01-26,Guillermina Octavio Garcia,Dr(a). Abril Fernandez,346.719339263476,Sí,Perspiciatis ab ipsa aliquam.,0
+42,Gonzalez PLC,Cirugía,2025-01-10,Dr(a). Uma Lucero,Sr(a). Joaquin Sosa,698.3200278211617,Parcial,Error blanditiis incidunt.,0
+43,Acosta-Mendoza,Consulta Médica,2025-02-20,Ana Paula Gomez,Santino Morena Luna,3049.6849879915762,Sí,Totam velit accusantium esse.,0
+44,Diaz-Rodriguez,Estudios Diagnósticos,2025-01-30,Bautista Fernandez,Santino Agustin Guillermina Gimenez,4254.75971081739,Sí,Rem corrupti error.,0
+45,Perez and Sons,Estudios Diagnósticos,2025-01-05,Matias Guadalupe Gomez Benitez,Augusto Duarte,272.7342651153506,No,Ut delectus impedit sint.,0
+46,Godoy-Gonzalez,Consulta Médica,2025-02-20,Dr(a). Paulina Aguero,Dr(a). Joaquin Vazquez,3684.048732256149,No,Neque perferendis ab maiores.,0
+47,Avila-Gimenez,Consulta Médica,2025-01-15,Simon Juan Cruz Pereyra Moreno,Oriana Juan Ignacio Lopez Olivera,1739.527297452758,Parcial,Quos delectus eaque sint.,0
+48,"Gomez, Rodriguez and Gonzalez",Consulta Médica,2025-03-19,Martin Francisco Gonzalez,Sr(a). Sebastian Alvarez,2418.7154311016366,Sí,Harum nulla debitis eum.,0
+49,Vargas-Rodriguez,Consulta Médica,2025-01-12,Juan Pablo Muñoz Avila,Agustín Alfonsina Duarte Acosta,4647.85477173555,No,Totam perspiciatis atque in.,0
+50,Ruiz-Romero,Estudios Diagnósticos,2025-02-23,Sr(a). Priscila Benitez,Luz Milagros Pereyra Fernandez,1693.258948442435,Sí,Quo illum assumenda.,0
+51,Correa-Molina,Estudios Diagnósticos,2025-01-02,Sr(a). Luisana Molina,Zoe Martinez Gutierrez,2353.417823000456,Sí,Sed nostrum aut.,0
+52,Rivero Ltd,Tratamiento,2025-02-04,Dr(a). Delfina Castro,Juan Pablo Castillo Lopez,117.72795306537147,Parcial,Aliquam nesciunt harum ab.,0
+53,"Villalba, Rojas and Nuñez",Cirugía,2025-02-23,Lautaro Benjamin Garcia Gonzalez,Santino Renata Rodriguez Cabrera,453.91366402394993,No,Quis libero officia.,0
+54,Ramos Inc,Estudios Diagnósticos,2025-01-15,Joaquin Antonia Garcia Juarez,Valentina Torres Arias,1330.0283761171809,Parcial,Eligendi mollitia voluptate.,0
+55,Herrera-Mendoza,Estudios Diagnósticos,2025-01-11,Violeta Chavez Olivera,Valentina Thiago Romero,187.8685920643183,Parcial,Odio dolores doloremque.,0
+56,Gimenez-Ramirez,Consulta Médica,2025-01-14,Sr(a). Mateo Joaquin Roldan,Julian Santino Ezequiel Peralta Alvarez,3175.3078639388423,Sí,Ab cumque ut possimus magnam.,0
+57,"Fernandez, Vargas and Castillo",Cirugía,2025-02-09,Juana Santino Vargas,Delfina Luciana Rivero,2160.6718661680316,Parcial,Ipsam nam doloribus sed.,0
+58,Ruiz Ltd,Consulta Médica,2025-01-05,Sr(a). Juan Gimenez,Valentino Valentina Maldonado,2763.318753503709,Parcial,Quam ipsa ex molestias.,0
+59,Nuñez Group,Estudios Diagnósticos,2025-03-03,Francisco Mateo Valentin Garcia,Santino Benjamin Gonzalez,914.5035701868312,Sí,Placeat reprehenderit odit.,0
+60,Leiva-Ramos,Tratamiento,2025-02-09,Ramiro Campos Martinez,Sr(a). Renata Vera,1514.8635457112498,Parcial,Rem veniam odit dolor.,0
+61,Acosta Group,Estudios Diagnósticos,2025-03-18,Maria Paz Rodriguez,Guadalupe Facundo Rodriguez,3335.9311505209894,Parcial,Quia illum provident.,0
+62,Vazquez-Soto,Estudios Diagnósticos,2025-03-04,Benjamin Ezequiel Thiago Daniel Sanchez,Sr(a). Thiago Nicolas Carrizo,4828.248481970479,Parcial,Atque nostrum eos corrupti.,0
+63,"Alvarez, Lopez and Flores",Consulta Médica,2025-01-13,Uma  Silva,Sofia Luna,299.56302933093554,Parcial,Dolore consectetur vel ipsam.,0
+64,"Gomez, Escobar and Fernandez",Estudios Diagnósticos,2025-01-06,Jazmin Molina Paz,Agustín Carrizo,4457.402388233567,No,Eum repudiandae ipsa.,0
+65,Gomez Inc,Tratamiento,2025-02-14,Tiziana Acosta,Dr(a). Jeremias Velazquez,2905.5619464904817,Sí,Suscipit alias labore ab.,0
+66,Gonzalez-Sosa,Cirugía,2025-01-06,Clara Campos,Francisco Gonzalez,2841.4018554403374,Parcial,Dicta porro fugit ad quo.,0
+67,Perez-Sanchez,Cirugía,2025-02-10,Amparo Mateo Valentin Cabrera Romero,Mateo Ezequiel Fernandez Sosa,2526.3787492784136,No,Animi blanditiis adipisci.,0
+68,Gimenez-Rojas,Estudios Diagnósticos,2025-03-11,Malena Alma Lopez,Sr(a). Benjamin Villalba,393.50072522570775,Sí,Vero officiis ipsa.,0
+69,Gonzalez-Rodriguez,Tratamiento,2025-01-06,Agustin Guadalupe Ortiz,Micaela Luciano Ferreyra,494.8904160939953,No,Ipsum magni culpa libero.,0
+70,"Maidana, Chavez and Ortiz",Tratamiento,2025-02-20,Emilia Francesca Molina Ramirez,Alma Jazmin Godoy,3024.514428012476,No,Quasi ex in cupiditate.,0
+71,Ayala-Campos,Tratamiento,2025-03-12,Sr(a). Uma Hernandez,Isabella Leiva,1737.7449286060137,No,Omnis totam ea maxime rem.,0
+72,Correa-Rojas,Estudios Diagnósticos,2025-02-16,Carmela Santino Perez,Maximo Julieta Gutierrez Gonzalez,4590.47692955952,Sí,Voluptates veritatis porro.,0
+73,"Toledo, Rodriguez and Rojas",Tratamiento,2025-02-16,Uma  Renata Torres Gomez,Dr(a). Francisca Medina,2062.623159929388,Sí,Aliquid aliquid quasi.,0
+74,"Villalba, Sanchez and Ruiz",Tratamiento,2025-01-02,Julieta Paz,Francesca Alma Mia Roldan,759.2432205780734,No,Corrupti iure fugit eius.,0
+75,Arias-Cruz,Tratamiento,2025-01-22,Francisco Diaz,Thiago Benjamin Juan Gabriel Vazquez,3587.8582258350784,No,Quos corporis voluptates.,0
+76,Sanchez Ltd,Tratamiento,2025-02-13,Sr(a). Valentino Lopez,Lucas Zoe Valentina Luna,1502.0994361329988,Sí,Id quis voluptate atque eius.,0
+77,"Silva, Rojas and Rodriguez",Tratamiento,2025-02-23,Dr(a). Luz Milagros Alvarez,Tomas Alvarez Ramirez,2651.078021411671,Parcial,Qui enim asperiores.,0
+78,Martinez Group,Cirugía,2025-01-31,Uma Fernandez,Federico Sofía Benitez Gonzalez,3504.272288250592,No,Consequatur at corporis.,0
+79,Lopez-Chavez,Cirugía,2025-03-20,Paulina Rodriguez Ruiz,Santiago Santiago Ponce,4506.307350450248,Sí,Qui dolorum expedita facere.,0
+80,"Sanchez, Benitez and Martinez",Consulta Médica,2025-02-01,Juana Maria Luz Fernandez Paez,Amparo Bautista Figueroa,3971.3464142682965,Sí,Enim enim natus rem esse.,0
+81,Rivero Ltd,Estudios Diagnósticos,2025-01-29,Milagros Lautaro Benjamin Paz,Ignacio Santiago Fernandez Gomez,3397.9872859699844,Parcial,Consequuntur fugiat fugit.,0
+82,"Vega, Avila and Gomez",Consulta Médica,2025-02-24,Zoe Valentina Giovanni Gomez Quiroga,Thiago Agustin Ramirez Romero,3414.184252855961,No,Quod deleniti odio esse.,0
+83,"Toledo, Martinez and Garcia",Cirugía,2025-03-16,Emma Nahuel Martinez,Juan Ignacio Gomez Morales,4732.326987958829,No,Sequi aliquid neque labore.,0
+84,Sanchez Group,Tratamiento,2025-03-13,Luca Ramirez Rojas,Tiziano Garcia,1514.3292826078534,No,Incidunt aliquam autem.,0
+85,"Alvarez, Acosta and Castillo",Cirugía,2025-01-15,Emma Benjamin Rodriguez Torres,Facundo Lautaro Moreno Garcia,55.50486627112767,No,Officia saepe quo est.,0
+86,"Lopez, Medina and Quiroga",Cirugía,2025-01-12,Emma Barrios Rodriguez,Francesca Santiago Leiva,1396.1750690210836,Parcial,Quam nemo expedita magni.,0
+87,"Mendoza, Leiva and Gonzalez",Estudios Diagnósticos,2025-02-23,Pedro Torres Gomez,Juan Francisco Coronel Torres,1128.5623291523827,No,Qui dignissimos libero.,0
+88,Quiroga-Vega,Cirugía,2025-01-29,Lucía Delfina Farias Soto,Sr(a). Juan Manuel Torres,3326.081196314291,No,Fugit nobis earum.,0
+89,"Castillo, Maldonado and Fernandez",Cirugía,2025-03-24,Mateo Lisandro Castro,Simon Gonzalez Ferreyra,3186.872418839369,No,Sunt excepturi sint.,0
+90,Juarez Inc,Estudios Diagnósticos,2025-01-20,Lautaro Isabella Flores,Julieta Molina Garcia,2987.633844388383,Sí,Ratione quia eos nobis.,0
+91,Diaz-Figueroa,Cirugía,2025-03-12,Joaquin Acosta,Dr(a). Federico Leiva,130.40504388679582,Sí,Consequatur vero ex a ut ea.,0
+92,Diaz-Vazquez,Tratamiento,2025-02-04,Ian Benjamin Lopez,Juan Ignacio Catalina Farias,3657.451369530705,Sí,Magnam sint culpa laudantium.,0
+93,Ruiz-Sosa,Cirugía,2025-02-16,Dr(a). Mateo Rodriguez,Alma Nuñez Luna,1651.475541803183,Sí,Ab doloribus saepe aliquid.,0
+94,Moyano Inc,Cirugía,2025-03-12,Sr(a). Ignacio Sanchez,Thiago Silva Lucero,3342.027145582824,No,Eveniet eum eius corporis.,0
+95,"Sosa, Gonzalez and Ruiz",Estudios Diagnósticos,2025-01-01,Dante Lopez Lopez,Rosario Navarro Rodriguez,2805.063221085659,Parcial,Ducimus quo et eos saepe.,0
+96,"Vega, Acosta and Fernandez",Tratamiento,2025-03-13,Angelina Jazmin Nuñez Caceres,Luca Lopez Mansilla,1746.5180808681405,No,Omnis ex ipsum nobis.,0
+97,"Ramirez, Morales and Ramirez",Cirugía,2025-03-20,Benjamin Juan Ignacio Alvarez Lopez,Tomàs Guillermina Guzman,716.1525221653334,Parcial,Eum assumenda sit inventore.,0
+98,Perez Group,Estudios Diagnósticos,2025-02-21,Dr(a). Juana Flores,Dr(a). Alma Mia Gonzalez,517.3735434193807,Sí,Veniam odit impedit.,0
+99,"Ramirez, Peralta and Duarte",Estudios Diagnósticos,2025-03-13,Agustin Gomez,Dr(a). Agustín Martinez,4166.015748905506,Sí,Minima eaque nobis fuga.,0
+100,Cabrera-Lopez,Estudios Diagnósticos,2025-02-27,Guillermina Sanchez,Alejo Gonzalez Ferreyra,4596.067833303712,Sí,Ad praesentium eligendi rem.,0
