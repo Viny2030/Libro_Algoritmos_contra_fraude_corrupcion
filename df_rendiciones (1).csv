@@ -1,0 +1,101 @@
+ID_Rendicion,ID_Empleado,Fecha,Concepto,Monto,Detalle,Documento_Adjunto,Es_Fraude
+1,107,2025-02-11,Otros,255.74298439672782,At veniam totam perferendis corrupti quibusdam.,Factura,0
+2,101,2025-02-12,Otros,401.16463769371984,Itaque quasi est illum amet nihil.,,0
+3,102,2025-03-02,Material de Oficina,328.48232608110493,Reiciendis autem ipsum provident.,Factura,0
+4,104,2025-01-21,Gastos de Representación,353.96376985627467,Delectus eveniet quae. Voluptate qui quae dolor.,Recibo,0
+5,108,2025-02-07,Viáticos,399.93840802368953,Excepturi sed reprehenderit mollitia unde enim.,Ticket,0
+6,105,2025-01-02,Viáticos,446.1026174906075,Sit magnam labore voluptas inventore.,Recibo,0
+7,100,2025-02-17,Viáticos,175.61762685725253,Vel aliquid sint voluptatibus tenetur ex.,Factura,0
+8,100,2025-01-29,Gastos de Representación,194.03564679357257,Consequuntur itaque temporibus et alias ad ullam.,Factura,0
+9,101,2025-01-19,Viáticos,56.05115052202581,Vel aperiam recusandae laboriosam.,Ticket,0
+10,106,2025-01-28,Gastos de Representación,293.35726908812524,Optio expedita architecto alias alias.,,0
+11,103,2025-03-11,Viáticos,27.611714160403622,Ab impedit dolores laudantium.,Factura,0
+12,104,2025-03-23,Material de Oficina,238.14302888490548,Ea iste adipisci doloremque.,Recibo,0
+13,100,2025-01-30,Gastos de Representación,275.8958710067125,Labore quos quisquam.,Recibo,0
+14,105,2025-03-14,Otros,150.40521354285937,Aspernatur omnis ratione molestiae.,Recibo,0
+15,107,2025-02-23,Viáticos,299.50829767881527,Eum odit consequuntur est.,Factura,0
+16,106,2025-01-15,Gastos de Representación,24.94512247013422,Nulla et soluta natus.,Recibo,0
+17,102,2025-03-04,Gastos de Representación,28.300612487115064,Eaque aspernatur quasi sapiente eius voluptatum.,,0
+18,100,2025-01-29,Viáticos,413.0742747232325,Quasi cum nihil.,Recibo,0
+19,100,2025-01-08,Otros,186.4934142915188,Enim esse expedita asperiores fugit.,Factura,0
+20,107,2025-03-09,Viáticos,72.25965119942354,Nam culpa corporis amet soluta culpa.,,0
+21,108,2025-02-01,Otros,265.89919742685413,Distinctio corporis ratione non itaque.,Recibo,0
+22,101,2025-02-26,Material de Oficina,387.2968410183193,Nostrum alias dolor minima omnis.,Recibo,0
+23,110,2025-03-18,Material de Oficina,115.75230347345315,Voluptate iste ullam placeat ut ipsam.,Factura,0
+24,100,2025-01-01,Material de Oficina,315.21633315131015,Praesentium esse esse.,Recibo,0
+25,108,2025-02-27,Viáticos,51.82025784694632,Necessitatibus aut ea expedita ab.,Factura,0
+26,107,2025-01-20,Gastos de Representación,35.32404337261777,Iure qui consectetur natus suscipit sed magnam.,Ticket,0
+27,108,2025-01-01,Material de Oficina,270.3637694683925,Magnam delectus corrupti hic quibusdam.,Recibo,0
+28,103,2025-02-12,Viáticos,274.9112095889522,Numquam suscipit ipsa repudiandae perspiciatis.,Ticket,0
+29,108,2025-02-03,Viáticos,322.3406517341212,Error tempora enim quibusdam fuga maxime ea.,,0
+30,109,2025-02-10,Viáticos,365.78475352410413,Quae temporibus voluptates quia quis possimus.,,0
+31,108,2025-02-12,Material de Oficina,488.16751893664195,Ipsum minus esse dolorem natus tempore quod.,Recibo,0
+32,106,2025-01-29,Material de Oficina,262.9871706675857,Ut illo quam fuga id.,Factura,0
+33,103,2025-01-15,Otros,168.24867174121053,Sit ex mollitia laboriosam mollitia.,Ticket,0
+34,106,2025-02-24,Otros,399.6412354366648,Animi similique consequuntur temporibus.,Ticket,0
+35,110,2025-01-03,Material de Oficina,142.70780311841636,Reprehenderit veritatis quod cupiditate.,Factura,0
+36,105,2025-02-15,Otros,225.0959961457617,Delectus voluptates fugiat perferendis.,Factura,0
+37,109,2025-02-09,Viáticos,48.44362685771032,Eveniet nemo ex veritatis porro nam molestiae.,Ticket,0
+38,102,2025-03-13,Gastos de Representación,22.42186427357418,At totam consequuntur corporis inventore.,Recibo,0
+39,104,2025-01-10,Material de Oficina,481.6977231921833,Doloremque distinctio laborum necessitatibus.,Ticket,0
+40,110,2025-01-19,Viáticos,419.63025905098084,Sint eaque officia cumque similique soluta nulla.,Recibo,0
+41,101,2025-01-12,Otros,351.027360985912,Id repudiandae nostrum soluta ex sit.,Recibo,0
+42,101,2025-02-19,Gastos de Representación,210.38694276299225,Explicabo beatae porro aut nemo.,Factura,0
+43,110,2025-01-09,Gastos de Representación,94.91421683471442,Quaerat sequi debitis deleniti dolor.,Ticket,0
+44,105,2025-02-13,Gastos de Representación,86.65415090883216,Alias laudantium eveniet.,Factura,0
+45,103,2025-01-11,Otros,132.6190201006517,Porro omnis excepturi magnam ipsam voluptas.,,0
+46,103,2025-03-10,Material de Oficina,279.12106570599906,Accusantium voluptas nobis officiis.,,0
+47,100,2025-01-09,Otros,360.15200212303057,Cupiditate illo nostrum minima alias.,,0
+48,109,2025-02-23,Material de Oficina,333.4967145916883,Cum quae quaerat optio reprehenderit voluptatem.,Recibo,0
+49,105,2025-03-09,Gastos de Representación,147.16760950351198,A corporis molestias odio id facere recusandae.,Ticket,0
+50,109,2025-01-23,Otros,477.8839875249651,Corrupti eos doloribus.,Factura,0
+51,103,2025-03-07,Otros,371.56948918092655,Quas beatae error ad occaecati.,Factura,0
+52,102,2025-02-11,Viáticos,281.63348573058636,Labore accusantium voluptatum.,Factura,0
+53,109,2025-02-16,Material de Oficina,309.7431656548326,Earum autem eaque doloremque.,,0
+54,102,2025-01-14,Gastos de Representación,215.60403058961705,Nemo deleniti illum ipsa autem dolorum.,,0
+55,107,2025-02-11,Otros,131.38818485556715,Ad facilis quos ipsa ipsum necessitatibus.,,0
+56,106,2025-02-19,Material de Oficina,184.42661253911817,Illo quas laborum eius omnis. Veniam nulla nisi.,Factura,0
+57,103,2025-03-17,Material de Oficina,381.34459412754086,Fugiat nulla iure aspernatur maxime.,,0
+58,106,2025-01-30,Viáticos,17.052809428580375,A dolorum porro reiciendis ipsum cum dolores.,Ticket,0
+59,107,2025-03-17,Otros,66.87559384838895,Libero deleniti nisi itaque. Alias adipisci sunt.,Recibo,0
+60,106,2025-01-06,Otros,32.54129459065885,Cum exercitationem impedit iusto explicabo autem.,,0
+61,106,2025-01-03,Gastos de Representación,29.957113136295366,Voluptatem nobis unde mollitia libero vel.,Factura,0
+62,105,2025-03-19,Material de Oficina,429.17568616539353,Eaque maiores nobis at vel ea.,Factura,0
+63,108,2025-01-02,Gastos de Representación,354.7923510962116,Illum nulla alias expedita ratione.,Recibo,0
+64,109,2025-02-03,Material de Oficina,242.34517625278934,Vero aspernatur architecto quidem.,Ticket,0
+65,100,2025-01-31,Material de Oficina,57.93873871899073,Unde a facere.,Recibo,0
+66,103,2025-01-06,Viáticos,250.89177880724785,Quod adipisci quia rerum natus dolore error.,Recibo,0
+67,109,2025-01-22,Viáticos,242.0011676824772,Reiciendis sequi maxime.,,0
+68,100,2025-02-11,Gastos de Representación,94.86891625590744,Consectetur adipisci reiciendis vero nulla.,Recibo,0
+69,109,2025-02-12,Otros,222.58730812660679,Odio nam a culpa neque assumenda.,Factura,0
+70,104,2025-01-25,Gastos de Representación,205.26731985471298,Vitae harum reprehenderit esse.,Ticket,0
+71,109,2025-02-28,Material de Oficina,311.7665480455861,At voluptatem dolores qui mollitia.,Recibo,0
+72,101,2025-02-17,Viáticos,321.1958889251455,Accusantium labore repudiandae suscipit.,Factura,0
+73,106,2025-02-26,Gastos de Representación,32.198964788301815,Minima expedita inventore odio sed ut atque.,Recibo,0
+74,101,2025-01-22,Otros,193.5601811669709,Ad saepe nulla similique.,Ticket,0
+75,110,2025-01-04,Viáticos,316.6713586999758,Libero dolores laboriosam ipsum.,Recibo,0
+76,103,2025-01-31,Otros,256.53676670424295,Reprehenderit vitae aut animi facere unde.,Recibo,0
+77,105,2025-02-11,Viáticos,429.6800221822779,Ea ad deleniti quidem eveniet sequi eveniet fuga.,,0
+78,104,2025-01-23,Gastos de Representación,332.75987949328305,Nam vitae iusto.,Ticket,0
+79,110,2025-03-24,Material de Oficina,89.83786926990055,Accusamus impedit quia.,,0
+80,103,2025-02-02,Gastos de Representación,44.57868622621062,Quas vero aspernatur eius deserunt iure.,Factura,0
+81,108,2025-03-23,Otros,324.78544632109464,Aliquid illum vel rerum.,Recibo,0
+82,106,2025-01-04,Material de Oficina,22.990542165394686,Architecto iusto nesciunt ducimus vel vitae nam.,,0
+83,108,2025-03-19,Gastos de Representación,297.030034823997,Facilis architecto laborum non vel explicabo.,Recibo,0
+84,108,2025-03-15,Viáticos,470.7128182982292,Ipsa culpa maxime reiciendis magni consequatur.,Recibo,0
+85,103,2025-01-06,Material de Oficina,291.9823471591807,Quo odio porro vero asperiores aliquid et.,Recibo,0
+86,110,2025-01-15,Viáticos,200.20326384119574,Libero ut delectus aliquid velit illum.,Ticket,0
+87,104,2025-03-19,Otros,325.21122703675303,Perspiciatis voluptatem nesciunt ad perspiciatis.,Factura,0
+88,106,2025-01-01,Viáticos,234.54391634084314,Nostrum minus eos ab.,,0
+89,100,2025-01-05,Material de Oficina,277.3522267648081,Delectus unde provident officiis nostrum.,Factura,0
+90,107,2025-01-11,Gastos de Representación,471.3177563004973,Placeat sapiente nobis velit modi molestias.,Factura,0
+91,107,2025-02-09,Material de Oficina,199.1902925223794,Ducimus porro voluptates.,Recibo,0
+92,107,2025-01-04,Material de Oficina,480.98337627371797,Fuga optio amet ad voluptatibus ipsam et velit.,,0
+93,100,2025-03-01,Material de Oficina,453.6218145584712,Aut commodi labore cum sint.,Ticket,0
+94,100,2025-02-02,Gastos de Representación,105.93765604675525,Dicta optio magnam fugiat quidem.,Recibo,0
+95,101,2025-01-22,Otros,43.98703742883107,Quidem at aut nesciunt earum. Magni quod cum.,Recibo,0
+96,104,2025-02-01,Material de Oficina,59.38122067493906,Voluptatem ex blanditiis cumque neque similique.,Ticket,0
+97,100,2025-02-18,Otros,18.928694569259367,Hic perferendis inventore laboriosam.,Factura,0
+98,106,2025-03-03,Otros,56.27705077040491,Explicabo fuga cupiditate saepe.,,0
+99,109,2025-01-21,Gastos de Representación,344.6733189740149,Cumque distinctio cum ea quibusdam voluptate eum.,Ticket,0
+100,105,2025-02-19,Gastos de Representación,44.882437745512206,Officiis animi modi dolor.,Factura,0
