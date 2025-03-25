@@ -1,0 +1,101 @@
+ID_Usuario,Nombre,Email,Direccion,CUIT,Es_Cuenta_Falsa
+user_0,Isabella Simon Lopez,jcabrera@example.org,"Blv. 5 N° 413 Piso 9 Dto. 7
+Resistencia 3500, Chaco",054-23-8023,0
+user_1,Benjamin Santino Acosta,romerofacundo@example.org,"Avenida Corrientes N° 458 Oficina 38
+Chilecito 5360, La Rioja",163-78-8352,0
+user_2,Felipe Juan Bautista Rivero,samuel99@example.net,"Avenida 9 N° 39 Local 3
+La Plata 1900, Buenos Aires",821-49-2988,0
+user_3,Ciro Vazquez Garcia,martina45@example.org,"Avenida 6 N° 934 Dto. 4
+San Juan 5400, San Juan",639-43-7235,1
+user_4,Emilia Guadalupe Fernandez,guadalupelopez@example.net,"Diagonal 2 N° 3855 Dto. 7
+Bahía Blanca 8000, Buenos Aires",865-93-8919,1
+user_5,Dr(a). Joaquin Ponce,valentino21@example.net,"Calle 9 N° 977 Oficina 76
+Paraná 3100, Entre Ríos",096-35-2636,0
+user_6,Maximo Matilda Ruiz Ruiz,priscilabenitez@example.net,"Diagonal Omar Nuñez N° 652 Torre 4 Dto. 7
+San Ferando del Valle de Catamarca 4700, Catamarca",333-70-4243,1
+user_7,Gonzalo Guadalupe Velazquez,simonrojas@example.com,"Av. Viedma N° 2827 Piso 1 Dto. 7
+Salta 4400, Salta",558-19-4734,1
+user_8,Thiago Joaquin Dominguez,navarrotomas@example.net,"Avenida Saavedra N° 4598
+Mar del Plata 7600, Buenos Aires",221-26-4435,1
+user_9,Ian Benjamin Julieta Ortiz Rodriguez,tfernandez@example.net,"Calle Alvear N° 19
+San Luis 5700, San Luis",325-33-8836,1
+user_10,Facundo Caceres,gomezjoaquin@example.org,"Camino San Juan N° 2543 Local 26
+Salta 4400, Salta",244-49-0146,1
+user_11,Thiago Benjamin Ignacio Fernandez Acosta,dmartinez@example.com,"Calle Santa Fe N° 7145 Local 4
+Santa Rosa 6300, La Pampa",856-04-7178,0
+user_12,Luana Duarte,lola60@example.net,"Boulevard Malvinas Argentinas N° 6969
+San Miguel de Tucumán 4000, Tucumán",070-27-0544,1
+user_13,Agustin Rojas Moreno,joaquin86@example.net,"Av. Santiago del Estero N° 36
+Viedma 8500, Río Negro",412-98-5948,0
+user_14,Isabella Catalina Soria,acostafrancesco@example.com,"Av. 4 N° 5999
+Posadas 3300, Misiones",677-76-1479,0
+user_15,Victoria Leiva,rbravo@example.com,"Calle Malvinas Argentinas N° 75 Oficina 55
+Constitución 1004, Ciudad Autónoma de Buenos Aires",581-88-6319,1
+user_16,Sr(a). Mateo Benjamin Fernandez,ogomez@example.net,"Avenida Santa Cruz N° 555 Dto. 3
+Salta 4400, Salta",656-15-8158,0
+user_17,Tiziano Vera,lautaro-nicolas82@example.org,"Av. Formosa N° 744
+Comodoro Rivadavia 9000, Chubut",418-64-7385,0
+user_18,Ezequiel Franco Mendez Cabrera,ygonzalez@example.org,"Calle Neuquén N° 24
+San Ferando del Valle de Catamarca 4700, Catamarca",564-09-5529,0
+user_19,Alma Mia Acuña Soto,tomas05@example.org,"Diagonal J.B. Alberdi N° 239 Torre 8 Dto. 1
+Santa Rosa 6300, La Pampa",755-28-5673,1
+user_20,Bautista Camila Fernandez Fernandez,vazquezjulian@example.net,"Calle 8 N° 7164 Oficina 3
+Formosa 3600, Formosa",161-42-5170,1
+user_21,Dr(a). Malena Gonzalez,ruizsantino@example.org,"Calle J.M. de Rosas N° 4175 Local 72
+Resistencia 3500, Chaco",284-04-6100,0
+user_22,Tiziano Valentina Fernandez Lucero,lromero@example.org,"Av. La Pampa N° 26
+La Rioja 5300, La Rioja",605-67-9311,1
+user_23,Luisina Leiva,benjamin-alejandrogomez@example.com,"Av. J.M. de Rosas N° 472
+La Plata 1900, Buenos Aires",622-04-0954,1
+user_24,Dr(a). Ambar Flores,mateoavila@example.org,"Blv. Pte. Perón N° 374 Dto. 2
+San Miguel de Tucumán 4000, Tucumán",438-05-7447,1
+user_25,Dr(a). Malena Godoy,santino-gabrielsoto@example.org,"Calle Belgrano N° 8737 Local 16
+Santa Fe 3000, Santa Fe",849-69-3480,1
+user_26,Santiago Thiago Ezequiel Molina Sanchez,julieta58@example.org,"Diag. La Rioja N° 714 Local 1
+La Plata 1900, Buenos Aires",606-42-2658,0
+user_27,Mia Valentina Ortiz,mateobustos@example.org,"Avenida Mitre N° 842
+Paraná 3100, Entre Ríos",316-36-0116,0
+user_28,Sebastian Juan Ignacio Rojas,ichavez@example.net,"Camino Neuquén N° 8627 Local 73
+Salta 4400, Salta",730-76-0412,1
+user_29,Lucas Ojeda,riosjuana@example.org,"Diagonal Güemes N° 882 Piso 4 Dto. 6
+Salta 4400, Salta",298-65-4542,1
+user_30,Dr(a). Thiago Rios,jazmin07@example.org,"Boulevard 5 N° 670
+Bahía Blanca 8000, Buenos Aires",200-36-0214,0
+user_31,Facundo Emma Flores Romero,romeroian@example.com,"Calle J.B. Alberdi N° 87 Torre 8 Dto. 9
+Comodoro Rivadavia 9000, Chubut",818-93-9151,0
+user_32,Tomàs Joaquin Muñoz,dominguezmaria-emilia@example.com,"Calle San Juan N° 954 Local 1
+Neuquén 8300, Neuquén",263-76-5517,1
+user_33,Dr(a). Alma Mia Herrera,gael46@example.net,"Calle 6 N° 9918
+Neuquén 8300, Neuquén",158-57-0654,0
+user_34,Gabriel Mateo Godoy,kbravo@example.net,"Avenida Mendoza N° 69 Oficina 1
+La Rioja 5300, La Rioja",860-71-1715,1
+user_35,Renata Nuñez Sosa,cruzsofia@example.net,"Camino Salta N° 691 Torre 3 Dto. 3
+Mar del Plata 7600, Buenos Aires",460-13-2292,1
+user_36,Sr(a). Ana Paula Diaz,taguirre@example.org,"Av. Mitre N° 614 Piso 4 Dto. 4
+Chilecito 5360, La Rioja",439-41-4892,0
+user_37,Emma Ramos Lucero,rroldan@example.org,"Avenida Córdoba N° 772 Oficina 1
+Paraná 3100, Entre Ríos",165-37-7078,0
+user_38,Tobias Juan Sebastian Medina,rojasthiago-benjamin@example.org,"Avenida Corrientes N° 786 Piso 3 Dto. 3
+Ushuaia 9410, Tierra del Fuego",894-57-7513,1
+user_39,Julieta Gonzalez Hernandez,lojeda@example.org,"Avenida 2 N° 117
+Comodoro Rivadavia 9000, Chubut",249-02-8477,1
+user_40,Valentina  Pereyra Silva,juan-martinmoyano@example.com,"Boulevard San Salvador de Jujuy N° 431 Piso 7 Dto. 5
+San Salvador de Jujuy 4600, Jujuy",337-90-3107,0
+user_41,Lucía Carrizo Vera,ramiro64@example.net,"Calle 7 N° 2161 Torre 7 Dto. 6
+La Plata 1900, Buenos Aires",813-33-2438,1
+user_42,Dr(a). Valentina Gimenez,frodriguez@example.net,"Av. Ushuaia N° 934 Local 4
+San Salvador de Jujuy 4600, Jujuy",038-10-9522,0
+user_43,Bianca Morena Perez Cordoba,ruizlautaro-ezequiel@example.org,"Diag. 8 N° 635
+Salta 4400, Salta",509-50-7629,1
+user_44,Francisco Micaela Martinez,jcorrea@example.org,"Av. Formosa N° 996 Local 52
+Viedma 8500, Río Negro",308-60-3186,0
+user_45,Ciro Santino Farias Gomez,mendozaisabella@example.net,"Avenida 2 N° 35
+Rosario 2000, Santa Fe",398-33-9745,0
+user_46,Juan Ignacio Lucía Rodriguez Suarez,felipe89@example.org,"Blv. Misiones N° 33 Dto. 4
+La Rioja 5300, La Rioja",201-28-5583,0
+user_47,Dante Genaro Soria Rodriguez,isabella38@example.org,"Calle 6 N° 91 Torre 8 Dto. 5
+Rosario 2000, Santa Fe",562-35-1079,1
+user_48,Pedro Silva Gomez,lunabenjamin@example.net,"Av. Catamarca N° 893
+San Luis 5700, San Luis",513-05-7371,1
+user_49,Alma Martinez Juarez,bautista65@example.com,"Av. 2 N° 26 Local 4
+Mar del Plata 7600, Buenos Aires",065-53-6840,0
