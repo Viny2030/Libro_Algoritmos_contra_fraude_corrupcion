@@ -1,0 +1,31 @@
+ID_Rendicion,Fecha_Presentacion,Empleado,Departamento,Tipo_Gasto,Descripcion,Monto,Justificante_Adjunto,Estado_Aprobacion,Es_Sospechoso
+1,2024-08-28,Bautista Martinez,Marketing,Viáticos,Veniam earum labore.,85.42867816130357,Parcial,Pendiente,0
+2,2024-09-09,Valentina Gomez Paez,RRHH,Viáticos,Ipsam quia quia.,408.71401632518814,No,Aprobado,0
+3,2024-04-22,Benjamin Bustos,Finanzas,Viáticos,Vel molestiae praesentium laudantium consequatur.,406.72650186371925,No,Pendiente,0
+4,2024-07-29,Thiago Benjamin Peralta Mansilla,Finanzas,Almuerzo,Aliquid quidem dolore consequuntur id.,216.86187054976548,Sí,Aprobado,0
+5,2024-06-11,Sr(a). Juan Bautista Rodriguez,RRHH,Almuerzo,Ea dolorum facere assumenda.,168.59874734430124,Sí,Aprobado,0
+6,2024-12-02,Dr(a). Agustín Ojeda,Compras,Almuerzo,Et eum iste.,68.48968451740288,Parcial,Aprobado,0
+7,2024-04-19,Tiziano Juarez,Finanzas,Almuerzo,Quia corrupti occaecati nesciunt.,306.2186159862559,Parcial,Aprobado,0
+8,2024-09-28,Morena Lopez,RRHH,Material de Oficina,Sed provident nisi voluptatibus omnis.,271.8935280608045,Parcial,Aprobado,0
+9,2024-11-05,Mia Alvarez,Compras,Material de Oficina,Facilis eaque vel. Cupiditate laboriosam earum.,20.48932448310352,No,Rechazado,0
+10,2024-09-16,Luciana Jazmín Perez,Ventas,Material de Oficina,Sunt amet quo deserunt optio.,479.9236862288015,Parcial,Pendiente,0
+11,2024-10-10,Emma Miranda Mansilla,Ventas,Transporte,Maiores dolores nemo velit id dignissimos nulla.,73.02969721286983,Parcial,Aprobado,0
+12,2024-09-22,Delfina Lorenzo Gimenez,Marketing,Almuerzo,Suscipit animi quod ipsam aut nihil.,458.6603643956911,No,Aprobado,0
+13,2024-12-19,Juan Martin Flores Ojeda,Finanzas,Almuerzo,Asperiores recusandae perferendis amet vero.,279.31775330098554,No,Pendiente,0
+14,2024-11-13,Sofia Sanchez,Marketing,Otros,Velit nemo temporibus a nisi sunt cumque.,38.741610687492226,Sí,Aprobado,0
+15,2025-02-24,Tobias Juarez Romero,Finanzas,Almuerzo,Cupiditate minus explicabo nam ratione esse.,478.1463592878092,Parcial,Pendiente,0
+16,2024-05-13,Ignacio Fernandez,Compras,Viáticos,Impedit exercitationem eum libero.,133.15727298973493,Parcial,Rechazado,0
+17,2025-03-14,Tiziano Benjamin Pilar Avila,Marketing,Otros,Eum placeat officiis quidem velit esse mollitia.,373.06275407827957,No,Aprobado,0
+18,2024-07-06,Lucia Diaz,Finanzas,Viáticos,Magnam facere molestias cumque.,376.2925354824541,Parcial,Aprobado,0
+19,2025-03-18,Renata Ayala,Marketing,Transporte,Consequatur nulla aspernatur illo ipsa.,304.66157546152726,No,Pendiente,0
+20,2024-06-07,Sr(a). Juana Campos,Ventas,Almuerzo,Doloremque maxime adipisci.,425.4239775256259,Sí,Aprobado,0
+21,2024-10-16,Bautista Juan Pablo Pereyra,RRHH,Almuerzo,Ab nam et nemo libero voluptas veniam.,72.08197181949402,Parcial,Pendiente,0
+22,2024-10-10,Morena Lisandro Diaz,Marketing,Viáticos,Ab earum accusamus deleniti reiciendis.,71.60411326286548,Parcial,Aprobado,0
+23,2024-04-20,Maria Paz Paez Godoy,Ventas,Transporte,Totam modi deleniti pariatur. Amet et ipsum quae.,223.86540834704246,Sí,Pendiente,0
+24,2024-05-23,Maia Nuñez,Marketing,Otros,A amet dolor corporis iusto voluptas.,463.9904885325243,Sí,Rechazado,0
+25,2024-12-08,Agustin Sofia Caceres,RRHH,Otros,Quod adipisci velit in. Tempora ab eveniet.,156.3376076317906,No,Rechazado,0
+26,2024-10-06,Zoe Martina Miranda Martinez,Compras,Otros,Facere fugiat veniam voluptates.,39.736141444766204,Sí,Rechazado,0
+27,2024-07-06,Julieta Julieta Rojas,Marketing,Transporte,Illum dolore sapiente fugiat amet accusantium ea.,215.62993877551287,No,Aprobado,0
+28,2024-12-11,Sr(a). Bautista Toledo,Finanzas,Material de Oficina,Nobis nesciunt ducimus veniam.,499.57948102645696,No,Aprobado,0
+29,2024-10-13,Helena Sofía Martin Lopez,Compras,Otros,Ipsam quidem optio doloribus.,168.99793220392752,Sí,Rechazado,0
+30,2025-01-26,Sr(a). Thiago Benjamin Paez,Marketing,Viáticos,Unde odit omnis tempora architecto placeat.,72.21903812495708,Sí,Rechazado,0
