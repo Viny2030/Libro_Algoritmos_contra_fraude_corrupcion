@@ -1,0 +1,31 @@
+ID_Licitacion,Organismo_Convocante,Objeto,Fecha_Publicacion,Fecha_Cierre,Monto_Estimado,Empresa_Ganadora,Monto_Adjudicado,Proceso_Seleccion,Participantes,Relacion_Funcionario_Ganador,Es_Irregular
+1,"Gutierrez, Martinez and Flores",Servicios de Consultoría,2025-01-22,2025-05-16,3037990.8655521683,Gomez-Ponce,4900544.450986843,Licitación Pública,5,0,0
+2,Sosa-Acosta,Construcción de Obra,2025-03-19,2025-06-03,1602800.1755419795,Sanchez-Cordoba,2864678.131924056,Concurso de Precios,3,0,0
+3,"Navarro, Lopez and Farias",Mantenimiento,2025-03-14,2025-04-26,3760978.185285758,"Rodriguez, Diaz and Lopez",56203.95453971906,Contratación Directa,5,0,0
+4,Gomez-Quiroga,Servicios de Consultoría,2025-01-30,2025-05-25,80331.58321944275,Diaz Group,59343.18594852808,Licitación Pública,1,1,0
+5,Farias-Gutierrez,Mantenimiento,2025-03-24,2025-05-14,1926330.6824730036,Vega-Suarez,575401.2429824625,Contratación Directa,4,1,0
+6,"Medina, Duarte and Fernandez",Servicios de Consultoría,2025-01-23,2025-03-03,3149715.1427588793,"Gomez, Moyano and Lopez",886066.6241010108,Concurso de Precios,4,0,0
+7,Garcia Ltd,Construcción de Obra,2025-01-06,2025-04-14,4262087.130044711,Nuñez Ltd,4019970.958763523,Concurso de Precios,4,1,0
+8,Juarez Group,Servicios de Consultoría,2025-02-25,2025-03-05,1270626.3796864229,Rios-Rodriguez,3559221.614424751,Licitación Pública,5,0,0
+9,Romero Inc,Suministro de Equipamiento,2025-02-24,2025-02-15,1411008.79164884,Lucero-Carrizo,4689722.031908811,Contratación Directa,3,1,0
+10,Ortiz Ltd,Mantenimiento,2025-03-21,2025-05-07,1573130.064825608,Alvarez-Sanchez,1807887.125459177,Contratación Directa,5,0,0
+11,Blanco-Martinez,Construcción de Obra,2025-01-27,2025-04-12,3362663.6820445443,"Ojeda, Romero and Lopez",1360241.9595664695,Licitación Pública,3,0,0
+12,Rivero-Flores,Mantenimiento,2025-02-07,2025-03-14,3086279.0491045886,Rodriguez-Gonzalez,3415189.738116597,Contratación Directa,1,0,0
+13,"Lopez, Garcia and Herrera",Suministro de Equipamiento,2025-03-08,2025-02-12,1193196.3193398125,Villalba-Perez,618652.3532478671,Concurso de Precios,4,0,0
+14,Lopez Group,Suministro de Equipamiento,2025-03-04,2025-03-22,3233157.215282741,Ortiz-Pereyra,5181123.479352438,Licitación Pública,2,1,0
+15,Fernandez-Martinez,Mantenimiento,2025-01-28,2025-04-08,230605.16613442684,Acosta Inc,4599086.866001985,Contratación Directa,2,1,0
+16,Fernandez-Diaz,Servicios de Consultoría,2025-03-15,2025-05-02,1141318.0541651726,Rodriguez-Aguirre,2180668.549948894,Concurso de Precios,5,0,0
+17,"Diaz, Maldonado and Gomez",Construcción de Obra,2025-02-11,2025-04-29,539999.7749183198,"Guzman, Ruiz and Miranda",3474797.0753157926,Licitación Pública,3,0,0
+18,"Fernandez, Sosa and Ruiz",Mantenimiento,2025-02-19,2025-03-01,75896.4411675151,"Fernandez, Gonzalez and Caceres",3649536.2280131844,Concurso de Precios,4,0,0
+19,"Paz, Luna and Lopez",Mantenimiento,2025-01-25,2025-04-14,1422771.7233195358,Perez-Arias,1915022.195721096,Concurso de Precios,4,0,0
+20,"Villalba, Vazquez and Mendoza",Suministro de Equipamiento,2025-03-15,2025-03-21,1273853.1150385397,Gonzalez-Chavez,3525233.5249139923,Licitación Pública,2,0,0
+21,Mansilla-Vera,Construcción de Obra,2025-01-15,2025-03-30,940178.4553028278,Ortiz Inc,1035362.4385043776,Contratación Directa,3,0,0
+22,Gonzalez-Sanchez,Servicios de Consultoría,2025-01-07,2025-04-18,3952026.6851170743,Muñoz-Ruiz,1631600.1361915309,Licitación Pública,1,0,0
+23,"Mansilla, Barrios and Rodriguez",Mantenimiento,2025-03-15,2025-02-14,417242.14596071636,Fernandez LLC,1381397.5048197315,Contratación Directa,1,0,0
+24,Castillo and Sons,Construcción de Obra,2025-01-25,2025-03-29,1880651.7990337117,Gomez Inc,4883627.333349114,Licitación Pública,2,0,0
+25,Aguirre LLC,Suministro de Equipamiento,2025-03-07,2025-02-10,701948.2138766177,Alvarez Inc,4506623.920864101,Concurso de Precios,3,1,0
+26,Vega PLC,Construcción de Obra,2025-02-17,2025-05-03,1357783.9562333256,"Coronel, Ortiz and Gomez",492365.648554559,Contratación Directa,4,0,0
+27,Rodriguez-Fernandez,Servicios de Consultoría,2025-03-02,2025-04-14,2045942.6034710356,"Ayala, Rodriguez and Garcia",4071017.20183938,Concurso de Precios,5,1,0
+28,Martinez Group,Construcción de Obra,2025-02-11,2025-05-08,4766481.623187088,Medina LLC,2929007.5475009065,Concurso de Precios,3,1,0
+29,Rodriguez-Martinez,Suministro de Equipamiento,2025-01-16,2025-06-09,131688.4831234509,"Rojas, Diaz and Vera",2397195.669060221,Licitación Pública,2,0,0
+30,"Herrera, Romero and Soto",Suministro de Equipamiento,2025-03-15,2025-05-14,102887.4945391887,"Diaz, Diaz and Franco",1456376.8903766598,Concurso de Precios,4,0,0
