@@ -1,0 +1,61 @@
+ID_Usuario,Nombre,Email,Direccion,CUIT,Es_Cuenta_Falsa
+user_0,Ambar Valentina Vega Castillo,perezfelicitas@example.com,"Camino Neuquén N° 86
+Santiago del Estero 4200, Santiago del Estero",20-45333367-2,0
+user_1,Dr(a). Bastian Torres,mia-valentina27@example.net,"Av. Entre Ríos N° 13
+Salta 4400, Salta",20-26224672-9,1
+user_2,Dr(a). Dylan Benjamin Ojeda,santino68@example.org,"Avenida 6 N° 733
+La Plata 1900, Buenos Aires",27-76708377-2,1
+user_3,Santiago Gonzalez Aguero,gomezmaria-luz@example.net,"Avenida Formosa N° 78 Dto. 1
+San Ferando del Valle de Catamarca 4700, Catamarca",23-77527705-9,1
+user_4,Octavio Acosta Gonzalez,quirogalucas@example.org,"Calle Neuquén N° 3251
+Rawson 9103, Chubut",20-90337866-3,0
+user_5,Martina Mendoza Molina,tfigueroa@example.net,"Diagonal Entre Ríos N° 205 Oficina 4
+San Luis 5700, San Luis",27-52093842-2,0
+user_6,Valentino Guillermina Ferreyra,riossantino@example.com,"Av. Rawson N° 997 Oficina 9
+Santa Rosa 6300, La Pampa",27-02404827-1,0
+user_7,Lautaro Nahuel Julieta Rios,constanza64@example.org,"Diagonal Chaco N° 54 Local 6
+Salta 4400, Salta",20-15261736-5,0
+user_8,Juliana Sosa,zoe-valentina13@example.com,"Diagonal Saavedra N° 47
+Resistencia 3500, Chaco",27-27472657-7,0
+user_9,Bautista Benjamin Martina Rojas Mendoza,efigueroa@example.com,"Avenida 7 N° 6650
+Santa Fe 3000, Santa Fe",27-35038544-9,0
+user_10,Bastian Martina Toledo,ortizfelipe@example.net,"Av. Bahía Blanca N° 95
+Mendoza 5500, Mendoza",23-63682815-7,0
+user_11,Lucia Lautaro Gimenez Gonzalez,silvabenjamin@example.org,"Avenida Santiago del Estero N° 242
+Chilecito 5360, La Rioja",20-04271599-9,0
+user_12,Dr(a). Emilia Soto,navarroantonella@example.org,"Diag. 5 N° 9579
+Comodoro Rivadavia 9000, Chubut",20-29461873-3,1
+user_13,Lautaro Benjamin Valentina  Bravo,xgarcia@example.com,"Av. San Luis N° 214 Piso 5 Dto. 6
+San Miguel de Tucumán 4000, Tucumán",20-36094704-2,0
+user_14,Dr(a). Lola Gutierrez,thiago44@example.net,"Blv. Posadas N° 329 Piso 6 Dto. 2
+Resistencia 3500, Chaco",23-19457654-4,0
+user_15,Felipe Ciro Nuñez,vcorrea@example.net,"Diagonal Malvinas Argentinas N° 728 Oficina 9
+San Salvador de Jujuy 4600, Jujuy",20-40033990-3,0
+user_16,Dr(a). Lautaro Chavez,pereyraantonio@example.com,"Av. Constitución N° 82
+Santa Fe 3000, Santa Fe",23-82322836-8,1
+user_17,Emilia Lautaro Gabriel Garcia Figueroa,omartinez@example.net,"Avenida Rawson N° 9757 Local 2
+San Luis 5700, San Luis",27-89339675-1,0
+user_18,Pedro Gomez Gomez,jgodoy@example.com,"Calle 1 N° 5153 Dto. 8
+Viedma 8500, Río Negro",23-63238156-5,0
+user_19,Dr(a). Mora Lopez,herrerathiago@example.org,"Avenida Mendoza N° 5619 Dto. 9
+Santiago del Estero 4200, Santiago del Estero",20-29826252-6,0
+user_20,Josefina Gimenez Arias,fernandezsantiago@example.org,"Avenida J.J. Castelli N° 44 Dto. 8
+Río Gallegos 9400, Santa Cruz",20-33485730-2,0
+user_21,Santiago Nicolas Julieta Correa,wortiz@example.org,"Calle San Martin N° 685 Local 82
+Santiago del Estero 4200, Santiago del Estero",27-76447765-6,0
+user_22,Pilar Juarez,wmoreno@example.net,"Avenida Chaco N° 936
+Salta 4400, Salta",23-38072856-7,0
+user_23,Sr(a). Juliana Caceres,thiago-emanuelcoronel@example.org,"Camino La Rioja N° 92
+Rosario 2000, Santa Fe",20-19485931-8,0
+user_24,Malena Morales Hernandez,pedro39@example.net,"Avenida J.M. de Rosas N° 214
+San Ferando del Valle de Catamarca 4700, Catamarca",23-87000901-1,1
+user_25,Victoria Joaquin Lopez Luna,xavila@example.com,"Diagonal Constitución N° 776
+Santa Fe 3000, Santa Fe",27-22101221-1,0
+user_26,Benicio Isabella Garcia,dmedina@example.net,"Camino Ushuaia N° 973 Torre 8 Dto. 9
+Corrientes 3400, Corrientes",27-00116559-9,1
+user_27,Angelina Ana Paula Carrizo Diaz,munozcatalina@example.com,"Avenida Alvear N° 632 Oficina 1
+Viedma 8500, Río Negro",23-92536333-2,1
+user_28,Sr(a). Dylan Ezequiel Ortiz,lorenzo05@example.net,"Diagonal J.J. Castelli N° 7927 Local 15
+Ushuaia 9410, Tierra del Fuego",20-15287643-3,0
+user_29,Nicolas Tomas Mendez,ivanfernandez@example.net,"Diagonal 4 N° 14 Torre 8 Dto. 7
+San Ferando del Valle de Catamarca 4700, Catamarca",20-10349332-4,1
