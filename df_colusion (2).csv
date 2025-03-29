@@ -1,0 +1,31 @@
+ID_Licitacion,Organismo_Convocante,Objeto,Fecha_Apertura,Fecha_Adjudicacion,Monto_Estimado,Empresa_Ganadora,Ofertas_Presentadas,Monto_Adjudicado,Relacion_Empresas,Ofertas_Similares,Es_Colusion
+1,"Gonzalez, Martinez and Lopez",Suministro de Bienes,2025-01-22,2025-04-02,915354.7379643465,Juarez LLC,6,449223.15458904457,0,0,0
+2,"Fernandez, Fernandez and Farias",Obras Menores,2025-01-24,2025-03-17,236788.80537837557,"Vargas, Guzman and Romero",2,1072443.321319327,0,0,0
+3,Rodriguez Inc,Obras Menores,2025-03-27,2025-01-16,67402.77296731336,Gonzalez-Mansilla,2,874117.5211443749,1,0,0
+4,"Mansilla, Ramirez and Flores",Obras Menores,2025-01-28,2025-03-22,904817.1766773968,Acosta LLC,4,1051522.4539132165,0,1,0
+5,Rivero-Cabrera,Suministro de Bienes,2025-03-25,2025-04-09,140975.8539432927,"Garcia, Muñoz and Avila",4,905707.1607606555,0,0,0
+6,Gonzalez Group,Servicios de Consultoría,2025-01-29,2025-02-14,959100.145319003,Arias Group,4,394274.5678633033,1,0,0
+7,Soria-Garcia,Obras Menores,2025-02-27,2025-02-18,230672.887199017,Rodriguez PLC,5,509536.5207529467,0,0,0
+8,Ramirez Group,Servicios de Consultoría,2025-02-21,2025-03-06,282784.34874908585,Campos PLC,4,136156.09479494605,0,0,0
+9,Fernandez LLC,Suministro de Bienes,2025-02-08,2025-03-31,15478.437155408308,Correa-Torres,6,586449.7823091137,0,0,0
+10,Nuñez-Duarte,Obras Menores,2025-03-04,2025-03-31,416862.12652960914,Acosta Group,5,552955.2402899179,0,0,0
+11,"Aguirre, Nuñez and Cordoba",Suministro de Bienes,2025-02-13,2025-02-11,980798.3765619908,Juarez-Ponce,2,979491.972306667,1,0,0
+12,Herrera-Ponce,Servicios de Consultoría,2025-01-05,2025-03-28,224399.52588720576,Benitez Group,4,92386.04967518736,0,0,0
+13,Silva-Rojas,Obras Menores,2025-02-09,2025-02-21,105289.69812584875,Ruiz and Sons,6,667848.8804326308,0,1,0
+14,Fernandez-Rodriguez,Suministro de Bienes,2025-03-26,2025-02-09,823244.6445968683,Torres Inc,2,1006592.7950453034,0,0,0
+15,Aguero PLC,Servicios de Consultoría,2025-02-07,2025-04-07,110898.84055852992,Correa Inc,3,986777.7767081162,1,0,0
+16,"Vega, Ramirez and Herrera",Suministro de Bienes,2025-02-16,2025-04-19,121898.83029382846,"Roldan, Godoy and Martinez",6,718955.8242497729,1,0,0
+17,Gomez PLC,Servicios de Consultoría,2025-02-07,2025-02-23,916301.9485708039,Fernandez Ltd,4,562208.2889688755,0,0,0
+18,Herrera Inc,Obras Menores,2025-02-13,2025-03-08,303587.3660875139,Valdez Group,2,904993.1639950352,0,1,0
+19,"Alvarez, Vargas and Cabrera",Suministro de Bienes,2025-01-25,2025-04-07,37923.353676124374,Sanchez and Sons,5,924356.6679855111,0,0,0
+20,Benitez and Sons,Servicios de Consultoría,2025-03-25,2025-03-02,783147.4541679343,"Martinez, Rodriguez and Avila",4,342802.2121003326,0,0,0
+21,Ortiz-Godoy,Servicios de Consultoría,2025-02-17,2025-02-21,805492.2804821318,"Vargas, Barrios and Sanchez",2,335807.91248810815,1,0,0
+22,"Cabrera, Leiva and Moreno",Obras Menores,2025-02-18,2025-04-01,907320.5412351425,"Ruiz, Ramos and Arias",5,173845.94708955774,0,0,0
+23,Gimenez-Sanchez,Suministro de Bienes,2025-02-15,2025-03-16,389306.2916953388,"Perez, Dominguez and Villalba",5,39097.56874470401,0,1,0
+24,"Castillo, Martinez and Fernandez",Obras Menores,2025-01-17,2025-03-11,248548.03719317916,Sanchez Ltd,3,186088.0516606922,0,1,0
+25,Roldan-Quiroga,Suministro de Bienes,2025-01-03,2025-02-27,411957.80490825156,"Vazquez, Martinez and Acosta",3,9524.404297156605,1,0,0
+26,Perez-Gomez,Obras Menores,2025-02-25,2025-03-27,495432.385845687,Aguirre Ltd,4,103361.73607497186,1,1,0
+27,Gomez-Dominguez,Suministro de Bienes,2025-03-14,2025-02-11,701175.3274412854,Gonzalez-Blanco,3,375049.6215506009,1,1,0
+28,"Romero, Gonzalez and Gonzalez",Suministro de Bienes,2025-01-08,2025-04-20,825198.1819462129,"Fernandez, Suarez and Gomez",3,998472.7838430186,0,0,0
+29,Vazquez PLC,Obras Menores,2025-01-08,2025-04-13,886206.2312008609,Moreno Inc,6,263570.3013828172,0,0,0
+30,Herrera-Mendoza,Suministro de Bienes,2025-03-27,2025-02-06,574257.1632910492,"Sanchez, Rios and Herrera",3,754252.7985048431,0,1,0
