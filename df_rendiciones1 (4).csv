@@ -1,0 +1,31 @@
+ID_Rendicion,ID_Empleado,Fecha,Concepto,Monto,Detalle,Documento_Adjunto,Es_Fraude
+1,101,2025-03-01,Material de Oficina,105.93573170501533,Viáticos,Recibo,0
+2,102,2025-03-02,Gastos de Representación,423.04308475067666,Material de Oficina,,0
+3,104,2025-03-23,Material de Oficina,406.882693108923,Otros,Ticket,0
+4,101,2025-02-26,Gastos de Representación,347.6369554967958,Material de Oficina,Factura,0
+5,105,2025-02-09,Otros,295.893041154636,Viáticos,Recibo,0
+6,102,2025-02-18,Material de Oficina,196.90819108547623,Gastos de Representación,,0
+7,103,2025-03-13,Otros,203.59275384686498,Material de Oficina,Recibo,0
+8,104,2025-01-13,Viáticos,156.1430044031037,Gastos de Representación,Recibo,0
+9,104,2025-03-20,Gastos de Representación,144.86377852646467,Gastos de Representación,Factura,0
+10,106,2025-01-22,Gastos de Representación,444.8359213644123,Material de Oficina,,0
+11,100,2025-02-19,Gastos de Representación,397.5758583353213,Gastos de Representación,Ticket,0
+12,107,2025-03-14,Otros,451.0785917430516,Otros,,0
+13,108,2025-02-09,Gastos de Representación,218.31607731244455,Gastos de Representación,Recibo,0
+14,108,2025-03-28,Viáticos,304.53437304765566,Otros,Ticket,0
+15,106,2025-02-26,Material de Oficina,126.61854160983462,Viáticos,Recibo,0
+16,106,2025-03-21,Otros,311.92568680061254,Material de Oficina,,0
+17,110,2025-02-04,Gastos de Representación,452.06601960985313,Viáticos,Ticket,0
+18,109,2025-03-31,Otros,128.35308276691492,Otros,Ticket,0
+19,102,2025-01-02,Otros,264.0241200939098,Material de Oficina,Recibo,0
+20,100,2025-01-07,Material de Oficina,272.97671615672584,Gastos de Representación,,0
+21,101,2025-03-26,Viáticos,101.53436527619003,Viáticos,,0
+22,110,2025-01-31,Otros,421.72857175269655,Viáticos,Factura,0
+23,105,2025-01-23,Gastos de Representación,399.67898525788183,Otros,,0
+24,102,2025-01-10,Otros,209.07236391172998,Gastos de Representación,Factura,0
+25,105,2025-01-24,Material de Oficina,376.77805679026835,Gastos de Representación,,0
+26,104,2025-03-18,Material de Oficina,163.78713478766335,Gastos de Representación,Factura,0
+27,107,2025-02-18,Otros,129.82307399993584,Material de Oficina,Recibo,0
+28,109,2025-03-07,Otros,68.79332098405965,Otros,Ticket,0
+29,104,2025-01-18,Gastos de Representación,153.84262707861532,Viáticos,Factura,0
+30,104,2025-02-11,Material de Oficina,99.81795706070858,Viáticos,,0
