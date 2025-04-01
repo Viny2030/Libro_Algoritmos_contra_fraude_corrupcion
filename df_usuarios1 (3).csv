@@ -1,0 +1,61 @@
+ID_Usuario,Nombre,Email,Direccion,CUIT,Es_Cuenta_Falsa
+user_0,Guadalupe Juan Bautista Soto,rodriguezjuan-martin@example.org,"Av. Buenos Aires N° 498
+Santa Fe 3000, Santa Fe",23-66319091-1,1
+user_1,Matilda Lisandro Suarez,felicitasgonzalez@example.net,"Diagonal Alem N° 21 Dto. 3
+San Miguel de Tucumán 4000, Tucumán",20-97305876-3,0
+user_2,Lucia Gonzalez,alvarezjuan-martin@example.net,"Diagonal Malvinas Argentinas N° 477
+Merlo 5881, San Luis",23-72119225-3,1
+user_3,Octavio Ferreyra Molina,juan-bautista50@example.org,"Camino 177 Bis N° 842
+La Plata 1900, Buenos Aires",27-56107318-5,1
+user_4,Juana Luna Vargas,nunezbenjamin@example.net,"Diagonal Formosa N° 2587 Dto. 4
+Córdoba 5000, Córdoba",20-69418445-7,1
+user_5,Felicitas Francisco Fernandez,luciano70@example.org,"Camino Ciudad Autónoma de Buenos Aires N° 6321 Oficina 6
+Formosa 3600, Formosa",23-07422926-3,0
+user_6,Morena Nahiara Garcia,isabel38@example.org,"Calle Chubut N° 464
+Posadas 3300, Misiones",27-52252189-8,1
+user_7,Giovanni Vicente Gutierrez Vazquez,luciano-benjamin76@example.com,"Diagonal Paraná N° 986 Piso 8 Dto. 2
+Mar del Plata 7600, Buenos Aires",20-20824771-9,1
+user_8,Mateo Silva Gonzalez,tsanchez@example.com,"Calle Bahía Blanca N° 886
+Mar del Plata 7600, Buenos Aires",20-11390021-1,0
+user_9,Juan Ignacio Ciro Martinez,augustoaguirre@example.net,"Diagonal Santa Cruz N° 84 Torre 1 Dto. 5
+Neuquén 8300, Neuquén",23-69314059-5,0
+user_10,Delfina Acosta,barriosvalentino@example.com,"Av. San Luis N° 4286 Piso 7 Dto. 4
+Rosario 2000, Santa Fe",27-45984234-4,1
+user_11,Dr(a). Sofía Medina,martinapereyra@example.com,"Avenida Río Negro N° 824
+Corrientes 3400, Corrientes",27-97867841-1,1
+user_12,Lautaro Ezequiel Vera Sanchez,camilogonzalez@example.com,"Diagonal 3 N° 933 Local 44
+Mar del Plata 7600, Buenos Aires",20-18328671-5,1
+user_13,Dr(a). Maia Mendez,maria-luz08@example.net,"Calle Güemes N° 94
+Río Gallegos 9400, Santa Cruz",23-15879298-2,0
+user_14,Sr(a). Tomas Vazquez,nahuel62@example.com,"Av. Constitución N° 893 Oficina 3
+Mendoza 5500, Mendoza",23-65995245-9,1
+user_15,Juan Martin Gonzalez,mromero@example.org,"Avenida San Salvador de Jujuy N° 965 Oficina 95
+San Juan 5400, San Juan",20-14442007-2,0
+user_16,Sr(a). Giovanni Valdez,isabella92@example.com,"Avenida Bahía Blanca N° 91
+Rawson 9103, Chubut",20-72627078-4,0
+user_17,Tiziano Villalba,valentinacosta@example.org,"Diagonal Córdoba N° 3371
+Rosario 2000, Santa Fe",27-41009151-3,0
+user_18,Ignacio Moreno,csoria@example.org,"Calle San Martin N° 907
+San Juan 5400, San Juan",23-19247139-7,0
+user_19,Dr(a). Thiago Benjamin Maidana,felipe60@example.org,"Camino Chilecito N° 415
+Bahía Blanca 8000, Buenos Aires",27-74083801-1,0
+user_20,Luana Perez Gonzalez,juan-ignacio11@example.com,"Blv. 7 N° 279
+Salta 4400, Salta",23-41517865-4,1
+user_21,Benjamin Santino Maidana Godoy,sgarcia@example.org,"Av. Mendoza N° 73
+Comodoro Rivadavia 9000, Chubut",20-55563060-4,0
+user_22,Dr(a). Pedro Benitez,benjamin57@example.net,"Avenida 5 N° 154 Piso 7 Dto. 9
+Santa Fe 3000, Santa Fe",23-75377029-1,1
+user_23,Sr(a). Paloma Gonzalez,luciano36@example.org,"Avenida 117 A N° 6938 Local 3
+San Luis 5700, San Luis",20-51031705-0,0
+user_24,Catalina Acosta Castillo,gonzalezjoaquin@example.net,"Diagonal Río Gallegos N° 159
+Rosario 2000, Santa Fe",23-19422899-6,0
+user_25,Malena Quiroga,dominguezmalena@example.com,"Avenida 172 A N° 334 Oficina 29
+Paraná 3100, Entre Ríos",27-79903510-9,1
+user_26,Enzo Perez Mansilla,salvadorvillalba@example.org,"Boulevard Formosa N° 243 Dto. 2
+San Ferando del Valle de Catamarca 4700, Catamarca",27-70452621-6,0
+user_27,Matias Cardozo,lucia52@example.com,"Avenida Santa Rosa N° 63
+Formosa 3600, Formosa",23-82302656-0,0
+user_28,Simon Guillermina Martinez,facundosanchez@example.com,"Avenida 7 N° 17
+Chilecito 5360, La Rioja",23-29362950-1,1
+user_29,Catalina Felicitas Lopez,gonzalotorres@example.com,"Calle Santa Cruz N° 342
+Resistencia 3500, Chaco",23-90788226-8,0
