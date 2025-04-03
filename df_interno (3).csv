@@ -1,0 +1,21 @@
+ID_Empleado,Tipo_Actividad,Monto,Fecha_Hora,Departamento,Es_Sospechoso
+101,Acceso_Sistema,0,2024-04-15 09:00:00,Ventas,0
+102,Solicitud_Reembolso,500,2024-04-15 10:15:00,Contabilidad,0
+101,Acceso_Sistema,0,2024-04-15 11:00:00,Ventas,0
+103,Transferencia_Interna,10000,2024-04-15 14:30:00,Finanzas,1
+102,Acceso_Sistema,0,2024-04-15 16:00:00,Contabilidad,0
+104,Solicitud_Viaje,1500,2024-04-16 08:45:00,RRHH,0
+101,Descarga_Datos,0,2024-04-16 10:00:00,Ventas,1
+103,Transferencia_Interna,8000,2024-04-16 11:30:00,Finanzas,1
+105,Acceso_Sistema,0,2024-04-16 15:00:00,TI,0
+102,Solicitud_Reembolso,600,2024-04-17 09:30:00,Contabilidad,0
+101,Acceso_Sistema,0,2024-04-17 11:00:00,Ventas,0
+104,Solicitud_Viaje,750,2024-04-17 14:00:00,RRHH,0
+103,Transferencia_Interna,9500,2024-04-17 16:30:00,Finanzas,1
+105,Descarga_Datos,0,2024-04-18 08:00:00,TI,0
+102,Acceso_Sistema,0,2024-04-18 10:30:00,Contabilidad,0
+101,Acceso_Sistema,0,2024-04-18 13:00:00,Ventas,0
+104,Solicitud_Reembolso,400,2024-04-18 15:45:00,Contabilidad,0
+103,Transferencia_Interna,7000,2024-04-19 09:15:00,Finanzas,1
+105,Acceso_Sistema,0,2024-04-19 11:45:00,TI,0
+102,Solicitud_Viaje,1200,2024-04-19 14:00:00,RRHH,0
