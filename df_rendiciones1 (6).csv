@@ -1,0 +1,31 @@
+ID_Rendicion,ID_Empleado,Fecha,Concepto,Monto,Detalle,Documento_Adjunto,Es_Fraude
+1,100,2025-02-27,Otros,3436.72,reintegro_gastos,Ticket,0
+2,108,2025-02-07,Viáticos,5807.73,Gastos de Representación,Factura,0
+3,100,2025-01-13,Material de Oficina,8815.54,Viáticos,Factura,0
+4,105,2025-01-26,Viáticos,5224.44,reintegro_gastos,Factura,0
+5,104,2025-03-26,Viáticos,5458.62,Viáticos,Factura,0
+6,109,2025-01-08,Otros,5160.30,reintegro_gastos,Factura,0
+7,108,2025-02-21,Viáticos,4819.09,Material de Oficina,Factura,0
+8,103,2025-02-10,Gastos de Representación,286.59,Material de Oficina,Factura,0
+9,102,2025-01-31,Otros,5197.41,proveedores,Factura,0
+10,102,2025-03-02,Otros,7449.24,Viáticos,Factura,0
+11,106,2025-01-26,Material de Oficina,8699.50,Gastos de Representación,Ticket,0
+12,105,2025-04-01,Material de Oficina,1328.83,Viáticos,Factura,0
+13,107,2025-02-04,Otros,8298.38,Viáticos,Ticket,0
+14,110,2025-03-11,Otros,2013.67,Gastos de Representación,Recibo,0
+15,105,2025-01-03,Gastos de Representación,8419.26,Material de Oficina,Ticket,0
+16,109,2025-01-06,Viáticos,-381.98,proveedores,Recibo,0
+17,109,2025-01-13,Gastos de Representación,1912.81,Otros,Factura,0
+18,107,2025-03-01,Gastos de Representación,1911.44,Gastos de Representación,Ticket,0
+19,102,2025-01-29,Material de Oficina,210.75,reintegro_gastos,Ticket,0
+20,109,2025-03-23,Viáticos,6793.39,Material de Oficina,Recibo,0
+21,105,2025-01-05,Viáticos,4004.47,Viáticos,Ticket,0
+22,108,2025-02-09,Viáticos,8441.17,Material de Oficina,Factura,0
+23,104,2025-02-28,Viáticos,5244.75,Gastos de Representación,Recibo,0
+24,107,2025-03-24,Material de Oficina,2527.57,Otros,Ticket,0
+25,106,2025-02-03,Gastos de Representación,5656.82,Gastos de Representación,Factura,0
+26,104,2025-02-02,Otros,9754.01,Viáticos,Recibo,0
+27,109,2025-01-07,Otros,812.27,Viáticos,Factura,0
+28,104,2025-03-20,Otros,6623.78,Viáticos,Ticket,0
+29,104,2025-02-09,Otros,6888.48,proveedores,Recibo,0
+30,109,2025-02-09,Otros,5270.85,Gastos de Representación,Ticket,0
