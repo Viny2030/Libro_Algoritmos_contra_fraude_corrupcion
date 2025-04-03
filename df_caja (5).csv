@@ -1,0 +1,31 @@
+ID_Transaccion,ID_Cajero,Fecha_Hora,Tipo_Transaccion,Monto,Descripcion,Metodo_Pago,Estado,Es_Fraude
+1,215,2025-02-28 16:06:06.217173,Devolución,2737.39,Venta,Tarjeta Crédito,Completado,0
+2,211,2025-03-02 11:16:26.218120,Fondo Fijo,9237.68,Devolución,Cheque,Pendiente,0
+3,211,2025-01-07 14:53:12.871932,Reintegro,-806.92,Ajuste,Tarjeta Débito,Completado,0
+4,208,2025-03-31 02:50:57.616760,Fondo Fijo,6053.55,Devolución,Cheque,Pendiente,0
+5,213,2025-03-17 09:05:42.450237,Fondo Fijo,6851.21,Devolución,Cheque,Cancelado,0
+6,210,2025-02-22 10:39:47.174133,Fondo Fijo,6395.68,Fondo Fijo,Tarjeta Débito,Completado,0
+7,208,2025-01-30 08:07:29.093340,Devolución,1486.88,Reintegro,Tarjeta Débito,Cancelado,0
+8,211,2025-03-24 20:23:42.425933,Fondo Fijo,9449.47,Devolución,Efectivo,Completado,0
+9,202,2025-02-26 12:44:03.300276,Reintegro,2147.01,Reintegro,transferencia,Cancelado,0
+10,213,2025-01-30 05:48:49.653180,Fondo Fijo,3930.81,Venta,Tarjeta Crédito,Cancelado,0
+11,213,2025-02-10 14:23:27.162264,Reintegro,1030.23,Ajuste,Tarjeta Débito,Pendiente,0
+12,214,2025-01-16 05:45:46.731926,Ajuste,1893.04,Devolución,Efectivo,Completado,0
+13,209,2025-02-06 23:02:08.238343,Reintegro,3359.93,Reintegro,Cheque,Cancelado,0
+14,213,2025-01-16 15:00:44.341227,Fondo Fijo,8397.03,Fondo Fijo,Efectivo,Pendiente,0
+15,208,2025-02-10 23:56:53.814609,Reintegro,5748.91,Reintegro,Efectivo,Cancelado,0
+16,209,2025-02-25 21:24:53.573244,Reintegro,4062.37,Devolución,Tarjeta Crédito,Completado,0
+17,201,2025-02-22 04:04:27.141306,Venta,7101.78,Reintegro,transferencia,Completado,0
+18,203,2025-02-25 05:11:56.118536,Venta,1787.48,Fondo Fijo,Cheque,Pendiente,0
+19,211,2025-03-04 07:38:51.134035,Ajuste,-716.41,Reintegro,Tarjeta Débito,Cancelado,0
+20,212,2025-03-07 13:46:18.124901,Ajuste,201.35,Ajuste,Tarjeta Crédito,Completado,0
+21,211,2025-02-25 03:43:54.970984,Venta,3609.42,Reintegro,Tarjeta Crédito,Cancelado,0
+22,206,2025-01-30 04:55:19.108267,Reintegro,8572.71,Reintegro,Cheque,Completado,0
+23,210,2025-02-07 19:55:18.951826,Devolución,7725.61,Venta,Efectivo,Pendiente,0
+24,213,2025-01-13 03:54:16.320025,Fondo Fijo,179.71,Ajuste,Efectivo,Cancelado,0
+25,214,2025-01-03 01:19:52.039262,Fondo Fijo,2333.04,Venta,Tarjeta Débito,Cancelado,0
+26,209,2025-01-05 02:29:30.068746,Venta,4677.66,Ajuste,Efectivo,Pendiente,0
+27,208,2025-03-06 20:00:37.600007,Venta,1228.82,Reintegro,Cheque,Completado,0
+28,206,2025-02-10 02:25:53.597809,Reintegro,2474.42,Devolución,transferencia,Completado,0
+29,211,2025-02-13 06:55:06.119935,Fondo Fijo,7077.52,Venta,Tarjeta Crédito,Cancelado,0
+30,206,2025-02-27 00:11:03.416045,Reintegro,7840.29,Reintegro,Efectivo,Completado,0
