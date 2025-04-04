@@ -1,0 +1,31 @@
+ID_Compra,Organismo_Comprador,Proveedor,Fecha_Compra,Bien_Servicio,Monto_Total,Metodo_Pago,Estado,Funcionario_Autorizador,Proceso_Compra,Relacion_Funcionario_Proveedor,Pago_Acelerado,Es_Sospechoso
+1,"Vazquez, Aguirre and Franco","Rodriguez, Torres and Alvarez",2025-02-15,Servicios de Limpieza,29394.13,Transferencia Bancaria,Pendiente,Funcionario_3,Contratación Directa,0,1,0
+2,Navarro-Castillo,"Correa, Ayala and Carrizo",2025-03-06,Computadoras,53884.24,Transferencia Bancaria,Pendiente,Funcionario_10,Concurso de Precios,0,0,0
+3,Flores Inc,Bustos LLC,2025-02-06,Material de Oficina,53143.13,Transferencia Bancaria,Pendiente,Funcionario_1,Contratación Directa,0,0,0
+4,Romero Group,Juarez PLC,2025-02-15,Computadoras,39932.87,Transferencia Bancaria,Cancelada,Funcionario_3,Licitación Pública,0,0,0
+5,Figueroa-Medina,Fernandez Inc,2025-03-09,Material de Oficina,34977.29,Transferencia Bancaria,Cancelada,Funcionario_8,Licitación Pública,1,0,0
+6,Maldonado Ltd,"Nuñez, Vega and Fernandez",2025-01-29,Servicios de Limpieza,67257.59,Transferencia Bancaria,Pendiente,Funcionario_8,Contratación Directa,0,0,0
+7,Ponce-Medina,Caceres PLC,2025-01-16,Vehículos,52519.28,Transferencia Bancaria,Pendiente,Funcionario_4,Licitación Pública,1,0,0
+8,"Figueroa, Sosa and Gomez",Rodriguez-Gomez,2025-03-04,Material de Oficina,41801.22,Transferencia Bancaria,Completada,Funcionario_2,Concurso de Precios,0,0,0
+9,Arias-Sosa,"Miranda, Cabrera and Gimenez",2025-04-03,Computadoras,53819.49,Transferencia Bancaria,Cancelada,Funcionario_3,Licitación Pública,0,0,0
+10,Diaz LLC,"Silva, Mendez and Flores",2025-01-17,Servicios de Limpieza,44101.98,Transferencia Bancaria,Cancelada,Funcionario_9,Licitación Pública,0,0,0
+11,Luna-Farias,Ramirez Inc,2025-01-04,Vehículos,94202.67,Transferencia Bancaria,Cancelada,Funcionario_5,Contratación Directa,0,1,0
+12,"Leiva, Sanchez and Vazquez",Romero and Sons,2025-03-27,Servicios de Limpieza,5044.71,Transferencia Bancaria,Completada,Funcionario_8,Licitación Pública,1,0,0
+13,"Diaz, Peralta and Sanchez",Sanchez Group,2025-01-09,Computadoras,54886.27,Transferencia Bancaria,Completada,Funcionario_3,Licitación Pública,1,0,0
+14,Lopez-Villalba,"Barrios, Alvarez and Gonzalez",2025-03-03,Material de Oficina,79442.43,Transferencia Bancaria,Pendiente,Funcionario_2,Concurso de Precios,0,0,0
+15,Barrios-Peralta,Peralta Ltd,2025-04-02,Vehículos,55882.65,Transferencia Bancaria,Pendiente,Funcionario_2,Contratación Directa,1,0,0
+16,Sosa PLC,"Fernandez, Muñoz and Gimenez",2025-03-15,Computadoras,98835.45,Transferencia Bancaria,Completada,Funcionario_2,Contratación Directa,1,1,0
+17,Bustos LLC,Lopez-Ramos,2025-02-03,Vehículos,50342.37,Transferencia Bancaria,Pendiente,Funcionario_8,Licitación Pública,0,0,0
+18,"Roldan, Lopez and Gonzalez","Perez, Navarro and Luna",2025-03-03,Material de Oficina,65467.01,Transferencia Bancaria,Cancelada,Funcionario_5,Contratación Directa,0,0,0
+19,Rios LLC,Medina PLC,2025-02-21,Computadoras,67058.99,Transferencia Bancaria,Completada,Funcionario_7,Concurso de Precios,0,0,0
+20,Mendoza-Dominguez,Juarez Group,2025-02-19,Computadoras,31108.74,Transferencia Bancaria,Pendiente,Funcionario_6,Concurso de Precios,1,0,0
+21,Diaz-Cruz,Lopez-Duarte,2025-02-04,Material de Oficina,23666.83,Transferencia Bancaria,Cancelada,Funcionario_7,Contratación Directa,0,1,0
+22,Perez PLC,"Rodriguez, Gomez and Rodriguez",2025-03-12,Material de Oficina,36933.91,Transferencia Bancaria,Cancelada,Funcionario_6,Concurso de Precios,0,0,0
+23,Quiroga-Martinez,Lopez-Torres,2025-01-03,Servicios de Limpieza,14091.78,Transferencia Bancaria,Cancelada,Funcionario_1,Contratación Directa,0,0,0
+24,"Gimenez, Cordoba and Figueroa",Bustos Group,2025-03-28,Vehículos,96387.81,Transferencia Bancaria,Pendiente,Funcionario_7,Concurso de Precios,0,0,0
+25,Fernandez-Cordoba,Vega PLC,2025-04-02,Vehículos,44602.68,Transferencia Bancaria,Completada,Funcionario_10,Licitación Pública,0,0,0
+26,Mendez-Rojas,Aguero-Molina,2025-01-07,Vehículos,35030.54,Transferencia Bancaria,Pendiente,Funcionario_10,Concurso de Precios,0,0,0
+27,"Maidana, Diaz and Fernandez",Ramirez LLC,2025-02-22,Material de Oficina,25880.50,Transferencia Bancaria,Cancelada,Funcionario_1,Licitación Pública,1,0,0
+28,"Ortiz, Ruiz and Molina",Ferreyra Group,2025-01-10,Servicios de Limpieza,21514.86,Transferencia Bancaria,Completada,Funcionario_3,Licitación Pública,0,0,0
+29,Navarro-Pereyra,Blanco-Romero,2025-03-07,Computadoras,84627.19,Transferencia Bancaria,Cancelada,Funcionario_6,Licitación Pública,1,0,0
+30,"Fernandez, Hernandez and Benitez","Rojas, Sanchez and Fernandez",2025-03-03,Material de Oficina,58043.94,Transferencia Bancaria,Completada,Funcionario_2,Concurso de Precios,0,0,0
