@@ -1,0 +1,31 @@
+ID_Licitacion,Organismo_Convocante,Objeto,Fecha_Publicacion,Fecha_Cierre,Monto,Empresa_Ganadora,Monto_Adjudicado,Proceso_Seleccion,Participantes,Relacion_Funcionario_Ganador,Es_Irregular
+1,Ortiz-Gonzalez,Mantenimiento,2025-01-13,2025-05-11,76576.28,"Gimenez, Romero and Lopez",68918.652,Concurso de Precios,2,0,0
+2,Ponce and Sons,Servicios de Consultoría,2025-02-01,2025-04-13,55615.99,"Soria, Maldonado and Ruiz",50054.390999999996,Concurso de Precios,5,0,0
+3,Guzman Inc,Construcción de Obra,2025-03-12,2025-03-20,87211.32,Gimenez Group,78490.18800000001,Licitación Pública,4,0,0
+4,"Garcia, Correa and Cabrera",Mantenimiento,2025-02-10,2025-05-06,48923.05,"Lopez, Flores and Sanchez",44030.745,Contratación Directa,4,0,0
+5,"Vazquez, Sanchez and Perez",Construcción de Obra,2025-01-16,2025-04-15,58924.46,"Gonzalez, Cabrera and Campos",53032.014,Concurso de Precios,3,0,0
+6,Nuñez Ltd,Servicios de Consultoría,2025-01-04,2025-04-01,20112.89,"Romero, Fernandez and Romero",18101.601,Licitación Pública,2,0,0
+7,Silva-Romero,Servicios de Consultoría,2025-02-11,2025-02-13,27487.65,Ramirez Ltd,24738.885000000002,Contratación Directa,5,0,0
+8,Roldan Ltd,Suministro de Equipamiento,2025-01-06,2025-05-17,67335.56,Ponce Inc,60602.004,Contratación Directa,2,1,0
+9,Gonzalez Ltd,Mantenimiento,2025-02-08,2025-02-23,29961.72,"Ramos, Correa and Bravo",26965.548000000003,Contratación Directa,3,0,0
+10,Fernandez-Mendoza,Construcción de Obra,2025-04-03,2025-02-25,93674.55,"Caceres, Torres and Morales",84307.095,Licitación Pública,3,0,0
+11,Rivero PLC,Suministro de Equipamiento,2025-01-04,2025-04-22,72909.17,Juarez-Miranda,65618.253,Licitación Pública,4,0,0
+12,"Olivera, Gimenez and Gonzalez",Suministro de Equipamiento,2025-01-22,2025-04-17,7756.32,"Acuña, Rojas and Duarte",6980.688,Contratación Directa,3,0,0
+13,Gutierrez-Sanchez,Suministro de Equipamiento,2025-01-09,2025-04-25,37147.53,Ruiz LLC,33432.777,Concurso de Precios,3,1,0
+14,"Valdez, Gonzalez and Perez",Construcción de Obra,2025-02-16,2025-03-28,25115.04,Bravo LLC,22603.536,Licitación Pública,1,0,0
+15,Flores PLC,Suministro de Equipamiento,2025-03-21,2025-03-11,74376.02,Dominguez Group,66938.418,Contratación Directa,1,0,0
+16,Rodriguez and Sons,Construcción de Obra,2025-01-02,2025-04-12,8624.02,Martinez-Martin,7761.618,Concurso de Precios,2,0,0
+17,Rodriguez and Sons,Mantenimiento,2025-01-04,2025-04-17,60460.55,Sosa-Quiroga,54414.495,Licitación Pública,3,0,0
+18,Lopez Group,Mantenimiento,2025-01-17,2025-06-10,28507.90,Blanco PLC,25657.11,Concurso de Precios,1,0,0
+19,Rodriguez PLC,Mantenimiento,2025-03-22,2025-04-24,58653.19,Arias Ltd,52787.87100000001,Contratación Directa,3,0,0
+20,Molina PLC,Servicios de Consultoría,2025-02-20,2025-04-28,39461.85,Medina Ltd,35515.665,Concurso de Precios,1,0,0
+21,Soto-Correa,Suministro de Equipamiento,2025-02-19,2025-03-10,60986.24,Ledesma Group,54887.616,Licitación Pública,3,0,0
+22,Diaz LLC,Construcción de Obra,2025-02-27,2025-03-28,88728.54,Vargas-Perez,79855.686,Licitación Pública,3,1,0
+23,Medina PLC,Construcción de Obra,2025-03-11,2025-05-05,60608.60,Godoy-Vera,54547.74,Concurso de Precios,4,0,0
+24,Martinez and Sons,Suministro de Equipamiento,2025-03-29,2025-03-05,78142.29,"Aguero, Rivero and Alvarez",70328.061,Concurso de Precios,1,0,0
+25,Soria and Sons,Servicios de Consultoría,2025-03-09,2025-02-23,17745.77,Acosta-Lopez,15971.193000000001,Concurso de Precios,3,0,0
+26,"Gomez, Suarez and Lopez",Mantenimiento,2025-02-03,2025-05-02,58444.60,"Cordoba, Diaz and Sanchez",52600.14,Licitación Pública,3,0,0
+27,Bustos and Sons,Mantenimiento,2025-02-27,2025-01-22,36972.16,Correa and Sons,33274.944,Concurso de Precios,2,0,0
+28,"Rodriguez, Martin and Paz",Construcción de Obra,2025-01-27,2025-05-06,24786.45,Figueroa LLC,22307.805,Contratación Directa,1,1,0
+29,Quiroga-Gonzalez,Construcción de Obra,2025-02-22,2025-04-28,89497.34,Silva Ltd,80547.606,Licitación Pública,4,0,0
+30,"Aguero, Chavez and Torres",Construcción de Obra,2025-02-12,2025-02-16,90470.57,"Gonzalez, Arias and Aguirre",81423.513,Contratación Directa,1,1,0
