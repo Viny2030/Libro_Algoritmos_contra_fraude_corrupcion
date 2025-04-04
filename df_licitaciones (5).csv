@@ -1,0 +1,31 @@
+ID_Licitacion,Organismo_Convocante,Objeto,Fecha_Publicacion,Fecha_Cierre,Monto,Empresa_Ganadora,Monto_Adjudicado,Monto_Estimado,Proceso_Seleccion,Participantes,Relacion_Funcionario_Ganador,Es_Irregular
+1,Gomez PLC,Mantenimiento,2025-01-12,2025-03-03,47821.84,Lopez-Ramirez,43039.655999999995,43039.655999999995,Licitación Pública,5,0,0
+2,Moreno-Silva,Construcción de Obra,2025-03-15,2025-06-09,5131.72,"Luna, Rojas and Vargas",4618.548000000001,4618.548000000001,Licitación Pública,1,0,0
+3,Flores Ltd,Construcción de Obra,2025-03-04,2025-04-15,19747.64,Ortiz-Gomez,17772.876,17772.876,Licitación Pública,5,0,0
+4,Arias LLC,Construcción de Obra,2025-04-03,2025-05-11,42285.93,Gutierrez-Luna,38057.337,38057.337,Contratación Directa,1,0,0
+5,Paz-Ayala,Construcción de Obra,2025-02-22,2025-02-27,89586.97,Gonzalez Group,80628.273,80628.273,Concurso de Precios,5,0,0
+6,Maidana and Sons,Construcción de Obra,2025-02-22,2025-04-26,96078.79,Gonzalez Ltd,86470.911,86470.911,Concurso de Precios,1,0,0
+7,Sanchez-Sosa,Construcción de Obra,2025-03-27,2025-04-11,83677.11,"Perez, Ramirez and Ferreyra",75309.399,75309.399,Concurso de Precios,3,0,0
+8,"Diaz, Martinez and Pereyra",Servicios de Consultoría,2025-03-13,2025-04-17,68746.10,Torres Ltd,61871.490000000005,61871.490000000005,Concurso de Precios,4,0,0
+9,"Ruiz, Gutierrez and Perez",Servicios de Consultoría,2025-02-04,2025-01-30,87105.89,Muñoz Group,78395.301,78395.301,Licitación Pública,1,1,0
+10,Rojas Group,Servicios de Consultoría,2025-01-15,2025-04-18,76931.43,Gonzalez Group,69238.287,69238.287,Licitación Pública,3,0,0
+11,Ortiz and Sons,Servicios de Consultoría,2025-03-19,2025-03-28,86923.15,Arias-Gomez,78230.83499999999,78230.83499999999,Contratación Directa,3,0,0
+12,"Rodriguez, Rojas and Correa",Servicios de Consultoría,2025-04-02,2025-03-28,71829.60,Rodriguez Ltd,64646.64000000001,64646.64000000001,Licitación Pública,2,0,0
+13,"Sanchez, Torres and Rodriguez",Mantenimiento,2025-03-01,2025-05-29,13488.04,Ojeda and Sons,12139.236,12139.236,Concurso de Precios,1,0,0
+14,Rodriguez-Gomez,Suministro de Equipamiento,2025-02-02,2025-05-28,73662.69,"Acosta, Paz and Barrios",66296.421,66296.421,Concurso de Precios,2,1,0
+15,Benitez PLC,Construcción de Obra,2025-03-16,2025-04-18,87625.70,"Fernandez, Gomez and Martinez",78863.13,78863.13,Concurso de Precios,4,0,0
+16,Ayala Inc,Servicios de Consultoría,2025-01-16,2025-04-11,67853.71,"Martinez, Caceres and Vargas",61068.33900000001,61068.33900000001,Licitación Pública,5,0,0
+17,"Sanchez, Hernandez and Gonzalez",Mantenimiento,2025-01-14,2025-04-30,67516.53,"Navarro, Muñoz and Rodriguez",60764.877,60764.877,Contratación Directa,5,0,0
+18,Mendez Inc,Servicios de Consultoría,2025-03-24,2025-04-18,24693.75,"Luna, Toledo and Paez",22224.375,22224.375,Contratación Directa,5,0,0
+19,"Alvarez, Rodriguez and Lucero",Mantenimiento,2025-03-11,2025-04-30,33786.77,"Fernandez, Barrios and Gutierrez",30408.092999999997,30408.092999999997,Concurso de Precios,5,0,0
+20,Lopez-Paez,Mantenimiento,2025-02-06,2025-04-16,88550.57,Lopez Inc,79695.513,79695.513,Licitación Pública,5,0,0
+21,"Miranda, Gonzalez and Torres",Servicios de Consultoría,2025-02-19,2025-04-18,26311.18,Gutierrez-Toledo,23680.062,23680.062,Concurso de Precios,2,0,0
+22,Diaz LLC,Construcción de Obra,2025-01-02,2025-06-12,83299.57,"Aguirre, Gonzalez and Silva",74969.61300000001,74969.61300000001,Concurso de Precios,5,0,0
+23,Olivera and Sons,Mantenimiento,2025-02-13,2025-05-20,39482.60,Dominguez Inc,35534.34,35534.34,Licitación Pública,3,0,0
+24,"Rodriguez, Benitez and Vera",Suministro de Equipamiento,2025-02-24,2025-03-22,67012.46,Garcia-Alvarez,60311.21400000001,60311.21400000001,Licitación Pública,2,0,0
+25,Silva-Moyano,Servicios de Consultoría,2025-03-03,2025-03-28,63828.86,Diaz-Juarez,57445.974,57445.974,Licitación Pública,5,0,0
+26,Gomez and Sons,Suministro de Equipamiento,2025-01-29,2025-05-06,70055.58,Avila Group,63050.022000000004,63050.022000000004,Concurso de Precios,4,0,0
+27,Martinez-Maldonado,Mantenimiento,2025-02-23,2025-04-24,63068.95,Correa and Sons,56762.055,56762.055,Concurso de Precios,4,0,0
+28,Sanchez Inc,Mantenimiento,2025-02-28,2025-03-11,15438.61,"Carrizo, Garcia and Olivera",13894.749000000002,13894.749000000002,Concurso de Precios,1,1,0
+29,Herrera Ltd,Servicios de Consultoría,2025-03-09,2025-03-30,6753.16,Benitez Inc,6077.844,6077.844,Concurso de Precios,5,1,0
+30,"Vega, Herrera and Aguirre",Mantenimiento,2025-03-22,2025-06-21,32052.09,Gimenez-Medina,28846.881,28846.881,Contratación Directa,1,0,0
