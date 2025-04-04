@@ -1,0 +1,31 @@
+ID_Licitacion,Organismo_Convocante,Objeto,Fecha_Apertura,Fecha_Adjudicacion,Monto_Estimado,Empresa_Ganadora,Ofertas_Presentadas,Monto_Adjudicado,Relacion_Empresas,Ofertas_Similares,Es_Colusion
+1,Gonzalez-Barrios,Obras Menores,2025-03-29,2025-02-07,68990.62,Acuña and Sons,3,62091.558,0,0,0
+2,Ruiz-Nuñez,Obras Menores,2025-01-25,2025-04-27,29163.44,Martinez Group,5,26247.095999999998,1,0,0
+3,Godoy-Lopez,Suministro de Bienes,2025-02-03,2025-03-09,51217.69,"Lopez, Vazquez and Navarro",4,46095.921,0,0,0
+4,"Muñoz, Morales and Romero",Servicios de Consultoría,2025-02-24,2025-02-13,82405.95,Rodriguez-Diaz,3,74165.355,0,1,0
+5,Garcia and Sons,Obras Menores,2025-01-18,2025-04-08,41513.48,"Godoy, Hernandez and Ledesma",3,37362.132000000005,1,0,0
+6,"Gomez, Godoy and Gomez",Obras Menores,2025-01-10,2025-04-03,86648.23,Carrizo-Bravo,4,77983.40699999999,0,0,0
+7,Ruiz-Lucero,Obras Menores,2025-01-20,2025-04-01,27250.71,Nuñez Ltd,2,24525.639,0,0,0
+8,Rodriguez LLC,Servicios de Consultoría,2025-03-12,2025-04-25,82941.06,"Sosa, Dominguez and Gomez",3,74646.954,0,1,0
+9,Muñoz-Farias,Servicios de Consultoría,2025-03-11,2025-02-08,38618.48,Arias-Correa,6,34756.632000000005,0,0,0
+10,"Pereyra, Rodriguez and Molina",Servicios de Consultoría,2025-01-18,2025-02-27,82896.86,Benitez-Ledesma,5,74607.174,0,0,0
+11,"Fernandez, Rodriguez and Cordoba",Servicios de Consultoría,2025-03-18,2025-03-17,98931.37,Rojas-Romero,3,89038.233,0,0,0
+12,Cordoba-Ortiz,Suministro de Bienes,2025-02-22,2025-04-04,36876.14,Perez-Herrera,5,33188.526,0,1,0
+13,Acosta Group,Obras Menores,2025-01-06,2025-04-17,78376.69,Alvarez and Sons,5,70539.02100000001,0,0,0
+14,Gomez Inc,Obras Menores,2025-01-30,2025-03-30,43319.31,Perez-Vargas,4,38987.379,1,0,0
+15,Acosta-Fernandez,Suministro de Bienes,2025-03-28,2025-03-16,97979.04,Cruz Ltd,4,88181.136,0,0,0
+16,"Muñoz, Acuña and Romero",Obras Menores,2025-03-26,2025-04-05,83580.53,"Luna, Dominguez and Cruz",3,75222.477,1,0,0
+17,"Peralta, Cordoba and Guzman",Obras Menores,2025-03-28,2025-03-03,85883.11,Acosta-Hernandez,2,77294.799,1,1,0
+18,"Sosa, Perez and Medina",Obras Menores,2025-01-11,2025-03-17,53839.06,Fernandez PLC,5,48455.154,0,1,0
+19,Gonzalez PLC,Obras Menores,2025-01-26,2025-03-10,32083.06,Maidana LLC,3,28874.754,1,1,0
+20,"Cordoba, Perez and Perez",Obras Menores,2025-01-30,2025-03-15,86599.80,Toledo Ltd,4,77939.82,0,0,0
+21,Gimenez-Perez,Servicios de Consultoría,2025-03-27,2025-02-16,91728.67,"Muñoz, Ruiz and Cordoba",6,82555.803,0,0,0
+22,Fernandez-Moreno,Servicios de Consultoría,2025-02-07,2025-04-24,22513.73,Romero-Coronel,6,20262.357,0,0,0
+23,Juarez-Benitez,Obras Menores,2025-03-16,2025-05-05,6785.62,Rivero-Mendoza,3,6107.058,1,0,0
+24,"Hernandez, Moyano and Juarez",Suministro de Bienes,2025-02-28,2025-03-21,43990.49,Gomez LLC,6,39591.441,1,1,0
+25,"Vazquez, Bustos and Silva",Suministro de Bienes,2025-01-29,2025-04-04,86381.83,Martinez-Romero,6,77743.647,0,0,0
+26,Alvarez-Herrera,Obras Menores,2025-02-16,2025-02-26,37993.73,Torres and Sons,3,34194.357,0,0,0
+27,Luna Group,Servicios de Consultoría,2025-01-22,2025-02-20,74463.80,Gomez Group,6,67017.42,0,1,0
+28,Ramos-Gimenez,Obras Menores,2025-02-03,2025-04-03,6148.61,Guzman-Gonzalez,4,5533.749,0,0,0
+29,"Avila, Fernandez and Castillo",Servicios de Consultoría,2025-01-08,2025-03-06,87454.56,"Lopez, Quiroga and Acosta",4,78709.104,0,0,0
+30,"Arias, Rodriguez and Carrizo",Obras Menores,2025-03-17,2025-03-22,55483.92,"Ledesma, Cruz and Perez",2,49935.528,0,1,0
