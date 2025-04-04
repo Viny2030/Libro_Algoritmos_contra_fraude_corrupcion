@@ -1,0 +1,31 @@
+ID_Contrato,Organismo,Proveedor,Fecha_Inicio,Fecha_Fin,Tipo_Contrato,Monto,Area_Solicitante,Proceso_Licitacion,Es_Sospechoso
+1,Ramirez-Gonzalez,Vargas Ltd,2025-03-12,2025-10-23,Suministro,424463.2873468588,Salud,Pública,0
+2,"Fernandez, Garcia and Flores",Castillo-Mansilla,2025-01-01,2026-01-01,Obra Pública,122549.20029531427,Educación,Privada,0
+3,Alvarez-Fernandez,Torres Group,2025-01-08,2026-02-10,Consultoría,339551.0343003038,Salud,Directa,0
+4,"Vargas, Alvarez and Ponce",Navarro PLC,2025-02-27,2025-11-25,Suministro,880065.9154107367,Tecnología,Pública,0
+5,"Godoy, Pereyra and Torres",Quiroga Inc,2025-01-12,2025-03-06,Consultoría,925397.3130717565,Educación,Privada,0
+6,Fernandez Inc,"Guzman, Rodriguez and Diaz",2025-02-05,2025-03-19,Consultoría,700064.4063453798,Salud,Privada,0
+7,Perez-Gonzalez,Muñoz-Ferreyra,2025-01-22,2025-07-26,Obra Pública,287095.3319387504,Tecnología,Directa,0
+8,Fernandez-Diaz,Muñoz PLC,2025-02-23,2025-03-26,Suministro,176213.52819623923,Salud,Pública,0
+9,"Vega, Sosa and Vazquez",Castro-Aguirre,2025-01-19,2025-09-23,Suministro,212587.9284543083,Infraestructura,Pública,0
+10,Vera-Garcia,Molina Ltd,2025-03-24,2025-12-12,Suministro,622254.0340747202,Educación,Pública,0
+11,Quiroga-Torres,"Ferreyra, Rios and Lopez",2025-03-21,2025-07-05,Consultoría,698260.6783942657,Educación,Directa,0
+12,Ferreyra Group,Perez LLC,2025-03-13,2025-05-25,Obra Pública,373999.70294631296,Educación,Pública,0
+13,"Ramos, Gonzalez and Aguirre",Perez-Paez,2025-03-18,2025-04-05,Obra Pública,811711.3105482673,Tecnología,Directa,0
+14,"Romero, Gonzalez and Diaz",Suarez-Vazquez,2025-01-11,2026-01-14,Consultoría,451969.5691922814,Infraestructura,Pública,0
+15,Carrizo PLC,"Ferreyra, Castro and Gutierrez",2025-04-03,2025-09-12,Servicios,465055.9181354279,Tecnología,Pública,0
+16,"Castro, Gutierrez and Lopez","Gomez, Moreno and Rodriguez",2025-01-04,2026-03-26,Consultoría,840233.0745335206,Salud,Pública,0
+17,"Moreno, Aguero and Medina",Ramirez Inc,2025-02-03,2025-12-23,Obra Pública,668316.9849022942,Salud,Directa,0
+18,Juarez Inc,Perez-Torres,2025-02-20,2025-09-23,Servicios,336859.1736915464,Infraestructura,Pública,0
+19,Perez Ltd,Diaz-Herrera,2025-02-24,2025-06-07,Obra Pública,871680.8788378289,Salud,Directa,0
+20,Caceres-Rios,Ferreyra Ltd,2025-01-16,2025-08-02,Servicios,352714.72060489136,Educación,Privada,0
+21,"Quiroga, Cardozo and Gonzalez",Godoy PLC,2025-03-02,2026-01-21,Suministro,524953.3758530833,Salud,Directa,0
+22,"Caceres, Rodriguez and Martinez","Guzman, Velazquez and Lopez",2025-01-16,2025-10-29,Obra Pública,21218.722508130064,Educación,Directa,0
+23,"Ledesma, Suarez and Gutierrez","Mendoza, Romero and Leiva",2025-01-22,2025-04-07,Suministro,853473.3816685473,Tecnología,Directa,0
+24,"Alvarez, Lopez and Chavez","Ponce, Rivero and Chavez",2025-02-02,2025-05-01,Suministro,46785.47402309012,Tecnología,Pública,0
+25,Moreno Ltd,"Arias, Torres and Castro",2025-03-06,2025-08-11,Suministro,398088.31535255664,Salud,Privada,0
+26,Benitez-Ruiz,Acosta-Alvarez,2025-04-01,2025-10-04,Consultoría,207599.26823745048,Salud,Directa,0
+27,Rios-Peralta,Molina-Garcia,2025-01-05,2025-08-29,Servicios,314489.97656717733,Tecnología,Pública,0
+28,Lopez-Gutierrez,Gutierrez-Gomez,2025-04-01,2025-10-24,Suministro,306663.7934027042,Educación,Pública,0
+29,"Valdez, Molina and Perez","Rodriguez, Castillo and Quiroga",2025-03-20,2026-02-21,Obra Pública,688158.7354801645,Infraestructura,Pública,0
+30,"Gomez, Martinez and Lopez","Fernandez, Garcia and Castillo",2025-04-01,2025-04-15,Consultoría,236616.51846015177,Infraestructura,Privada,0
