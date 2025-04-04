@@ -1,0 +1,31 @@
+ID_Licitacion,Organismo_Convocante,Objeto,Fecha_Publicacion,Fecha_Cierre,Monto,Empresa_Ganadora,Monto_Adjudicado,Proceso_Seleccion,Participantes,Relacion_Funcionario_Ganador,Es_Irregular
+1,"Aguero, Castro and Gonzalez",Servicios de Consultoría,2025-02-22,2025-05-25,42662.78,Rivero Inc,38396.502,Concurso de Precios,4,0,0
+2,"Diaz, Dominguez and Peralta",Construcción de Obra,2025-02-26,2025-05-23,17980.44,Juarez-Ponce,16182.395999999999,Licitación Pública,1,1,0
+3,Luna PLC,Suministro de Equipamiento,2025-03-30,2025-05-27,56947.67,Sanchez-Juarez,51252.903,Concurso de Precios,5,0,0
+4,Sanchez PLC,Servicios de Consultoría,2025-03-23,2025-04-03,92319.19,"Soria, Escobar and Torres",83087.27100000001,Concurso de Precios,4,0,0
+5,Moreno Group,Servicios de Consultoría,2025-03-17,2025-03-21,96863.28,Aguero Ltd,87176.952,Licitación Pública,3,0,0
+6,Sosa-Garcia,Suministro de Equipamiento,2025-02-18,2025-04-19,92311.39,Nuñez LLC,83080.251,Contratación Directa,1,0,0
+7,"Carrizo, Perez and Hernandez",Suministro de Equipamiento,2025-01-01,2025-02-09,21048.65,"Gonzalez, Martinez and Caceres",18943.785000000003,Licitación Pública,5,1,0
+8,Benitez-Duarte,Mantenimiento,2025-02-27,2025-03-27,52224.27,"Acosta, Flores and Silva",47001.843,Concurso de Precios,3,0,0
+9,"Aguirre, Herrera and Gonzalez",Construcción de Obra,2025-03-09,2025-04-23,52083.00,Nuñez-Mendez,46874.700000000004,Contratación Directa,4,0,0
+10,Rodriguez-Ortiz,Mantenimiento,2025-04-01,2025-04-14,42423.32,"Sosa, Rodriguez and Escobar",38180.988,Licitación Pública,4,1,0
+11,Ramirez-Perez,Servicios de Consultoría,2025-02-06,2025-06-01,54566.50,"Diaz, Correa and Rojas",49109.85,Licitación Pública,2,1,0
+12,Benitez-Mendoza,Mantenimiento,2025-03-20,2025-05-14,41860.04,Quiroga and Sons,37674.036,Concurso de Precios,5,1,0
+13,"Paz, Figueroa and Cordoba",Construcción de Obra,2025-01-05,2025-03-20,13651.68,Benitez Group,12286.512,Licitación Pública,5,0,0
+14,"Gomez, Avila and Juarez",Mantenimiento,2025-02-05,2025-02-05,66016.89,Gomez-Caceres,59415.201,Concurso de Precios,1,0,0
+15,"Gonzalez, Luna and Juarez",Servicios de Consultoría,2025-03-07,2025-06-06,69730.11,Cabrera LLC,62757.099,Concurso de Precios,5,0,0
+16,Silva-Carrizo,Mantenimiento,2025-01-06,2025-05-21,84465.72,"Barrios, Gomez and Martinez",76019.148,Contratación Directa,2,0,0
+17,Luna-Flores,Suministro de Equipamiento,2025-02-04,2025-05-01,35388.74,"Garcia, Perez and Benitez",31849.865999999998,Contratación Directa,2,0,0
+18,"Vera, Rivero and Mendoza",Mantenimiento,2025-03-06,2025-04-01,56499.84,"Muñoz, Acosta and Sanchez",50849.856,Contratación Directa,2,1,0
+19,Olivera-Gonzalez,Construcción de Obra,2025-02-18,2025-05-13,5759.32,Gomez Inc,5183.388,Contratación Directa,3,0,0
+20,Juarez Ltd,Construcción de Obra,2025-01-17,2025-03-20,26515.76,Fernandez PLC,23864.183999999997,Concurso de Precios,5,0,0
+21,Cabrera Ltd,Servicios de Consultoría,2025-03-13,2025-04-18,26596.31,Martinez-Rios,23936.679,Licitación Pública,3,0,0
+22,Suarez and Sons,Suministro de Equipamiento,2025-02-20,2025-05-14,30194.84,"Villalba, Acosta and Figueroa",27175.356,Contratación Directa,4,0,0
+23,Peralta-Gomez,Servicios de Consultoría,2025-01-11,2025-04-24,63227.72,Flores-Lopez,56904.948000000004,Contratación Directa,5,0,0
+24,Torres PLC,Mantenimiento,2025-03-04,2025-03-24,16703.22,"Gonzalez, Romero and Guzman",15032.898000000001,Concurso de Precios,3,1,0
+25,Perez-Fernandez,Mantenimiento,2025-03-27,2025-03-30,82377.93,Rodriguez-Alvarez,74140.137,Concurso de Precios,4,0,0
+26,Sanchez PLC,Mantenimiento,2025-04-03,2025-03-27,74024.15,Sanchez Inc,66621.735,Concurso de Precios,4,1,0
+27,Hernandez-Paz,Mantenimiento,2025-01-31,2025-02-08,73696.85,Benitez LLC,66327.16500000001,Concurso de Precios,1,0,0
+28,"Ortiz, Roldan and Caceres",Mantenimiento,2025-03-24,2025-03-26,15443.26,Diaz-Martin,13898.934000000001,Licitación Pública,3,1,0
+29,Cordoba Group,Mantenimiento,2025-02-28,2025-05-26,81509.98,Rodriguez PLC,73358.982,Concurso de Precios,5,0,0
+30,Barrios LLC,Construcción de Obra,2025-02-12,2025-06-09,24029.88,Luna Ltd,21626.892,Licitación Pública,2,1,0
