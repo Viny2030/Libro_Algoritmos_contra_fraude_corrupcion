@@ -1,0 +1,31 @@
+ID_Contrato,Organismo_Contratante,Proveedor,Tipo_Contratacion,Fecha_Publicacion,Fecha_Adjudicacion,Monto_Adjudicado,Proceso_Licitacion,Cantidad_Ofertas,Estado,Justificacion_Contratacion_Directa,Plazo_Ejecucion_Dias,Rubro_Bien_Servicio
+1,"Torres, Romero and Acosta",Miranda LLC,Bienes,2025-02-13,2024-10-01,6508650.78,Contratación Directa,1,Adjudicado,Menor Cuantía,223,Veterinario
+2,Moyano-Acosta,"Rodriguez, Villalba and Castro",Servicios,2025-03-27,2024-11-14,8161513.16,Licitación Pública,8,Cancelado,,461,Gerente general
+3,Maidana Inc,Maldonado LLC,Bienes,2024-12-23,2024-11-30,2212190.02,Contratación Directa,3,Adjudicado,,590,Apicultor
+4,"Chavez, Maidana and Navarro",Correa PLC,Servicios,2024-08-12,2024-06-25,7420916.25,Concurso de Precios,8,En Curso,,148,Fisioterapeuta
+5,Moyano-Gonzalez,Cruz-Gomez,Servicios,2024-05-08,2024-11-24,7716613.59,Licitación Pública,4,Finalizado,,202,Agente de compras
+6,"Benitez, Gutierrez and Gonzalez",Garcia LLC,Bienes,2024-04-26,2024-11-11,5632270.79,Concurso de Precios,1,Cancelado,,371,Historiador
+7,Paez Inc,Ruiz Group,Servicios,2024-08-19,2025-01-01,8350091.69,Concurso de Precios,1,Finalizado,,590,Oficial de las fuerzas armadas
+8,Nuñez LLC,Sanchez-Mansilla,Servicios,2024-11-12,2024-06-29,3402251.80,Contratación Directa,7,En Curso,,712,Grabador de datos
+9,Castro PLC,Perez-Ferreyra,Bienes,2024-05-07,2024-12-30,9195244.01,Contratación Directa,8,Adjudicado,,230,Reponedor de estanterías
+10,Valdez PLC,"Ferreyra, Godoy and Rodriguez",Obras,2024-12-26,2024-09-03,4888809.21,Licitación Pública,5,Adjudicado,Urgencia,473,Director de cine
+11,"Aguirre, Lopez and Rodriguez","Rios, Figueroa and Ojeda",Bienes,2024-05-16,2025-03-26,6760774.22,Contratación Directa,9,En Curso,,595,Trabajador agrícola de subsistencia
+12,Fernandez Group,Vega-Vega,Obras,2024-11-07,2024-08-12,7672820.22,Concurso de Precios,2,Cancelado,,99,Pintor y empapelador
+13,"Silva, Rodriguez and Moreno","Gonzalez, Alvarez and Gomez",Obras,2025-03-05,2025-03-17,7415113.51,Contratación Directa,9,En Curso,,391,Conductor de automóviles
+14,Torres-Avila,Sosa-Rojas,Servicios,2024-10-04,2024-08-19,6328389.19,Licitación Pública,3,Finalizado,,409,Criador de ganado
+15,Guzman Group,"Leiva, Gomez and Gomez",Bienes,2024-07-08,2024-08-15,8755615.16,Contratación Directa,5,Cancelado,,313,Planchador manuales
+16,Diaz Ltd,Martinez Group,Bienes,2024-08-30,2025-02-13,2779505.86,Contratación Directa,4,Finalizado,,576,Operador de máquinas para la fabricación de calzado
+17,Correa-Hernandez,Ledesma-Soto,Servicios,2024-12-26,2024-06-09,459851.99,Concurso de Precios,3,Finalizado,,122,Operador de máquinas de movimiento de tierras
+18,"Morales, Carrizo and Sanchez",Escobar-Valdez,Bienes,2024-09-22,2024-11-20,540457.01,Licitación Pública,9,Adjudicado,,229,Inspector medioambiental y afines
+19,Garcia-Velazquez,Gonzalez-Figueroa,Obras,2024-07-26,2024-06-14,794384.58,Licitación Pública,1,Cancelado,Urgencia,389,Peón de explotaciones agrícolas
+20,"Aguirre, Arias and Gonzalez","Quiroga, Aguirre and Soria",Obras,2024-11-29,2024-08-18,8854453.00,Licitación Pública,9,Adjudicado,,454,Peón forestales
+21,Benitez-Duarte,Gomez Ltd,Obras,2024-12-15,2025-02-08,9661958.44,Licitación Pública,1,Finalizado,,250,Recolector de dinero en aparatos de venta automática y lector de medidores
+22,"Sosa, Olivera and Lopez","Gonzalez, Medina and Benitez",Obras,2025-02-25,2025-02-23,8824493.93,Concurso de Precios,7,En Curso,,248,Diseñador de bases de datos
+23,Gonzalez Ltd,Sosa-Medina,Servicios,2025-01-23,2024-06-12,1120104.64,Contratación Directa,9,En Curso,,533,Conductor de vehículos y máquinas de tracción animal
+24,Moreno Ltd,Gonzalez-Nuñez,Obras,2024-06-05,2024-06-19,2779862.38,Concurso de Precios,9,Cancelado,Menor Cuantía,650,Cuidador de niños
+25,Gonzalez PLC,Mendez-Pereyra,Servicios,2024-12-29,2024-09-10,9609276.14,Concurso de Precios,1,En Curso,,170,Cajero de banco
+26,"Maldonado, Fernandez and Correa",Martinez-Olivera,Obras,2024-07-08,2024-08-06,9492178.98,Licitación Pública,5,Cancelado,,527,Operador de instalaciones mineras
+27,Romero Inc,"Gimenez, Ledesma and Lopez",Obras,2024-07-01,2024-09-02,1346144.89,Concurso de Precios,1,Adjudicado,,362,Operador de telar y otras máquinas tejedoras
+28,"Cabrera, Sosa and Perez",Castro Ltd,Servicios,2024-08-09,2024-08-11,6469926.36,Licitación Pública,3,Cancelado,,478,Oficial de las fuerzas armadas
+29,Cabrera-Franco,Lopez PLC,Obras,2024-04-29,2025-03-27,7114762.62,Licitación Pública,7,Cancelado,,413,Bibliotecarios
+30,Perez-Alvarez,Gonzalez-Fernandez,Servicios,2024-11-24,2024-09-18,3535053.05,Licitación Pública,5,Adjudicado,,653,Médico general
