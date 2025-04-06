@@ -1,0 +1,31 @@
+ID_Rendicion,Fecha_Presentacion,Empleado,Departamento,Tipo_Gasto,Descripcion,Monto,Justificante_Adjunto,Estado_Aprobacion,Es_Sospechoso
+1,2025-03-26,Emilia Juan Ignacio Herrera Romero,Compras,Otros,gastos_generales,32776.02,No,Aprobado,0
+2,2024-10-17,Mateo Suarez,Ventas,Viáticos,gastos_generales,21925.06,Parcial,Aprobado,0
+3,2024-06-27,Josefina Martina Cabrera Morales,RRHH,Almuerzo,gastos,40683.66,Sí,Pendiente,0
+4,2025-02-01,Candelaria Valentin Luna,Ventas,Material de Oficina,gastos,43717.59,Sí,Aprobado,0
+5,2024-05-21,Sr(a). Lucas Gonzalez,Marketing,Otros,gastos_generales,40624.39,Sí,Aprobado,0
+6,2024-10-09,Sofia Manuel Torres,Ventas,Almuerzo,gastos,35151.54,Sí,Rechazado,0
+7,2024-10-01,Santiago Cardozo Vera,Marketing,Viáticos,compras,45150.46,Parcial,Aprobado,0
+8,2024-12-27,Joaquin Godoy Sosa,Ventas,Otros,viaticos,1147.61,Parcial,Aprobado,0
+9,2025-01-06,Bautista Camila Bravo,RRHH,Almuerzo,viaticos,17295.85,Parcial,Aprobado,0
+10,2024-05-29,Luisina Gomez Mendez,Compras,Almuerzo,viaticos,15495.98,No,Aprobado,0
+11,2024-11-10,Lucas Ezequiel Godoy Diaz,RRHH,Almuerzo,gastos,18409.43,Sí,Aprobado,0
+12,2025-01-21,Rosario Juan Ignacio Gomez Godoy,Ventas,Almuerzo,gastos_generales,37955.82,Parcial,Aprobado,0
+13,2024-07-12,Joaquina Perez,RRHH,Material de Oficina,gastos_generales,29595.65,Sí,Pendiente,0
+14,2024-07-02,Antonia Bustos Gimenez,Ventas,Material de Oficina,compras,36523.09,Sí,Rechazado,0
+15,2025-01-05,Carmela Perez,Compras,Almuerzo,compras,12650.23,Sí,Rechazado,0
+16,2024-08-11,Guadalupe Dominguez,Finanzas,Transporte,viaticos,14490.94,No,Pendiente,0
+17,2024-07-25,Paulina Valentina Maldonado Sanchez,Finanzas,Viáticos,viaticos,1803.41,No,Rechazado,1
+18,2024-10-06,Dr(a). Florencia Coronel,Ventas,Otros,gastos_generales,40635.58,Sí,Pendiente,0
+19,2024-06-27,Joaquin Gimenez,Finanzas,Viáticos,viaticos,23487.15,Parcial,Rechazado,0
+20,2024-04-15,Jeremias Delfina Gomez Dominguez,Marketing,Otros,viaticos,24594.91,Sí,Rechazado,0
+21,2024-07-04,Joaquín Lucio Martinez,Marketing,Viáticos,compras,32939.73,Parcial,Pendiente,0
+22,2024-07-04,Thiago Daniel Vazquez Gomez,Ventas,Otros,compras,32200.27,Parcial,Rechazado,0
+23,2024-07-04,Benjamin Alma Gutierrez,Finanzas,Material de Oficina,compras,36413.76,Parcial,Aprobado,0
+24,2024-11-29,Morena Felipe Miranda Godoy,Finanzas,Viáticos,gastos_generales,10063.08,No,Rechazado,1
+25,2024-09-15,Octavio Gonzalez Lopez,Ventas,Transporte,gastos,6147.96,Parcial,Aprobado,0
+26,2024-10-19,Sr(a). Mateo Mansilla,RRHH,Material de Oficina,gastos,43495.38,No,Rechazado,1
+27,2024-09-15,Constanza Lara Pereyra Cardozo,Marketing,Almuerzo,viaticos,32819.61,Parcial,Pendiente,0
+28,2024-06-27,Lorenzo Victoria Alvarez,Finanzas,Otros,gastos,39492.36,Parcial,Rechazado,0
+29,2025-03-11,Malena Ruiz,Ventas,Almuerzo,compras,15084.84,Sí,Rechazado,0
+30,2024-11-07,Santino Nicolas Thiago Nahuel Caceres,Marketing,Otros,gastos,23641.33,Sí,Rechazado,0
