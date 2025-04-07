@@ -1,0 +1,31 @@
+ID_Caso,Fecha_Inicio,Tipo_Causa,Estado_Actual,Juzgado,Partes,Materia,Fecha_Ultima_Movimiento,Tiempo_Proceso_Dias,Fallo,Instancia,Tiene_Recurso,Documentos_Adjuntos
+1,2021-07-16,Laboral,Pendiente de Juicio,Juzgado 5 de Rawson,Emilia Tomas Sosa vs. Alma Mia Gimenez Caceres,Robo,2024-07-05 09:56:45.710664,1085,Sin Definir,Primera Instancia,Sí,9
+2,2023-02-15,Civil,Ejecución,Juzgado 13 de Constitución,Valentino Franco vs. Zoe Fernandez Gomez,Despido,2023-08-07 16:43:09.453393,173,Favorable,Corte Suprema,No,20
+3,2024-01-12,Comercial,En Curso,Juzgado 7 de Viedma,Francisco Peralta Castro vs. Juan Pablo Martinez,Despido,2024-07-05 05:22:57.964156,175,Favorable,Cámara de Apelaciones,No,17
+4,2023-04-22,Civil,Ejecución,Juzgado 17 de Neuquén,Franco Maximo Nuñez Ortiz vs. Sr(a). Benicio Romero,Despido,2023-11-15 11:45:45.204222,207,Conciliación,Primera Instancia,Sí,8
+5,2023-02-06,Civil,Ejecución,Juzgado 3 de San Salvador de Jujuy,Dr(a). Benjamin Ezequiel Nuñez vs. Santino Benjamin Bustos Juarez,Robo,2024-09-04 03:46:39.872324,576,Favorable,Corte Suprema,No,17
+6,2020-05-25,Laboral,Apelación,Juzgado 18 de La Rioja,Juan Sebastian Benjamin Fernandez vs. Dylan Ezequiel Ponce Gomez,Daños y Perjuicios,2022-02-17 02:33:15.822552,633,Desfavorable,Corte Suprema,No,41
+7,2022-04-26,Comercial,Ejecución,Juzgado 3 de Salta,Octavio Nicolas Gutierrez Sosa vs. Lautaro Francisco Perez Roldan,Quiebra,2022-10-24 05:03:26.407546,181,Conciliación,Cámara de Apelaciones,Sí,9
+8,2024-06-16,Penal,En Curso,Juzgado 5 de Bahía Blanca,Dr(a). Delfina Flores vs. Angel Gabriel Torres Ferreyra,Despido,2025-01-22 20:44:09.215398,220,Desfavorable,Corte Suprema,No,11
+9,2021-09-23,Comercial,Ejecución,Juzgado 17 de Paraná,Sr(a). Felipe Toledo vs. Kiara Facundo Morales,Daños y Perjuicios,2023-02-09 22:17:10.818356,504,Conciliación,Corte Suprema,No,15
+10,2025-02-13,Laboral,Apelación,Juzgado 14 de Córdoba,Catalina Vazquez Benitez vs. Mia Lucia Juarez,Daños y Perjuicios,2025-03-04 20:31:47.391681,19,Favorable,Primera Instancia,Sí,36
+11,2023-12-28,Comercial,Ejecución,Juzgado 13 de San Salvador de Jujuy,Bautista Gutierrez Caceres vs. Lorenzo Francesca Garcia Diaz,Daños y Perjuicios,2024-06-05 03:16:15.001858,160,Sin Definir,Cámara de Apelaciones,Sí,49
+12,2022-01-26,Penal,Ejecución,Juzgado 6 de Ushuaia,Emma Benitez Figueroa vs. Sr(a). Bautista Castro,Quiebra,2023-11-10 12:11:56.853132,653,Favorable,Cámara de Apelaciones,Sí,41
+13,2023-08-23,Comercial,Ejecución,Juzgado 4 de Resistencia,Thiago Joaquin Mora Diaz vs. Benjamin Ezequiel Martina Soto,Robo,2024-01-13 13:24:35.559834,143,Desfavorable,Primera Instancia,No,35
+14,2025-01-01,Civil,Ejecución,Juzgado 11 de Mendoza,Benicio Lautaro Maldonado Arias vs. Ian Ezequiel Thiago Gabriel Castro Diaz,Daños y Perjuicios,2025-02-12 12:41:58.113743,42,Conciliación,Primera Instancia,No,2
+15,2024-10-25,Civil,Ejecución,Juzgado 5 de Comodoro Rivadavia,Victoria Alma Valentina Aguirre Vera vs. Sr(a). Sofia Vazquez,Quiebra,2025-01-31 02:28:19.543202,98,Sin Definir,Primera Instancia,No,10
+16,2021-03-29,Civil,Apelación,Juzgado 17 de Comodoro Rivadavia,Sr(a). Julia Ruiz vs. Simon Martín Fernandez,Daños y Perjuicios,2024-02-16 18:19:49.255103,1054,Conciliación,Cámara de Apelaciones,No,45
+17,2022-12-22,Laboral,Pendiente de Juicio,Juzgado 5 de Rosario,Dr(a). Jazmin Fernandez vs. Sr(a). Delfina Lopez,Quiebra,2024-02-24 08:31:29.219238,429,Favorable,Corte Suprema,Sí,32
+18,2022-05-15,Civil,Apelación,Juzgado 6 de Neuquén,Benicio Gonzalez vs. Santino Ramirez,Robo,2022-06-19 19:23:16.758862,35,Desfavorable,Cámara de Apelaciones,Sí,17
+19,2025-02-09,Comercial,Ejecución,Juzgado 8 de Salta,Pilar Ponce Garcia vs. Julia Ezequiel Cordoba Ortiz,Daños y Perjuicios,2025-03-04 01:43:48.540131,23,Sin Definir,Primera Instancia,No,26
+20,2022-12-25,Laboral,Pendiente de Juicio,Juzgado 1 de Resistencia,Sr(a). Benjamin Cordoba vs. Lorenzo Sosa Farias,Despido,2023-05-29 21:04:51.463223,155,Favorable,Primera Instancia,No,3
+21,2020-09-01,Penal,En Curso,Juzgado 9 de Formosa,Abril Benicio Sanchez vs. Salvador Sanchez,Quiebra,2023-11-15 02:54:45.499493,1170,Sin Definir,Cámara de Apelaciones,No,3
+22,2020-10-18,Penal,En Curso,Juzgado 13 de Rosario,Emma Valentin Suarez vs. Sr(a). Ivan Sanchez,Robo,2021-05-08 10:43:40.533593,202,Conciliación,Cámara de Apelaciones,No,38
+23,2022-11-17,Civil,Apelación,Juzgado 15 de Formosa,Francesca Diaz Muñoz vs. Dr(a). Francisco Fernandez,Quiebra,2024-05-01 23:58:40.685821,531,Favorable,Corte Suprema,Sí,1
+24,2020-10-25,Civil,En Curso,Juzgado 18 de Formosa,Valentina  Isabella Maidana vs. Emma Rojas Morales,Robo,2022-02-10 04:55:10.123470,473,Sin Definir,Primera Instancia,Sí,29
+25,2024-09-22,Laboral,Pendiente de Juicio,Juzgado 6 de La Rioja,Lourdes Sofia Gomez vs. Facundo Aguirre Rivero,Quiebra,2025-04-03 19:05:52.377089,193,Desfavorable,Corte Suprema,Sí,45
+26,2021-11-19,Penal,Apelación,Juzgado 17 de Merlo,Candelaria Thiago Rodriguez vs. Mia Jazmin Ramos,Despido,2024-01-30 16:52:08.219789,802,Conciliación,Cámara de Apelaciones,Sí,28
+27,2024-06-26,Comercial,Apelación,Juzgado 15 de Constitución,Thiago Lionel Bruno Gomez Roldan vs. Thiago Benjamin Milo Romero,Robo,2024-11-24 12:53:56.656336,151,Conciliación,Corte Suprema,Sí,9
+28,2020-11-09,Penal,En Curso,Juzgado 2 de Rawson,Valentina  Blanco vs. Florencia Emilia Mendez,Daños y Perjuicios,2021-08-03 10:10:26.115033,267,Sin Definir,Corte Suprema,No,44
+29,2020-10-21,Civil,Pendiente de Juicio,Juzgado 6 de Santa Fe,Benjamin Ponce vs. Valentino Francisco Navarro Torres,Quiebra,2024-06-25 14:19:22.477984,1343,Conciliación,Corte Suprema,Sí,26
+30,2024-06-14,Comercial,Ejecución,Juzgado 1 de Salta,Renata Matias Martinez vs. Paloma Morena Perez,Robo,2025-02-01 00:29:51.886490,232,Sin Definir,Primera Instancia,Sí,44
