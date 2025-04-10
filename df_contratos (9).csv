@@ -1,0 +1,31 @@
+ID_Contrato,Organismo,Proveedor,Fecha_Inicio,Fecha_Fin,Tipo_Contrato,Monto,Area_Solicitante,Proceso_Licitacion,Es_Sospechoso
+1,Mansilla-Romero,Morales PLC,2025-03-28,2025-12-07,Consultoría,4764.34,Educación,Privada,0
+2,Fernandez and Sons,Fernandez and Sons,2025-02-20,2025-08-10,Servicios,6262.27,Infraestructura,Directa,0
+3,"Fernandez, Diaz and Sosa",Rodriguez-Correa,2025-02-17,2026-01-24,Suministro,1194.05,Tecnología,Privada,0
+4,Perez LLC,"Dominguez, Mendoza and Paez",2025-01-26,2025-08-12,Suministro,1281.25,Tecnología,Privada,0
+5,Diaz and Sons,"Correa, Gomez and Gonzalez",2025-01-26,2025-04-28,Servicios,7244.81,Educación,Privada,0
+6,Alvarez-Torres,Mansilla-Vazquez,2025-02-13,2025-06-06,Suministro,4408.30,Tecnología,Pública,0
+7,"Ledesma, Gutierrez and Lopez","Fernandez, Gonzalez and Lopez",2025-02-28,2025-05-13,Consultoría,4049.46,Salud,Pública,0
+8,Peralta and Sons,"Rojas, Gomez and Navarro",2025-01-06,2025-11-23,Suministro,3648.32,Tecnología,Directa,0
+9,"Martinez, Gomez and Velazquez",Acosta PLC,2025-01-13,2025-07-06,Consultoría,1507.18,Tecnología,Directa,0
+10,"Valdez, Benitez and Maldonado","Garcia, Sanchez and Molina",2025-01-18,2025-05-24,Consultoría,8762.66,Infraestructura,Pública,0
+11,Ruiz LLC,Paz-Rios,2025-03-29,2025-10-20,Obra Pública,9536.68,Tecnología,Privada,0
+12,Gonzalez LLC,Fernandez-Juarez,2025-01-16,2025-05-04,Obra Pública,8909.61,Infraestructura,Privada,0
+13,"Ojeda, Castillo and Gonzalez",Flores LLC,2025-02-23,2026-02-17,Obra Pública,8947.75,Tecnología,Privada,0
+14,Garcia-Castro,Aguero Inc,2025-01-13,2025-08-28,Obra Pública,1750.69,Salud,Directa,0
+15,Gonzalez and Sons,Vera Ltd,2025-02-28,2025-05-14,Suministro,4367.01,Infraestructura,Directa,0
+16,"Aguirre, Carrizo and Arias",Rodriguez-Lopez,2025-04-06,2025-12-28,Servicios,4332.54,Infraestructura,Directa,0
+17,"Gomez, Nuñez and Vega",Vazquez-Martin,2025-03-21,2025-07-03,Obra Pública,3030.10,Tecnología,Directa,0
+18,Gonzalez-Guzman,"Lopez, Quiroga and Martinez",2025-03-31,2025-04-14,Suministro,8254.73,Tecnología,Pública,0
+19,Sosa PLC,Arias-Flores,2025-03-15,2025-06-10,Suministro,3029.70,Infraestructura,Privada,0
+20,"Garcia, Moreno and Castillo",Rodriguez-Martin,2025-02-18,2025-12-02,Obra Pública,3031.93,Educación,Directa,0
+21,Franco LLC,Rodriguez PLC,2025-02-13,2025-09-02,Suministro,7980.74,Salud,Pública,0
+22,Juarez-Ramos,Gonzalez PLC,2025-01-15,2025-12-28,Suministro,8282.30,Salud,Pública,0
+23,Morales-Torres,Lopez LLC,2025-02-04,2025-09-28,Consultoría,3348.40,Tecnología,Privada,0
+24,"Peralta, Benitez and Silva","Mendez, Paez and Romero",2025-03-31,2026-03-10,Suministro,5112.31,Educación,Pública,0
+25,Romero Group,Ponce-Vazquez,2025-01-03,2026-01-03,Consultoría,6863.36,Educación,Directa,0
+26,Ortiz PLC,Diaz PLC,2025-03-09,2025-04-26,Suministro,7915.32,Salud,Privada,0
+27,Blanco-Mansilla,Mansilla-Coronel,2025-01-25,2025-07-08,Consultoría,1912.37,Educación,Directa,0
+28,Diaz LLC,"Pereyra, Gonzalez and Herrera",2025-01-31,2026-01-12,Suministro,4837.09,Educación,Pública,0
+29,Ruiz-Ramirez,Hernandez-Garcia,2025-01-30,2025-07-25,Consultoría,5001.92,Infraestructura,Pública,0
+30,Villalba Group,Gonzalez Ltd,2025-02-16,2025-02-16,Suministro,9071.67,Educación,Pública,0
