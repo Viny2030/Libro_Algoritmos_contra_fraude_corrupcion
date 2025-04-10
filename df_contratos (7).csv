@@ -1,0 +1,31 @@
+ID_Contrato,Organismo,Proveedor,Fecha_Inicio,Fecha_Fin,Tipo_Contrato,Monto,Area_Solicitante,Proceso_Licitacion,Es_Sospechoso
+1,"Ramos, Gomez and Acosta",Cordoba Group,2025-01-05,2025-06-12,Consultoría,4934.01,Infraestructura,Privada,0
+2,Ramos PLC,"Sanchez, Benitez and Luna",2025-02-08,2025-11-14,Obra Pública,8228.79,Salud,Privada,0
+3,"Perez, Duarte and Fernandez",Vazquez-Martinez,2025-04-07,2025-05-29,Suministro,9855.45,Tecnología,Directa,0
+4,"Ortiz, Cardozo and Perez",Martinez-Gonzalez,2025-02-10,2025-06-17,Servicios,5471.33,Educación,Directa,0
+5,Perez Ltd,"Maldonado, Vera and Fernandez",2025-03-28,2025-11-30,Suministro,2749.71,Educación,Privada,0
+6,Sanchez-Rodriguez,Martinez Ltd,2025-02-28,2025-06-17,Servicios,9798.58,Salud,Privada,0
+7,"Gonzalez, Diaz and Rodriguez",Martinez-Martinez,2025-02-28,2025-09-18,Obra Pública,4431.58,Tecnología,Pública,0
+8,Rios-Ortiz,"Figueroa, Perez and Vargas",2025-01-31,2025-10-03,Servicios,2950.30,Infraestructura,Pública,0
+9,Lopez Inc,Peralta-Fernandez,2025-03-09,2025-11-18,Obra Pública,3459.78,Educación,Privada,0
+10,Martinez PLC,Guzman-Fernandez,2025-01-09,2025-06-21,Obra Pública,5789.15,Salud,Directa,0
+11,Herrera-Cabrera,Cabrera-Sanchez,2025-02-02,2025-10-24,Servicios,8309.37,Salud,Privada,0
+12,Ponce Group,Ortiz-Martinez,2025-03-16,2025-06-06,Consultoría,9769.89,Tecnología,Privada,0
+13,"Silva, Fernandez and Gimenez","Olivera, Gonzalez and Gonzalez",2025-04-03,2025-06-16,Suministro,2140.48,Tecnología,Privada,0
+14,Leiva-Juarez,Ramirez Ltd,2025-03-09,2025-10-16,Consultoría,9978.00,Infraestructura,Pública,0
+15,"Martinez, Diaz and Diaz",Sosa-Suarez,2025-02-05,2025-07-04,Obra Pública,4359.50,Educación,Privada,0
+16,"Soria, Peralta and Ramirez","Mansilla, Diaz and Fernandez",2025-02-24,2026-03-10,Obra Pública,7495.83,Educación,Directa,0
+17,"Villalba, Silva and Molina",Garcia-Molina,2025-01-26,2025-12-22,Obra Pública,3056.58,Educación,Directa,0
+18,"Torres, Cruz and Soto",Miranda-Martinez,2025-02-14,2025-04-14,Consultoría,3897.66,Educación,Directa,0
+19,"Fernandez, Rodriguez and Roldan","Fernandez, Maldonado and Gonzalez",2025-03-09,2025-09-04,Suministro,6790.05,Tecnología,Pública,0
+20,Arias-Gomez,Ruiz-Coronel,2025-02-04,2025-10-15,Suministro,3192.28,Salud,Pública,0
+21,Romero Group,Carrizo-Vera,2025-03-01,2025-05-13,Consultoría,3082.05,Tecnología,Directa,0
+22,"Dominguez, Arias and Carrizo",Peralta-Morales,2025-03-11,2026-01-25,Servicios,5847.67,Salud,Directa,0
+23,Sanchez PLC,Medina Inc,2025-01-07,2025-10-31,Consultoría,5132.77,Salud,Directa,0
+24,Lucero PLC,Castillo-Aguirre,2025-03-27,2025-07-08,Obra Pública,6647.21,Infraestructura,Directa,0
+25,"Barrios, Martin and Godoy",Carrizo LLC,2025-02-05,2025-05-02,Suministro,4192.14,Infraestructura,Directa,0
+26,Aguero Ltd,Sosa-Fernandez,2025-03-17,2025-05-01,Servicios,3057.28,Salud,Pública,0
+27,Mansilla Ltd,"Acosta, Cordoba and Ramirez",2025-02-27,2025-07-15,Servicios,4875.18,Infraestructura,Directa,0
+28,"Dominguez, Suarez and Pereyra",Romero Ltd,2025-01-05,2025-10-09,Consultoría,9958.98,Infraestructura,Directa,0
+29,"Ferreyra, Roldan and Herrera",Guzman-Martinez,2025-04-02,2025-06-17,Obra Pública,7951.60,Tecnología,Directa,0
+30,"Mansilla, Benitez and Lopez","Perez, Diaz and Morales",2025-03-14,2025-12-23,Consultoría,5615.99,Educación,Directa,0
