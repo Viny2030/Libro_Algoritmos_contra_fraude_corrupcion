@@ -1,0 +1,31 @@
+ID_Rendicion,ID_Empleado,Fecha,Concepto,Monto,Detalle,Documento_Adjunto,Es_Fraude
+1,110,2025-01-14,Viáticos,1915.46,Material de Oficina,Recibo,0
+2,109,2025-03-09,Material de Oficina,6461.50,Otros,Recibo,1
+3,102,2025-03-29,Otros,6397.33,Otros,Factura,1
+4,103,2025-04-01,Otros,6616.37,Otros,Ticket,1
+5,108,2025-01-28,Otros,9397.14,Otros,Factura,1
+6,109,2025-01-08,Viáticos,1077.46,Viáticos,Recibo,0
+7,107,2025-03-12,Material de Oficina,7173.51,proveedores,Ticket,0
+8,101,2025-01-17,Otros,2421.19,Gastos de Representación,Factura,0
+9,107,2025-02-14,Gastos de Representación,7703.10,Gastos de Representación,Recibo,0
+10,110,2025-03-24,Material de Oficina,8934.05,Gastos de Representación,Recibo,0
+11,106,2025-03-12,Otros,8131.46,Viáticos,Recibo,0
+12,102,2025-01-09,Gastos de Representación,1508.12,Material de Oficina,Ticket,0
+13,106,2025-02-19,Viáticos,8369.51,Gastos de Representación,Factura,0
+14,109,2025-03-27,Otros,3774.82,proveedores,Recibo,0
+15,107,2025-02-03,Otros,5484.94,Gastos de Representación,Ticket,0
+16,102,2025-02-28,Viáticos,4797.45,reintegro_gastos,Factura,0
+17,109,2025-01-23,Material de Oficina,6818.13,Otros,Factura,1
+18,106,2025-02-10,Material de Oficina,3875.76,Gastos de Representación,Ticket,0
+19,100,2025-02-25,Material de Oficina,5460.11,Viáticos,Recibo,0
+20,107,2025-03-25,Viáticos,2024.70,Gastos de Representación,Factura,0
+21,103,2025-03-24,Material de Oficina,7384.79,Viáticos,Ticket,0
+22,100,2025-04-08,Otros,4382.13,reintegro_gastos,Factura,0
+23,103,2025-02-24,Material de Oficina,1548.63,Otros,Factura,1
+24,102,2025-01-28,Gastos de Representación,2861.85,Viáticos,Factura,0
+25,105,2025-01-15,Gastos de Representación,6369.44,proveedores,Ticket,0
+26,109,2025-01-22,Viáticos,1644.98,Otros,Factura,1
+27,101,2025-03-03,Gastos de Representación,2664.77,reintegro_gastos,Ticket,0
+28,104,2025-01-13,Otros,2559.04,Material de Oficina,Ticket,0
+29,105,2025-02-21,Otros,8528.57,Gastos de Representación,Recibo,0
+30,106,2025-01-27,Gastos de Representación,4845.03,Gastos de Representación,Factura,0
