@@ -1,0 +1,31 @@
+ID_Contrato,Organismo,Proveedor,Fecha_Inicio,Fecha_Fin,Tipo_Contrato,Monto,Area_Solicitante,Proceso_Licitacion,Es_Sospechoso
+1,"Ortiz, Pereyra and Moreno",Gimenez-Garcia,2025-01-12,2025-09-04,Suministro,4902.16,Infraestructura,Privada,0
+2,Aguirre LLC,Aguirre-Ponce,2025-03-19,2025-10-19,Consultoría,8401.89,Infraestructura,Pública,0
+3,"Gomez, Medina and Vera",Peralta-Rodriguez,2025-01-08,2025-04-01,Obra Pública,3378.50,Educación,Privada,0
+4,"Rodriguez, Sosa and Morales",Torres-Lopez,2025-02-04,2025-07-20,Obra Pública,3701.59,Salud,Pública,0
+5,Suarez Ltd,Rodriguez Ltd,2025-02-01,2025-05-04,Servicios,6187.21,Tecnología,Directa,1
+6,Ponce-Morales,Molina-Fernandez,2025-02-19,2025-09-18,Obra Pública,7852.93,Salud,Directa,1
+7,Velazquez LLC,Luna-Alvarez,2025-01-01,2025-06-18,Suministro,3308.75,Salud,Privada,0
+8,Moreno-Acuña,Gonzalez-Garcia,2025-03-22,2026-02-04,Consultoría,5931.72,Educación,Directa,1
+9,Lopez-Ojeda,Blanco Inc,2025-03-31,2025-08-13,Consultoría,8257.48,Salud,Directa,1
+10,"Ferreyra, Miranda and Ojeda",Carrizo-Ramos,2025-02-07,2026-01-04,Obra Pública,7588.10,Infraestructura,Privada,0
+11,Acuña-Rivero,Nuñez Group,2025-02-26,2025-06-11,Servicios,6917.71,Educación,Pública,0
+12,Figueroa Inc,Torres-Sanchez,2025-03-09,2025-08-06,Servicios,4850.37,Salud,Directa,1
+13,Vera Ltd,Mansilla-Rodriguez,2025-01-20,2026-02-10,Servicios,4729.27,Infraestructura,Privada,0
+14,Cabrera-Torres,"Gonzalez, Vargas and Gonzalez",2025-01-02,2025-09-05,Servicios,1836.30,Educación,Pública,0
+15,Sanchez-Moyano,Juarez Inc,2025-03-21,2025-08-26,Obra Pública,6309.66,Infraestructura,Privada,0
+16,Blanco LLC,Gomez-Pereyra,2025-02-05,2025-07-04,Suministro,7522.74,Salud,Directa,1
+17,"Torres, Torres and Franco",Suarez-Franco,2025-03-13,2025-06-04,Servicios,1671.34,Educación,Directa,1
+18,Gomez-Rodriguez,Roldan-Rojas,2025-02-02,2025-12-19,Consultoría,1895.02,Tecnología,Directa,1
+19,"Gomez, Maldonado and Mendoza",Molina-Gonzalez,2025-01-30,2025-11-24,Servicios,9732.79,Salud,Directa,1
+20,Lopez-Medina,Martinez Ltd,2025-02-23,2025-11-19,Obra Pública,6806.44,Tecnología,Privada,0
+21,Bravo Inc,Juarez Inc,2025-03-15,2025-09-18,Obra Pública,3161.25,Educación,Privada,0
+22,Castro-Barrios,"Nuñez, Gonzalez and Flores",2025-01-14,2025-04-30,Servicios,8842.70,Salud,Privada,0
+23,"Ponce, Cabrera and Gonzalez",Suarez-Mendez,2025-01-06,2025-07-03,Servicios,7672.04,Tecnología,Directa,1
+24,"Maldonado, Flores and Vargas","Lopez, Lopez and Flores",2025-02-21,2025-06-20,Obra Pública,4238.27,Infraestructura,Directa,1
+25,Juarez Ltd,Paz Inc,2025-02-06,2025-04-02,Consultoría,2150.44,Educación,Privada,0
+26,Gomez Inc,"Coronel, Hernandez and Escobar",2025-02-06,2025-07-24,Suministro,6580.26,Educación,Pública,0
+27,Guzman Ltd,"Maldonado, Quiroga and Quiroga",2025-03-29,2025-05-15,Suministro,7182.40,Educación,Privada,0
+28,Diaz-Diaz,Barrios-Romero,2025-01-11,2025-08-01,Consultoría,6849.37,Tecnología,Privada,0
+29,Lopez-Juarez,"Correa, Lopez and Martinez",2025-01-22,2025-07-22,Suministro,8366.10,Infraestructura,Directa,1
+30,"Perez, Soto and Castillo",Rojas Group,2025-04-07,2025-06-15,Suministro,3366.56,Salud,Pública,0
