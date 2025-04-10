@@ -1,0 +1,31 @@
+ID_Transaccion,ID_Cajero,Fecha_Hora,Tipo_Transaccion,Monto,Descripcion,Metodo_Pago,Estado,Es_Fraude
+1,202,2025-03-11,Ajuste,6889.39,Reintegro,Tarjeta Débito,Pendiente,1
+2,205,2025-02-10,Fondo Fijo,9166.95,Reintegro,Tarjeta Débito,Completado,0
+3,203,2025-01-25,Venta,3826.41,Reintegro,transferencia,Pendiente,1
+4,210,2025-02-19,Devolución,7886.52,Devolución,Tarjeta Crédito,Pendiente,1
+5,208,2025-03-28,Venta,5654.20,Fondo Fijo,Efectivo,Cancelado,0
+6,211,2025-01-13,Devolución,6369.42,Reintegro,Tarjeta Crédito,Cancelado,0
+7,213,2025-03-30,Venta,3794.77,Ajuste,Tarjeta Débito,Completado,0
+8,207,2025-02-20,Ajuste,7013.44,Reintegro,Efectivo,Cancelado,0
+9,205,2025-04-01,Fondo Fijo,8270.64,Ajuste,transferencia,Pendiente,1
+10,204,2025-02-24,Ajuste,8257.92,Reintegro,Cheque,Pendiente,1
+11,214,2025-03-08,Devolución,7413.60,Venta,Tarjeta Débito,Completado,0
+12,213,2025-01-20,Devolución,7726.68,Venta,Efectivo,Cancelado,0
+13,204,2025-01-09,Fondo Fijo,5113.67,Reintegro,Efectivo,Completado,0
+14,212,2025-03-18,Ajuste,2364.95,Fondo Fijo,Efectivo,Pendiente,1
+15,201,2025-01-26,Fondo Fijo,5521.20,Venta,Cheque,Completado,0
+16,213,2025-01-29,Venta,5955.94,Ajuste,Tarjeta Débito,Cancelado,0
+17,214,2025-03-30,Fondo Fijo,1224.73,Ajuste,Tarjeta Débito,Completado,0
+18,211,2025-03-25,Reintegro,3890.14,Venta,Efectivo,Pendiente,1
+19,205,2025-01-20,Devolución,2579.20,Ajuste,Cheque,Cancelado,0
+20,209,2025-02-16,Reintegro,5939.03,Fondo Fijo,Cheque,Cancelado,0
+21,214,2025-02-02,Fondo Fijo,4585.49,Devolución,transferencia,Cancelado,0
+22,203,2025-01-17,Devolución,7982.30,Venta,Efectivo,Completado,0
+23,213,2025-01-10,Venta,6766.05,Reintegro,Efectivo,Completado,0
+24,213,2025-01-28,Venta,1751.74,Fondo Fijo,transferencia,Cancelado,0
+25,208,2025-02-04,Reintegro,1138.21,Fondo Fijo,Cheque,Completado,0
+26,215,2025-02-02,Devolución,4051.22,Reintegro,Tarjeta Débito,Pendiente,1
+27,205,2025-04-02,Venta,7451.07,Ajuste,transferencia,Pendiente,1
+28,207,2025-03-14,Reintegro,4477.06,Devolución,Tarjeta Débito,Cancelado,0
+29,204,2025-02-09,Ajuste,2767.66,Devolución,Tarjeta Crédito,Pendiente,1
+30,209,2025-02-14,Devolución,3297.30,Venta,Tarjeta Crédito,Completado,0
