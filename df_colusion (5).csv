@@ -1,0 +1,31 @@
+ID_Licitacion,Organismo_Convocante,Objeto,Fecha_Apertura,Fecha_Adjudicacion,Monto_Estimado,Empresa_Ganadora,Ofertas_Presentadas,Monto_Adjudicado,Relacion_Empresas,Ofertas_Similares,Es_Colusion
+1,Perez-Garcia,Servicios de Consultoría,2025-04-04,2025-03-06,56573.49,Vargas Inc,4,50916.140999999996,1,0,1
+2,Sosa-Coronel,Servicios de Consultoría,2025-04-09,2025-02-21,48513.33,Diaz-Gonzalez,5,43661.997,1,0,1
+3,Perez LLC,Obras Menores,2025-01-29,2025-02-04,91115.52,Lopez Inc,6,82003.96800000001,1,0,1
+4,Molina Ltd,Servicios de Consultoría,2025-02-20,2025-04-20,70318.30,"Perez, Sanchez and Hernandez",5,63286.47,0,0,0
+5,"Carrizo, Fernandez and Sosa",Servicios de Consultoría,2025-03-28,2025-03-28,36010.00,"Mendoza, Ramirez and Perez",4,32409.0,0,1,1
+6,"Gomez, Gomez and Gomez",Obras Menores,2025-02-15,2025-04-12,92176.93,Nuñez-Torres,5,82959.237,1,1,1
+7,"Nuñez, Gimenez and Luna",Obras Menores,2025-02-23,2025-01-19,43673.46,Acosta-Chavez,3,39306.114,0,1,1
+8,"Escobar, Paez and Herrera",Suministro de Bienes,2025-01-14,2025-04-19,77820.23,"Benitez, Martin and Flores",5,70038.207,0,0,0
+9,Gomez PLC,Servicios de Consultoría,2025-02-08,2025-01-11,83956.77,Lopez and Sons,2,75561.09300000001,0,1,1
+10,Ruiz-Luna,Suministro de Bienes,2025-02-06,2025-02-06,57375.25,Gonzalez-Martinez,2,51637.725,0,0,0
+11,Garcia-Diaz,Servicios de Consultoría,2025-02-14,2025-01-19,27624.68,Alvarez LLC,5,24862.212,0,0,0
+12,"Torres, Vera and Medina",Servicios de Consultoría,2025-03-20,2025-05-12,53428.60,"Castro, Caceres and Gimenez",2,48085.74,1,0,1
+13,"Lopez, Ledesma and Toledo",Suministro de Bienes,2025-03-03,2025-02-21,25810.34,Molina LLC,4,23229.306,0,1,1
+14,"Perez, Martinez and Ruiz",Servicios de Consultoría,2025-03-21,2025-02-16,9664.46,Chavez-Aguero,6,8698.014,0,1,1
+15,Silva Inc,Suministro de Bienes,2025-02-15,2025-05-04,30247.66,Godoy Ltd,4,27222.894,0,0,0
+16,Velazquez-Villalba,Suministro de Bienes,2025-01-21,2025-02-28,67129.18,Martinez-Castillo,5,60416.261999999995,0,0,0
+17,Fernandez LLC,Obras Menores,2025-03-20,2025-02-18,23992.48,Rodriguez Ltd,5,21593.232,1,0,1
+18,"Velazquez, Gomez and Gonzalez",Suministro de Bienes,2025-03-10,2025-02-25,13619.24,Paz-Caceres,3,12257.316,0,0,0
+19,Lopez-Moyano,Suministro de Bienes,2025-02-11,2025-04-25,13356.03,Villalba Ltd,5,12020.427000000001,0,0,0
+20,Sanchez-Cordoba,Servicios de Consultoría,2025-01-29,2025-02-01,87385.41,Gonzalez Ltd,5,78646.869,0,0,0
+21,"Lopez, Benitez and Rios",Servicios de Consultoría,2025-02-14,2025-04-23,42196.19,"Soria, Roldan and Acosta",4,37976.571,0,0,0
+22,Suarez PLC,Obras Menores,2025-01-23,2025-02-19,84468.07,Gonzalez Inc,2,76021.263,0,0,0
+23,"Ledesma, Sanchez and Sanchez",Servicios de Consultoría,2025-03-01,2025-04-14,95880.42,Gonzalez and Sons,6,86292.378,0,1,1
+24,"Cardozo, Ojeda and Gomez",Obras Menores,2025-01-14,2025-03-18,89356.82,Rios-Barrios,4,80421.138,1,1,1
+25,Ojeda Group,Obras Menores,2025-04-06,2025-02-28,84581.41,Gomez-Sanchez,6,76123.269,0,1,1
+26,"Diaz, Rodriguez and Carrizo",Suministro de Bienes,2025-02-16,2025-02-28,22463.54,"Acuña, Roldan and Suarez",5,20217.186,0,0,0
+27,"Martinez, Silva and Flores",Obras Menores,2025-03-08,2025-02-24,21700.79,Fernandez-Garcia,6,19530.711000000003,1,0,1
+28,"Sanchez, Godoy and Sanchez",Obras Menores,2025-01-14,2025-02-21,75935.13,"Molina, Ponce and Juarez",3,68341.61700000001,1,0,1
+29,"Ramirez, Gonzalez and Perez",Obras Menores,2025-03-23,2025-02-19,28862.48,Rodriguez PLC,2,25976.232,1,0,1
+30,Ruiz Group,Suministro de Bienes,2025-01-03,2025-04-06,38369.43,"Lopez, Lopez and Lucero",5,34532.487,0,1,1
