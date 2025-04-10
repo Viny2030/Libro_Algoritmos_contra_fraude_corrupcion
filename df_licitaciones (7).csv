@@ -1,0 +1,31 @@
+ID_Licitacion,Organismo_Convocante,Objeto,Fecha_Publicacion,Fecha_Cierre,Monto,Empresa_Ganadora,Monto_Adjudicado,Monto_Estimado,Proceso_Seleccion,Participantes,Relacion_Funcionario_Ganador,Es_Irregular
+1,Gonzalez-Nuñez,Mantenimiento,2025-02-04,2025-06-20,24118.65,"Arias, Rodriguez and Sanchez",28942.38,21706.79,Licitación Pública,1,0,1
+2,Alvarez Ltd,Suministro de Equipamiento,2025-02-07,2025-02-08,63914.06,Gomez LLC,76696.87,57522.65,Contratación Directa,3,0,1
+3,"Gonzalez, Sanchez and Vega",Servicios de Consultoría,2025-02-02,2025-05-17,50752.52,Gutierrez Inc,60903.02,45677.27,Contratación Directa,5,0,0
+4,Pereyra-Blanco,Suministro de Equipamiento,2025-03-16,2025-05-31,93773.58,"Vazquez, Ferreyra and Torres",112528.3,84396.22,Licitación Pública,4,0,1
+5,Nuñez-Ruiz,Servicios de Consultoría,2025-03-30,2025-05-25,99007.08,Diaz-Peralta,118808.5,89106.37,Concurso de Precios,2,0,1
+6,"Blanco, Miranda and Soto",Servicios de Consultoría,2025-03-03,2025-04-01,5401.92,"Sanchez, Quiroga and Velazquez",6482.3,4861.73,Licitación Pública,5,0,0
+7,Quiroga PLC,Mantenimiento,2025-03-02,2025-03-27,59792.44,Flores PLC,71750.93,53813.2,Licitación Pública,2,0,1
+8,Gonzalez-Velazquez,Suministro de Equipamiento,2025-01-04,2025-04-08,95333.67,"Campos, Sosa and Escobar",114400.4,85800.3,Contratación Directa,3,0,1
+9,"Nuñez, Gomez and Ramos",Construcción de Obra,2025-02-28,2025-03-04,67557.61,Gonzalez PLC,81069.13,60801.85,Contratación Directa,4,0,1
+10,Gonzalez PLC,Construcción de Obra,2025-01-08,2025-04-01,92788.04,"Mansilla, Coronel and Gomez",111345.65,83509.24,Concurso de Precios,2,0,1
+11,"Quiroga, Juarez and Silva",Servicios de Consultoría,2025-03-21,2025-04-14,93104.34,"Rodriguez, Alvarez and Ramos",111725.21,83793.91,Contratación Directa,2,0,1
+12,"Martinez, Figueroa and Gonzalez",Mantenimiento,2025-02-17,2025-05-20,62033.59,Maidana Inc,74440.31,55830.23,Concurso de Precios,4,0,1
+13,Aguirre-Barrios,Mantenimiento,2025-04-08,2025-05-23,79783.26,"Ferreyra, Martinez and Ruiz",95739.91,71804.93,Contratación Directa,5,0,0
+14,Lopez Group,Mantenimiento,2025-02-24,2025-04-30,94686.30,Ayala-Cordoba,113623.56,85217.67,Concurso de Precios,4,0,1
+15,Medina-Gonzalez,Construcción de Obra,2025-01-26,2025-05-08,95553.77,Martinez-Quiroga,114664.52,85998.39,Concurso de Precios,5,0,0
+16,"Pereyra, Luna and Ramirez",Suministro de Equipamiento,2025-03-16,2025-03-16,15900.80,Sanchez-Lopez,19080.96,14310.72,Licitación Pública,1,0,1
+17,"Ramirez, Lopez and Lopez",Construcción de Obra,2025-02-10,2025-04-30,81979.46,Alvarez LLC,98375.35,73781.51,Contratación Directa,2,0,1
+18,Villalba-Fernandez,Mantenimiento,2025-02-11,2025-03-31,25193.58,"Gonzalez, Romero and Sanchez",30232.3,22674.22,Concurso de Precios,5,0,0
+19,"Fernandez, Paz and Sosa",Servicios de Consultoría,2025-03-07,2025-04-11,99912.56,Gonzalez-Rios,119895.07,89921.3,Contratación Directa,3,1,1
+20,Valdez-Martinez,Mantenimiento,2025-04-07,2025-02-10,25355.29,Soria and Sons,30426.35,22819.76,Contratación Directa,5,0,0
+21,Gutierrez LLC,Construcción de Obra,2025-01-26,2025-03-14,88958.33,Velazquez Ltd,106750.0,80062.5,Concurso de Precios,2,1,1
+22,Gonzalez-Cardozo,Suministro de Equipamiento,2025-04-01,2025-03-23,73449.77,Barrios-Gonzalez,88139.72,66104.79,Concurso de Precios,3,1,1
+23,Gonzalez-Rodriguez,Servicios de Consultoría,2025-03-28,2025-02-08,58206.54,Gonzalez Group,69847.85,52385.89,Concurso de Precios,3,0,1
+24,Acosta-Gonzalez,Mantenimiento,2025-02-21,2025-05-31,32119.38,Guzman-Ruiz,38543.26,28907.44,Contratación Directa,5,1,1
+25,Luna-Acosta,Construcción de Obra,2025-01-21,2025-04-06,36111.01,Ramos PLC,43333.21,32499.91,Concurso de Precios,1,0,1
+26,"Cruz, Ayala and Gomez",Servicios de Consultoría,2025-01-22,2025-03-07,63001.86,Medina-Lopez,75602.23,56701.67,Concurso de Precios,4,0,1
+27,Rodriguez and Sons,Mantenimiento,2025-04-02,2025-03-31,28705.58,Miranda-Rodriguez,34446.7,25835.02,Contratación Directa,1,1,1
+28,Barrios LLC,Mantenimiento,2025-03-27,2025-02-20,34129.28,Ruiz Ltd,40955.14,30716.35,Concurso de Precios,3,0,1
+29,Romero-Castro,Construcción de Obra,2025-03-29,2025-04-26,63564.59,"Gomez, Moyano and Ruiz",76277.51,57208.13,Licitación Pública,5,0,0
+30,"Rios, Blanco and Gutierrez",Construcción de Obra,2025-03-09,2025-02-24,31319.04,"Sosa, Lopez and Ruiz",37582.85,28187.14,Concurso de Precios,2,1,1
