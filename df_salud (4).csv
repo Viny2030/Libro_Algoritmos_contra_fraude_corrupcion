@@ -1,0 +1,31 @@
+ID_Registro,Entidad_Prestadora,Tipo_Servicio,Fecha_Servicio,Medico_Tratante,Paciente,Costo_Declarado,Cobertura_ObraSocial,Diagnostico,Es_Sospechoso
+1,Gonzalez-Perez,Tratamiento,2025-01-20,Sr(a). Francisco Gomez,Dr(a). Tiziano Gonzalez,1590.02,Sí,Consulta Médica,0
+2,Muñoz and Sons,Cirugía,2025-01-21,Lucas Ezequiel Acuña,Dr(a). Valentino Castro,3519.56,Parcial,Cirugía,1
+3,"Romero, Mansilla and Sanchez",Cirugía,2025-01-22,Renzo Malena Ayala,Santiago Nicolas Perez Ponce,4221.71,Parcial,Cirugía,1
+4,Ponce-Gomez,Cirugía,2025-02-18,Sr(a). Santino Alvarez,Sr(a). Octavio Torres,1846.4,Sí,Tratamiento,0
+5,Perez-Lopez,Consulta Médica,2025-01-08,Sr(a). Martín Navarro,Juana Helena Pereyra,2984.19,Parcial,Cirugía,0
+6,Diaz LLC,Estudios Diagnósticos,2025-02-23,Dr(a). Emma Ortiz,Dr(a). Paulina Silva,3151.07,No,Estudios Diagnósticos,1
+7,Soria-Sanchez,Cirugía,2025-02-03,Joaquin Vera Diaz,Sr(a). Jeronimo Farias,4641.47,Parcial,Cirugía,1
+8,Sanchez-Perez,Cirugía,2025-03-22,Dr(a). Alma Franco,Dr(a). Benjamin Ezequiel Godoy,1887.8,Sí,Tratamiento,0
+9,"Blanco, Ortiz and Gomez",Estudios Diagnósticos,2025-01-01,Ian Benjamin Micaela Diaz,Constantino Julia Figueroa,4290.74,Parcial,Tratamiento,1
+10,Silva Inc,Cirugía,2025-04-06,Mia Facundo Castillo,Juan Bautista Romero Cordoba,4531.3,Parcial,Consulta Médica,1
+11,Sosa-Caceres,Estudios Diagnósticos,2025-04-07,Victoria Delfina Sanchez Velazquez,Thiago Joaquin Sanchez,1852.35,Sí,Estudios Diagnósticos,0
+12,"Villalba, Ramirez and Olivera",Cirugía,2025-02-20,Matias Matias Acosta Maidana,Bruno Victoria Fernandez Ayala,2042.87,Sí,Cirugía,0
+13,Gonzalez-Gimenez,Tratamiento,2025-01-11,Lautaro Agustin Arias Romero,Vicente Luciano Gomez,3695.07,Sí,Tratamiento,1
+14,Ramirez PLC,Tratamiento,2025-02-06,Dante Paez Olivera,Zoe Emma Cabrera Gonzalez,3912.15,No,Consulta Médica,1
+15,"Perez, Gomez and Ortiz",Cirugía,2025-02-07,Benjamin Rodriguez,Dr(a). Uma Gonzalez,3458.82,Parcial,Tratamiento,1
+16,Blanco-Sanchez,Estudios Diagnósticos,2025-04-04,Juan Ignacio Mia Gonzalez Aguero,Victoria Malena Franco Pereyra,4950.71,Sí,Estudios Diagnósticos,1
+17,Escobar-Rivero,Cirugía,2025-02-17,Juana Ramirez Castro,Ana Paula Diaz Ruiz,2429.44,Parcial,Consulta Médica,0
+18,Diaz-Suarez,Tratamiento,2025-02-27,Thiago Joaquin Maria Luz Cabrera,Alma Acosta Rodriguez,3031.8,Sí,Consulta Médica,1
+19,"Ruiz, Gonzalez and Ruiz",Cirugía,2025-03-27,Dr(a). Tiziano Valentin Escobar,Santiago Augusto Villalba,3847.24,Parcial,Tratamiento,1
+20,"Torres, Lopez and Maidana",Consulta Médica,2025-02-08,Sr(a). Josefina Ruiz,Mateo Bravo Martinez,1869.48,No,Tratamiento,0
+21,"Sanchez, Martinez and Alvarez",Estudios Diagnósticos,2025-03-13,Francisco Tiziana Soria Gomez,Mateo Alma Jazmin Vega Quiroga,4739.79,Parcial,Tratamiento,1
+22,Gonzalez-Ferreyra,Tratamiento,2025-02-21,Ciro Bautista Farias Alvarez,Isabella Ponce,1142.43,Sí,Cirugía,0
+23,Ramirez LLC,Cirugía,2025-01-23,Santiago Martinez,Santino Martinez Olivera,1320.98,No,Tratamiento,0
+24,"Cruz, Aguirre and Flores",Consulta Médica,2025-03-21,Dr(a). Benjamin Guzman,Sara Camila Chavez Morales,3207.42,Parcial,Consulta Médica,1
+25,Pereyra and Sons,Cirugía,2025-02-07,Dr(a). Martina Cardozo,Julieta Santiago Romero Diaz,4409.77,No,Consulta Médica,1
+26,"Silva, Gonzalez and Roldan",Consulta Médica,2025-02-01,Catalina Joaquin Fernandez,Ramiro Pereyra Benitez,4442.73,Parcial,Tratamiento,1
+27,Rojas Inc,Estudios Diagnósticos,2025-04-03,Helena Cardozo,Pilar Paez,2560.9,Sí,Estudios Diagnósticos,0
+28,"Diaz, Rodriguez and Ledesma",Estudios Diagnósticos,2025-02-21,Benjamin Diaz,Thiago Emanuel Martin Dominguez,3370.21,Sí,Cirugía,1
+29,Gimenez-Valdez,Consulta Médica,2025-03-23,Kiara Bruno Gimenez Rodriguez,Sr(a). Agustina Campos,572.85,No,Estudios Diagnósticos,0
+30,Diaz-Martinez,Cirugía,2025-01-24,Matias Rodriguez Ramirez,Isabella Medina,4365.1,Sí,Cirugía,1
