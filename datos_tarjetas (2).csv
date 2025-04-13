@@ -1,0 +1,31 @@
+ID_Transaccion,Usuario,Monto,Fecha_Hora_Transaccion,Tipo_Transaccion,Tipo_Comercio,Pais,Es_Fraude
+1,Terri Lowe,7786.26,2025-04-13 04:55:21.281701,Transferencia,Cajero,Argentina,0
+2,Sarah Marsh,9272.46,2025-04-12 21:43:21.281718,Transferencia,Electrónicos,Argentina,0
+3,Nicole Caldwell,3340.59,2025-04-13 14:03:21.281722,Compra,Gasolinera,Colombia,0
+4,Nicole Caldwell,8405.22,2025-04-12 20:10:21.281724,Reembolso,Online,Argentina,0
+5,Austin Baker,8985.89,2025-04-12 19:01:21.281726,Reembolso,Joyería,México,0
+6,Scott Velasquez,5474.26,2025-04-13 10:31:21.281728,Reembolso,Online,Chile,0
+7,Kimberly Carter,5382.5,2025-04-13 06:22:21.281730,Reembolso,Online,Argentina,0
+8,Kristen Gross,19.28,2025-04-12 15:00:21.281733,Compra,Supermercado,México,0
+9,Terri Lowe,9654.37,2025-04-13 09:12:21.281736,Pago Servicio,Tienda A,Chile,0
+10,Ronald Thornton,4271.18,2025-04-13 11:31:21.281738,Retiro,Farmacia,Colombia,0
+11,Matthew Tucker,1946.16,2025-04-13 06:00:21.281740,Transferencia,Online,Argentina,0
+12,Terri Lowe,9387.77,2025-04-13 04:41:21.281742,Transferencia,Librería,Chile,1
+13,Christine Walsh,5104.58,2025-04-13 05:03:21.281745,Transferencia,Online,Argentina,0
+14,Tracy Gross,3640.13,2025-04-13 01:22:21.281747,Retiro,Gasolinera,Colombia,1
+15,Terri Lowe,3516.34,2025-04-12 16:12:21.281749,Compra,Restaurante,México,0
+16,Maureen Kramer,6427.03,2025-04-12 17:36:21.281751,Pago Servicio,Cajero,Estados Unidos,0
+17,Brenda Noble,3579.5,2025-04-12 16:33:21.281753,Pago Servicio,Farmacia,México,0
+18,Brenda Noble,9646.96,2025-04-12 14:56:21.281776,Pago Servicio,Supermercado,Argentina,0
+19,Tracy Allen,8034.81,2025-04-12 16:52:21.281778,Reembolso,Tienda A,Argentina,0
+20,Brenda Noble,2853.58,2025-04-12 18:38:21.281787,Pago Servicio,Gasolinera,Argentina,0
+21,Stacy Watson,8830.56,2025-04-13 07:05:21.281789,Compra,Gasolinera,España,0
+22,Becky Smith,8933.36,2025-04-13 00:59:21.281791,Compra,Librería,España,1
+23,Gregory King,6758.78,2025-04-13 01:52:21.281793,Pago Servicio,Farmacia,Colombia,1
+24,Brandon Pope,4822.92,2025-04-13 11:33:21.281795,Pago Servicio,Electrónicos,Estados Unidos,0
+25,Brandon Cisneros,8558.64,2025-04-12 18:47:21.281796,Reembolso,Gasolinera,Estados Unidos,0
+26,Tracy Allen,8966.56,2025-04-13 11:21:21.281799,Reembolso,Joyería,Argentina,0
+27,Deborah Buchanan,533.56,2025-04-13 02:13:21.281800,Compra,Tienda A,México,1
+28,Travis Reeves,8860.47,2025-04-13 05:07:21.281802,Transferencia,Electrónicos,Estados Unidos,1
+29,Joshua Williams,579.33,2025-04-12 22:22:21.281804,Reembolso,Farmacia,Colombia,1
+30,Alfred Garcia,813.76,2025-04-12 18:00:21.281806,Transferencia,Electrónicos,España,0
