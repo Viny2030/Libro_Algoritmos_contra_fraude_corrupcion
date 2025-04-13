@@ -1,0 +1,31 @@
+Tipo,Descripción,Monto,Fecha,Estado
+Transacción Bancaria,Retiro de gran cantidad en efectivo,2860.116622708958,2023-01-01,Investigado
+Transferencia,Compra sospechosa online,205.000797655015,2023-01-02,Validado
+Transacción Bancaria,Transferencia inusual a cuenta desconocida,4219.309634245243,2023-01-03,Validado
+Transacción Bancaria,Denuncia de soborno a funcionario público,2276.28296018034,2023-01-04,Investigado
+Transacción Bancaria,Denuncia de malversación de fondos,2005.9936682089815,2023-01-05,Sospechoso
+Transacción Bancaria,Transferencia inusual a cuenta desconocida,4636.961385679281,2023-01-06,Sospechoso
+Transacción Bancaria,Denuncia de malversación de fondos,3649.9963794892833,2023-01-07,Investigado
+Denuncia,Transferencia a paraíso fiscal,1666.3768055888852,2023-01-08,Investigado
+Transacción Bancaria,Denuncia de soborno a funcionario público,2873.697673306727,2023-01-09,Investigado
+Transacción Bancaria,Denuncia de soborno a funcionario público,2628.129587127827,2023-01-10,Sospechoso
+Transacción Bancaria,Transferencia inusual a cuenta desconocida,4807.801520529278,2023-01-11,Investigado
+Transferencia,Denuncia de soborno a funcionario público,4230.442550956849,2023-01-12,Sospechoso
+Denuncia,Compra sospechosa online,3749.234545180035,2023-01-13,Validado
+Transacción Bancaria,Denuncia de soborno a funcionario público,2721.476055325945,2023-01-14,Validado
+Transacción Bancaria,Denuncia de malversación de fondos,2954.418270036049,2023-01-15,Validado
+Transacción Bancaria,Denuncia de malversación de fondos,4828.013770957483,2023-01-16,Sospechoso
+Transacción Bancaria,Denuncia de malversación de fondos,3054.8195260490893,2023-01-17,Sospechoso
+Transacción Bancaria,Denuncia de malversación de fondos,1416.1959510115896,2023-01-18,Sospechoso
+Transacción Bancaria,Compra sospechosa online,1516.553853235208,2023-01-19,Validado
+Transacción Bancaria,Retiro de gran cantidad en efectivo,868.0713483618623,2023-01-20,Sospechoso
+Transacción Bancaria,Transferencia a paraíso fiscal,127.40021336890996,2023-01-21,Investigado
+Transacción Bancaria,Transferencia inusual a cuenta desconocida,2145.8373294965295,2023-01-22,Sospechoso
+Transacción Bancaria,Denuncia de malversación de fondos,2004.66351496907,2023-01-23,Validado
+Transacción Bancaria,Denuncia de soborno a funcionario público,1502.7664648542886,2023-01-24,Investigado
+Transacción Bancaria,Denuncia de malversación de fondos,119.69512243966805,2023-01-25,Investigado
+Transacción Bancaria,Denuncia de soborno a funcionario público,1034.2699002395857,2023-01-26,Investigado
+Transacción Bancaria,Transferencia a paraíso fiscal,3571.142666105817,2023-01-27,Sospechoso
+Transacción Bancaria,Transferencia a paraíso fiscal,3961.368925629468,2023-01-28,Investigado
+Transacción Bancaria,Transferencia a paraíso fiscal,3049.5018751660064,2023-01-29,Investigado
+Transacción Bancaria,Denuncia de soborno a funcionario público,4635.189348641077,2023-01-30,Sospechoso
