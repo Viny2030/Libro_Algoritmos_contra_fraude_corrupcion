@@ -1,0 +1,31 @@
+ID_Licitacion,Organismo_Convocante,Objeto,Fecha_Publicacion,Fecha_Cierre,Monto,Empresa_Ganadora,Monto_Adjudicado,Monto_Estimado,Proceso_Seleccion,Participantes,Relacion_Funcionario_Ganador,Es_Irregular
+1,"Acuña, Moyano and Dominguez",Servicios de Consultoría,2025-02-18,2025-02-19,34362.46,Bustos-Cruz,41234.95,30926.21,Licitación Pública,1,0,0
+2,Avila Group,Servicios de Consultoría,2025-01-03,2025-03-07,58637.96,Diaz-Alvarez,70365.55,52774.16,Contratación Directa,1,0,0
+3,Fernandez PLC,Suministro de Equipamiento,2025-03-10,2025-05-20,22974.20,Moyano-Romero,27569.04,20676.78,Concurso de Precios,5,0,1
+4,Valdez-Villalba,Construcción de Obra,2025-04-11,2025-05-04,77202.38,Sosa-Martin,92642.86,69482.14,Contratación Directa,2,0,0
+5,Fernandez PLC,Servicios de Consultoría,2025-03-06,2025-05-16,23427.63,"Gutierrez, Torres and Caceres",28113.16,21084.87,Licitación Pública,1,0,0
+6,Bustos and Sons,Mantenimiento,2025-02-02,2025-04-28,79313.30,"Molina, Sanchez and Bustos",95175.96,71381.97,Contratación Directa,3,0,0
+7,Aguirre LLC,Construcción de Obra,2025-02-23,2025-05-01,46563.92,Gomez Group,55876.7,41907.53,Concurso de Precios,3,1,1
+8,Molina Group,Servicios de Consultoría,2025-03-31,2025-02-24,83535.98,"Dominguez, Moreno and Rios",100243.18,75182.38,Contratación Directa,1,1,1
+9,Gomez PLC,Servicios de Consultoría,2025-03-09,2025-06-07,45357.39,"Rojas, Martinez and Peralta",54428.87,40821.65,Concurso de Precios,1,1,1
+10,Ramos-Morales,Servicios de Consultoría,2025-02-05,2025-04-21,36417.51,Lopez PLC,43701.01,32775.76,Licitación Pública,1,0,0
+11,"Fernandez, Caceres and Arias",Construcción de Obra,2025-04-10,2025-05-27,95392.41,Miranda-Ruiz,114470.89,85853.17,Concurso de Precios,3,0,0
+12,Martinez-Rodriguez,Suministro de Equipamiento,2025-01-19,2025-05-13,39250.91,"Diaz, Soto and Martin",47101.09,35325.82,Contratación Directa,5,0,1
+13,"Gimenez, Gonzalez and Soria",Servicios de Consultoría,2025-01-04,2025-04-22,37435.85,Vazquez-Soto,44923.02,33692.26,Contratación Directa,1,1,1
+14,Duarte-Medina,Mantenimiento,2025-01-15,2025-04-13,29204.81,Leiva-Garcia,35045.77,26284.33,Licitación Pública,4,0,1
+15,Diaz Inc,Construcción de Obra,2025-02-03,2025-03-02,95077.23,Sosa-Muñoz,114092.68,85569.51,Licitación Pública,4,1,1
+16,"Paez, Lucero and Figueroa",Servicios de Consultoría,2025-02-14,2025-07-08,93557.49,Moyano-Rodriguez,112268.99,84201.74,Concurso de Precios,3,0,0
+17,"Perez, Fernandez and Martinez",Mantenimiento,2025-03-22,2025-04-29,53663.26,Martinez-Medina,64395.91,48296.93,Contratación Directa,4,0,1
+18,"Alvarez, Valdez and Cruz",Mantenimiento,2025-01-18,2025-06-14,68246.62,"Correa, Villalba and Romero",81895.94,61421.96,Concurso de Precios,4,1,1
+19,Diaz-Medina,Servicios de Consultoría,2025-03-12,2025-04-01,82149.54,Ramos PLC,98579.45,73934.59,Licitación Pública,5,0,1
+20,Alvarez PLC,Servicios de Consultoría,2025-01-03,2025-03-16,20391.78,Garcia PLC,24470.14,18352.6,Contratación Directa,5,0,1
+21,Medina-Valdez,Suministro de Equipamiento,2025-04-06,2025-03-21,49868.05,Herrera-Chavez,59841.66,44881.25,Concurso de Precios,5,0,1
+22,"Moreno, Perez and Paez",Servicios de Consultoría,2025-03-21,2025-05-21,45293.51,"Rodriguez, Silva and Garcia",54352.21,40764.16,Licitación Pública,3,0,0
+23,Cruz-Bustos,Suministro de Equipamiento,2025-02-18,2025-05-14,7710.29,Gonzalez Ltd,9252.35,6939.26,Licitación Pública,4,1,1
+24,Sosa-Chavez,Construcción de Obra,2025-01-19,2025-04-30,35974.53,"Quiroga, Nuñez and Fernandez",43169.44,32377.08,Concurso de Precios,4,0,1
+25,Flores LLC,Servicios de Consultoría,2025-01-19,2025-03-26,79693.63,Vega Inc,95632.36,71724.27,Concurso de Precios,5,0,1
+26,Ramirez Inc,Suministro de Equipamiento,2025-03-19,2025-04-02,73977.28,"Fernandez, Lucero and Sosa",88772.74,66579.55,Licitación Pública,2,0,0
+27,Vargas PLC,Mantenimiento,2025-01-13,2025-04-18,66773.91,Vega and Sons,80128.69,60096.52,Concurso de Precios,3,0,0
+28,Godoy-Nuñez,Mantenimiento,2025-02-16,2025-04-12,15264.96,"Gonzalez, Farias and Perez",18317.95,13738.46,Licitación Pública,3,0,0
+29,"Romero, Garcia and Ayala",Suministro de Equipamiento,2025-03-23,2025-03-21,41464.74,Hernandez Ltd,49757.69,37318.27,Licitación Pública,5,1,1
+30,Paz Group,Suministro de Equipamiento,2025-04-02,2025-06-27,77981.03,Torres-Rios,93577.24,70182.93,Licitación Pública,5,0,1
