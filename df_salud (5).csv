@@ -1,0 +1,31 @@
+ID_Registro,Entidad_Prestadora,Tipo_Servicio,Fecha_Servicio,Medico_Tratante,Paciente,Costo_Declarado,Cobertura_ObraSocial,Diagnostico,Cirugia,Es_Sospechoso
+1,"Acosta, Ruiz and Ponce",Cirugía,2025-04-05,Tiziano Benjamin Gomez Diaz,Sr(a). Valentino Juarez,3193.86,No,Estudios Diagnósticos,Sí,1
+2,Romero-Rios,Tratamiento,2025-03-14,Olivia Lautaro Nicolas Sanchez Rodriguez,Dante Uma Nuñez,1119.84,No,Consulta Médica,No,0
+3,Soto-Alvarez,Tratamiento,2025-01-18,Santino Emma Gonzalez,Mateo Bruno Bravo Sosa,1179.57,Parcial,Estudios Diagnósticos,No,0
+4,Sanchez-Ruiz,Cirugía,2025-01-05,Isabella Jazmín Rodriguez,Sr(a). Santino Gabriel Navarro,4661.69,Parcial,Tratamiento,Sí,1
+5,"Ortiz, Paz and Martinez",Tratamiento,2025-03-04,Santino Martina Ramirez,Francisco Gonzalez Moreno,2280.77,Parcial,Consulta Médica,Sí,0
+6,"Perez, Sosa and Lopez",Cirugía,2025-01-14,Priscila Guzman,Emma Alvarez Herrera,4577.73,Parcial,Cirugía,No,1
+7,"Gonzalez, Rivero and Dominguez",Consulta Médica,2025-01-03,Dylan Guadalupe Martinez Ruiz,Alexander Diaz Sanchez,2282.15,Sí,Consulta Médica,Sí,0
+8,Sanchez-Navarro,Consulta Médica,2025-01-12,Agustina Abril Gonzalez,Martina Acosta,3576.87,No,Estudios Diagnósticos,No,1
+9,"Sosa, Rodriguez and Ledesma",Estudios Diagnósticos,2025-01-01,Bautista Bautista Vargas Vera,Samuel Gonzalez Mansilla,2369.76,Sí,Cirugía,Sí,0
+10,Gonzalez-Lopez,Cirugía,2025-03-05,Octavio Mateo Benjamin Alvarez,Sr(a). Angelina Garcia,4738.32,Sí,Tratamiento,No,1
+11,Medina Group,Cirugía,2025-01-12,Ciro Isabella Godoy Cabrera,Lourdes Valentina Ponce Morales,2016.39,No,Tratamiento,No,0
+12,Cardozo-Fernandez,Cirugía,2025-04-02,Thiago Valentin Alvarez,Rosario Olivia Barrios,2580.41,Parcial,Cirugía,No,0
+13,Fernandez-Molina,Tratamiento,2025-04-02,Simon Rodriguez Aguirre,Martina Alejo Garcia,1838.76,No,Estudios Diagnósticos,No,0
+14,Martin-Gutierrez,Cirugía,2025-03-16,Paloma Julian Figueroa Rojas,Bautista Fernandez Correa,1513.02,No,Cirugía,Sí,1
+15,Maidana and Sons,Cirugía,2025-04-06,Dr(a). Renata Correa,Martina Benjamin Fernandez,3281.75,Parcial,Estudios Diagnósticos,No,1
+16,Paz-Diaz,Cirugía,2025-02-16,Jeremias Olivia Chavez,Mora Gomez,965.08,No,Estudios Diagnósticos,No,0
+17,"Perez, Garcia and Soria",Cirugía,2025-01-20,Sr(a). Lola Gomez,Franco Felipe Alvarez,3946.89,Parcial,Consulta Médica,Sí,1
+18,Diaz LLC,Estudios Diagnósticos,2025-01-17,Francisco Ruiz Ferreyra,Luz Milagros Martinez,1775.68,Sí,Estudios Diagnósticos,No,0
+19,Medina-Gonzalez,Estudios Diagnósticos,2025-03-07,Maria Guadalupe Flores,Juliana Francesca Rivero Pereyra,1841.51,Sí,Consulta Médica,No,0
+20,Gomez Inc,Consulta Médica,2025-01-05,Sr(a). Catalina Ojeda,Gabriel Pedro Ruiz,597.43,Parcial,Consulta Médica,Sí,0
+21,Olivera-Barrios,Estudios Diagnósticos,2025-01-24,Manuel Castillo,Emma Lopez,866.02,Sí,Tratamiento,No,0
+22,"Villalba, Gonzalez and Caceres",Cirugía,2025-03-27,Mia Valentina Juan Francisco Toledo,Dr(a). Sofia Suarez,4362.13,No,Tratamiento,Sí,1
+23,Sosa-Escobar,Cirugía,2025-01-03,Lorenzo Suarez,Emma Gutierrez Lopez,4825.52,No,Tratamiento,No,1
+24,Barrios-Morales,Cirugía,2025-01-18,Bianca Duarte Gonzalez,Valentina  Franco Vega,2051.21,Parcial,Consulta Médica,No,0
+25,Gonzalez Group,Tratamiento,2025-03-11,Ciro Benjamin Juan Sebastian Benitez Sosa,Dr(a). Martina Arias,3639.25,Parcial,Cirugía,Sí,1
+26,Pereyra PLC,Cirugía,2025-02-03,Sr(a). Sofia Sanchez,Juan Bautista Morales Herrera,3757.33,Parcial,Consulta Médica,Sí,1
+27,Rodriguez Ltd,Estudios Diagnósticos,2025-03-08,Amparo Sofia Muñoz Villalba,Valentino Dylan Ezequiel Bustos Carrizo,3118.76,Parcial,Estudios Diagnósticos,No,1
+28,Roldan PLC,Consulta Médica,2025-01-13,Ana Paula Luciano Quiroga,Santino Gabriel Valentin Ortiz,4545.19,No,Tratamiento,No,1
+29,Luna Inc,Consulta Médica,2025-01-05,Sr(a). Guadalupe Coronel,Emilia Diaz,3725.82,Parcial,Estudios Diagnósticos,Sí,1
+30,"Avila, Soria and Moreno",Tratamiento,2025-02-03,Candela Tiziano Valentin Perez Suarez,Sr(a). Delfina Romero,4094.42,Parcial,Estudios Diagnósticos,No,1
