@@ -1,0 +1,31 @@
+ID_Contrato,Organismo_Contratante,Proveedor,Descripcion_Servicio_Bien,Fecha_Firma,Monto_Inicial,Plazo_Inicial_Dias,Estado_Contrato,Monto_Final,Plazo_Final_Dias,Motivo_Mayor_Costo,Numero_Modificaciones,Es_Sospechoso,Diferencia_Porcentual_Monto
+1,Franco PLC,Muñoz Group,bien consumo,2025-02-18,6153.73,154,Rescindido,7384,272,Cambio_Alcance,2,0,19.992
+2,"Castillo, Fernandez and Lopez",Figueroa Inc,muebles,2025-02-23,22862.36,66,Finalizado,27434,112,Cambio_Alcance,2,0,19.996
+3,"Lopez, Flores and Coronel","Medina, Garcia and Fernandez",instalaciones,2025-01-26,40396.78,197,Finalizado,48476,67,Ninguno,3,0,20.0
+4,Acuña LLC,"Martinez, Alvarez and Gonzalez",muebles,2025-01-31,26100.29,82,Prorrogado,31320,669,Imprevistos,3,0,19.999
+5,Gonzalez-Lopez,Lopez-Vega,bien consumo,2025-01-03,37187.84,174,Prorrogado,44625,92,Cambio_Alcance,3,0,19.999
+6,"Correa, Garcia and Quiroga",Duarte-Nuñez,instalaciones,2025-01-01,27035.08,167,Vigente,32442,590,Imprevistos,1,0,20.0
+7,Moreno-Arias,Medina-Molina,bien consumo,2025-02-14,90879.88,311,Finalizado,109055,559,Ninguno,1,0,19.999
+8,Lopez-Bustos,Gimenez Inc,bien consumo,2025-02-02,25269.54,246,Finalizado,30323,190,Ninguno,2,0,19.998
+9,"Martinez, Gomez and Ruiz","Sosa, Vazquez and Carrizo",software,2025-02-04,36307.8,301,Rescindido,43569,107,Cambio_Alcance,1,0,19.999
+10,"Ledesma, Ortiz and Lopez",Rios-Gimenez,software,2025-01-15,40049.53,333,Finalizado,48059,445,Modificaciones,3,0,19.999
+11,Garcia-Ramirez,Romero-Vera,bien consumo,2025-02-26,20498.98,165,Vigente,24598,211,Modificaciones,2,0,19.996
+12,Herrera PLC,"Figueroa, Rodriguez and Rojas",muebles,2025-04-02,75379.22,33,Finalizado,90455,314,Ninguno,1,0,20.0
+13,Lopez and Sons,Villalba-Medina,instalaciones,2025-03-24,67770.71,134,Rescindido,81324,551,Ninguno,2,0,19.999
+14,Castro Ltd,Muñoz Inc,software,2025-01-06,48749.09,58,Rescindido,58498,703,Modificaciones,0,0,19.998
+15,"Gimenez, Torres and Ferreyra",Sanchez-Navarro,software,2025-02-16,40816.62,49,Finalizado,48979,703,Ninguno,2,0,19.998
+16,Ramos-Diaz,Ramirez-Alvarez,bien consumo,2025-01-24,18589.58,215,Vigente,22307,136,Ninguno,2,0,19.997
+17,Diaz-Garcia,"Sanchez, Ferreyra and Paez",muebles,2025-03-05,79811.49,222,Vigente,95773,45,Modificaciones,3,1,19.999
+18,Moreno Ltd,"Sanchez, Rios and Maidana",bien consumo,2025-01-10,93565.54,65,Finalizado,112278,208,Modificaciones,1,0,19.999
+19,Soto PLC,Villalba-Gonzalez,software,2025-02-22,71217.89,187,Prorrogado,85461,173,Ninguno,3,1,19.999
+20,Pereyra and Sons,Luna-Herrera,instalaciones,2025-02-17,61728.23,54,Prorrogado,74073,660,Imprevistos,2,0,19.999
+21,Velazquez-Gomez,"Vega, Silva and Pereyra",bien consumo,2025-03-19,55408.28,195,Prorrogado,66489,40,Cambio_Alcance,0,0,19.998
+22,"Rodriguez, Gomez and Alvarez",Fernandez-Diaz,software,2025-04-12,50992.41,298,Vigente,61190,599,Ninguno,2,0,19.998
+23,"Fernandez, Garcia and Gomez",Molina Group,muebles,2025-04-04,14804.01,363,Rescindido,17764,232,Cambio_Alcance,3,0,19.995
+24,Rodriguez Ltd,"Molina, Fernandez and Bravo",instalaciones,2025-01-21,66749.94,301,Finalizado,80099,442,Imprevistos,3,1,19.999
+25,Benitez-Perez,Ledesma Inc,instalaciones,2025-01-09,59155.92,313,Rescindido,70987,350,Cambio_Alcance,2,0,20.0
+26,Villalba-Rodriguez,Gomez-Soto,bien consumo,2025-02-07,10894.57,205,Finalizado,13073,397,Ninguno,2,0,19.996
+27,"Quiroga, Paz and Rodriguez","Godoy, Morales and Dominguez",software,2025-01-14,64788.53,359,Rescindido,77746,467,Ninguno,3,1,20.0
+28,Torres LLC,Lopez-Moreno,bien consumo,2025-03-27,69796.76,60,Vigente,83756,694,Ninguno,3,1,20.0
+29,Coronel PLC,"Cordoba, Ayala and Godoy",software,2025-03-29,60629.95,219,Vigente,72755,639,Imprevistos,2,0,19.998
+30,"Rodriguez, Peralta and Gimenez",Martinez-Benitez,bien consumo,2025-03-30,74653.84,135,Rescindido,89584,467,Imprevistos,3,1,19.999
