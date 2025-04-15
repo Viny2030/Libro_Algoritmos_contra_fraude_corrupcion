@@ -1,0 +1,31 @@
+ID_Proyecto,Organismo_Contratante,Empresa_Constructora,Tipo_Obra,Fecha_Inicio,Fecha_Fin_Estimada,Monto_Contrato,Estado_Obra,Plazo_Ejecucion_Dias,Adjudicacion_Unica,Modificaciones_Contrato,Avance_Obra_Porcentaje,Es_Sospechoso
+1,Acosta-Torres,Fernandez-Bustos,Infraestructura,2025-02-06,2025-05-09,8909255.93,Demorada,264,0,1,11.19,0
+2,Ruiz-Vargas,Martinez PLC,Vial,2025-02-23,2025-05-10,9390544.09,Suspendida,243,1,1,36.16,0
+3,Juarez-Acosta,Gonzalez PLC,Vial,2025-04-14,2025-10-25,8505509.78,Suspendida,438,0,2,10.71,0
+4,"Gonzalez, Alvarez and Gomez",Medina-Pereyra,Vial,2025-01-14,2026-07-25,3678416.51,En Curso,718,1,1,93.48,0
+5,Fernandez LLC,Figueroa Group,Vial,2025-01-22,2026-08-31,7919025.17,Demorada,317,1,1,94.65,0
+6,Garcia Group,"Carrizo, Sosa and Martinez",Vial,2025-01-18,2026-05-09,88456.54,Demorada,247,0,1,7.76,0
+7,Franco and Sons,Correa Ltd,Edificación,2025-01-19,2025-12-17,8260336.58,Demorada,204,0,2,47.8,0
+8,Soto LLC,"Herrera, Toledo and Lopez",Edificación,2025-01-27,2026-09-16,3978640.86,En Curso,284,1,2,34.34,0
+9,Ruiz Group,"Rios, Lopez and Muñoz",Edificación,2025-04-03,2025-07-31,7177744.68,Demorada,366,1,3,52.73,1
+10,Rodriguez LLC,Sanchez-Cabrera,Infraestructura,2025-03-08,2026-07-14,9089956.73,Demorada,376,1,4,12.91,1
+11,Martinez-Pereyra,"Torres, Ledesma and Perez",Hidráulica,2025-03-21,2026-11-06,9065700.46,En Curso,39,0,1,59.9,0
+12,Ramirez Inc,Fernandez-Martin,Hidráulica,2025-03-25,2026-11-06,7917314.76,Demorada,570,0,3,99.48,1
+13,Diaz-Farias,Ledesma-Fernandez,Vial,2025-02-19,2026-02-26,4634679.2,Finalizada,235,1,1,51.45,0
+14,Perez-Peralta,Ojeda-Sosa,Hidráulica,2025-03-23,2026-11-17,6196212.49,Suspendida,423,1,2,65.04,0
+15,"Castro, Rios and Guzman",Cabrera-Fernandez,Infraestructura,2025-04-03,2027-01-24,1812181.58,Finalizada,575,1,3,91.85,1
+16,Cardozo-Ledesma,Maidana-Herrera,Infraestructura,2025-03-11,2025-03-12,1626523.07,En Curso,303,1,2,13.08,0
+17,Garcia-Velazquez,Diaz-Sanchez,Vial,2025-02-07,2026-04-03,5652251.48,Finalizada,380,1,1,46.37,0
+18,"Moreno, Mansilla and Maidana",Chavez-Arias,Infraestructura,2025-03-16,2026-05-12,8164908.78,Finalizada,51,1,0,47.49,0
+19,Flores-Soria,"Perez, Garcia and Flores",Edificación,2025-01-06,2026-10-19,246170.25,Demorada,706,0,4,70.14,0
+20,Gonzalez LLC,Alvarez-Acosta,Vial,2025-01-19,2026-01-31,5189626.08,Finalizada,673,0,0,14.31,0
+21,"Ortiz, Miranda and Ramirez",Ferreyra-Fernandez,Vial,2025-04-06,2026-07-10,4524775.47,En Curso,652,0,3,0.97,1
+22,"Rojas, Gonzalez and Soto",Torres PLC,Infraestructura,2025-02-18,2025-08-02,6349250.31,Finalizada,324,0,2,28.86,0
+23,Molina Group,Avila Group,Hidráulica,2025-01-08,2027-01-31,6492551.31,En Curso,688,1,1,49.69,0
+24,Roldan Group,Juarez Ltd,Edificación,2025-02-26,2026-10-01,7890275.51,Finalizada,256,0,1,6.77,0
+25,Fernandez-Maidana,Torres LLC,Vial,2025-01-31,2026-05-06,6208550.18,En Curso,599,0,2,47.54,0
+26,Morales Group,"Gimenez, Benitez and Perez",Hidráulica,2025-01-21,2026-05-18,5411996.6,Demorada,53,1,3,44.92,1
+27,Fernandez-Rodriguez,Duarte Inc,Edificación,2025-01-11,2025-08-05,4458313.89,En Curso,341,1,4,99.22,1
+28,"Avila, Rodriguez and Gimenez",Diaz-Soto,Edificación,2025-02-23,2026-03-22,225704.33,Finalizada,610,0,2,93.44,0
+29,Garcia Group,Vargas LLC,Infraestructura,2025-03-12,2025-12-05,3408710.5,Demorada,32,1,4,71.88,1
+30,"Ramirez, Castillo and Romero",Martinez Ltd,Edificación,2025-04-03,2026-06-30,2086433.08,En Curso,144,1,2,72.42,0
