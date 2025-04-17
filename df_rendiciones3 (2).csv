@@ -1,0 +1,31 @@
+ID_Rendicion,Fecha_Presentacion,Empleado,Departamento,Tipo_Gasto,Descripcion,Monto,Justificante_Adjunto,Estado_Aprobacion,Es_Sospechoso
+1,2024-12-06,Lola Josefina Maldonado Lucero,Ventas,Almuerzo,viaticos,26127.47,No,Aprobado,0
+2,2024-05-20,Santiago Maidana Mendoza,Compras,Transporte,otros,40589.42,Sí,Pendiente,0
+3,2024-07-07,Sr(a). Thiago Valentin Villalba,Compras,Material de Oficina,viaticos,41524.71,Sí,Aprobado,0
+4,2024-07-18,Sr(a). Lucio Aguirre,Compras,Transporte,otros,39202.13,Sí,Pendiente,0
+5,2024-05-06,Bianca Quiroga,Marketing,Almuerzo,gastos_generales,43671.66,No,Aprobado,0
+6,2024-11-12,Ivan Ramirez Gimenez,Marketing,Almuerzo,viaticos,47468.73,Sí,Pendiente,0
+7,2025-01-16,Sr(a). Lorenzo Navarro,Ventas,Viáticos,gastos_generales,20243.11,Sí,Rechazado,1
+8,2024-10-03,Dr(a). Julia Arias,Marketing,Viáticos,gastos_comida,22480.58,Sí,Aprobado,0
+9,2024-08-18,Dr(a). Santino Ezequiel Nuñez,Finanzas,Almuerzo,gastos_comida,31583.27,No,Aprobado,0
+10,2024-05-03,Thiago Flores Molina,Finanzas,Transporte,gastos_generales,2978.39,Sí,Aprobado,0
+11,2024-10-25,Juan Bautista Thiago Godoy Escobar,Marketing,Transporte,viaticos,32803.62,No,Pendiente,0
+12,2024-09-09,Dr(a). Morena Jazmin Medina,Marketing,Otros,gastos_comida,23083.9,Sí,Pendiente,0
+13,2024-05-31,Valentina Malena Diaz Carrizo,Ventas,Otros,otros,36912.86,Sí,Rechazado,1
+14,2024-05-29,Dr(a). Alejo Franco,RRHH,Transporte,viaticos,28252.61,Sí,Pendiente,0
+15,2024-10-17,Dr(a). Martina Gonzalez,Compras,Viáticos,otros,45313.71,Sí,Rechazado,1
+16,2024-10-20,Dr(a). Emma Paez,Compras,Material de Oficina,otros,8677.4,Sí,Rechazado,1
+17,2024-07-26,Emma Catalina Rodriguez Sosa,Finanzas,Almuerzo,viaticos,18857.87,Sí,Rechazado,1
+18,2024-06-15,Candelaria Lara Carrizo Rodriguez,Ventas,Viáticos,viaticos,46626.89,No,Pendiente,0
+19,2025-04-04,Lautaro Ezequiel Agostina Benitez Ojeda,Compras,Material de Oficina,otros,49644.17,Sí,Pendiente,0
+20,2024-08-11,Micaela Dante Ruiz Romero,Finanzas,Viáticos,otros,25288.12,Sí,Pendiente,0
+21,2024-11-07,Tomas Francesca Castillo,RRHH,Otros,viaticos,43377.94,Sí,Pendiente,0
+22,2025-02-02,Lucas Barrios,Compras,Almuerzo,gastos_generales,25650.18,Sí,Aprobado,0
+23,2024-10-04,Catalina Juan Ignacio Paez,Ventas,Transporte,gastos_generales,40327.98,Sí,Rechazado,1
+24,2024-07-03,Maria Emilia Santino Perez,RRHH,Viáticos,gastos_comida,15528.71,Sí,Aprobado,0
+25,2025-02-09,Dr(a). Martina Mendez,Compras,Transporte,gastos_generales,15172.7,Sí,Aprobado,0
+26,2024-10-16,Valentina Castillo,Finanzas,Viáticos,gastos_generales,29783.99,Sí,Aprobado,0
+27,2025-01-28,Renzo Valdez Gonzalez,Marketing,Viáticos,gastos_generales,30248.22,No,Rechazado,1
+28,2025-01-13,Zoe Valentina Ruiz Cruz,RRHH,Almuerzo,viaticos,1282.63,No,Pendiente,0
+29,2024-10-30,Lara Diaz Perez,Marketing,Viáticos,viaticos,11833.77,Sí,Aprobado,0
+30,2024-10-08,Jeremias Paulina Herrera,Ventas,Transporte,viaticos,2053.27,Sí,Pendiente,0
