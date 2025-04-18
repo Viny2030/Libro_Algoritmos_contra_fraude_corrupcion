@@ -1,0 +1,31 @@
+ID_Rendicion,Fecha_Presentacion,Empleado,Departamento,Tipo_Gasto,Descripcion,Monto,Justificante_Adjunto,Estado_Aprobacion,Es_Sospechoso
+1,2024-10-07,Mateo Gonzalez Gutierrez,Compras,Viáticos,otros,9329.81,Sí,Pendiente,0
+2,2024-12-07,Emma Lourdes Gonzalez Fernandez,Finanzas,Viáticos,gastos_generales,42321.92,Sí,Pendiente,0
+3,2025-01-13,Salvador Federico Ojeda,Compras,Material de Oficina,otros,43760.4,Sí,Rechazado,1
+4,2024-08-05,Ian Benjamin Blanco,RRHH,Viáticos,gastos_comida,47734.83,Sí,Rechazado,1
+5,2024-05-04,Valentina Matilda Mansilla,Marketing,Transporte,otros,43229.55,No,Rechazado,1
+6,2024-08-09,Sr(a). Benjamin Villalba,RRHH,Viáticos,gastos_comida,21301.86,Sí,Rechazado,1
+7,2025-02-02,Gonzalo Thiago Nicolas Romero Martinez,Finanzas,Almuerzo,gastos_comida,31056.58,Sí,Rechazado,1
+8,2024-09-18,Valentina Jazmin Renata Perez Romero,RRHH,Material de Oficina,gastos_generales,39345.91,Sí,Aprobado,0
+9,2024-10-07,Luca Gomez,Finanzas,Transporte,gastos_comida,29387.06,Sí,Pendiente,0
+10,2024-12-23,Sr(a). Lola Moyano,Compras,Viáticos,otros,10435.7,Sí,Rechazado,1
+11,2024-11-05,Nina Gonzalez Gonzalez,Ventas,Almuerzo,viaticos,41176.64,No,Aprobado,0
+12,2025-01-12,Dr(a). Benjamin Correa,Marketing,Almuerzo,viaticos,31890.8,Sí,Aprobado,0
+13,2024-11-03,Sr(a). Lucía Rodriguez,Marketing,Material de Oficina,viaticos,39248.54,No,Pendiente,0
+14,2025-03-24,Ludmila Gimenez Perez,Marketing,Otros,viaticos,10299.06,Sí,Aprobado,0
+15,2025-04-07,Paula Malena Ruiz,Ventas,Material de Oficina,otros,9637.65,Sí,Aprobado,0
+16,2024-06-12,Valentina Jeremias Cardozo,Compras,Transporte,otros,19569.57,Sí,Rechazado,1
+17,2024-07-31,Dr(a). Santiago Suarez,Compras,Transporte,gastos_comida,8106.37,No,Rechazado,1
+18,2025-04-02,Charo Ramirez,Compras,Transporte,viaticos,29237.89,Sí,Aprobado,0
+19,2024-10-17,Santino Santino Garcia,Compras,Almuerzo,viaticos,7414.13,Sí,Aprobado,0
+20,2024-10-02,Martina Bautista Rodriguez Ponce,Ventas,Material de Oficina,otros,17261.16,Sí,Pendiente,0
+21,2025-02-24,Dr(a). Felipe Maldonado,RRHH,Material de Oficina,viaticos,1621.01,Sí,Aprobado,0
+22,2025-02-27,Martina Alvarez Suarez,Marketing,Viáticos,viaticos,23269.1,Sí,Rechazado,1
+23,2024-11-16,Dr(a). Valentina Rodriguez,RRHH,Otros,gastos_comida,10858.65,No,Aprobado,0
+24,2024-04-25,Franco Isabella Nuñez,Ventas,Material de Oficina,viaticos,35879.8,Sí,Rechazado,1
+25,2025-01-02,Thiago Benjamin Martinez,Finanzas,Otros,gastos_comida,43610.8,No,Rechazado,1
+26,2024-07-08,Francisco Luciano Alvarez,Finanzas,Material de Oficina,otros,7958.61,Sí,Aprobado,0
+27,2025-04-03,Dr(a). Isabella Godoy,Finanzas,Transporte,otros,37773.36,Sí,Pendiente,0
+28,2024-10-06,Delfina Mateo Rodriguez Escobar,Ventas,Viáticos,otros,5923.97,Sí,Aprobado,0
+29,2024-06-23,Alma Lucía  Juarez,Ventas,Transporte,gastos_comida,11600.96,Sí,Pendiente,0
+30,2024-04-20,Nahiara Jazmin Caceres,Marketing,Transporte,gastos_comida,37992.05,Sí,Aprobado,0
